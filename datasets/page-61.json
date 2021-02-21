@@ -1,6 +1,250 @@
 {
   "results": [
     {
+      "id": 33727,
+      "name": "Эра динозавров",
+      "type": "film",
+      "age": "12+",
+      "quality": "SD",
+      "origin_name": "Age of Dinosaurs",
+      "year": 2013,
+      "activate_time": "2020-07-16 03:47:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "2.9",
+      "kinopoisk_id": "721067",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/3/7/2/7/0/0/0/0/0/610x900_33727.jpg",
+      "genre": {
+        "9": "Приключения",
+        "11": "Фантастика",
+        "17": "Боевик",
+        "13": "Триллер"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 33556,
+      "name": "Банзай, режиссер!",
+      "type": "film",
+      "age": "16+",
+      "quality": "SD",
+      "origin_name": "Kantoku · Banzai!",
+      "year": 2007,
+      "activate_time": "2020-07-16 03:44:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "6.7",
+      "kinopoisk_id": "281044",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/3/5/5/6/0/0/0/0/0/610x900_33556.jpg",
+      "genre": {
+        "19": "Комедия",
+        "7": "Драма"
+      },
+      "country": {
+        "18": "Япония"
+      }
+    },
+    {
+      "id": 33493,
+      "name": "Телескоп Хаббл в 3D",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Hubble 3D",
+      "year": 2010,
+      "activate_time": "2020-07-16 03:37:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "7.6",
+      "kinopoisk_id": "472257",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/3/4/9/3/0/0/0/0/0/610x900_33493.jpg",
+      "genre": {
+        "54": "Документальный"
+      },
+      "country": {
+        "7": "Канада"
+      }
+    },
+    {
+      "id": 35318,
+      "name": "Эль Касо. Хроника событий",
+      "type": "series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "El Caso. Crónica de sucesos",
+      "year": 2016,
+      "activate_time": "2020-07-16 03:34:00",
+      "imdb": "7.3",
+      "imdb_id": "5134214",
+      "kinopoisk": null,
+      "kinopoisk_id": "989175",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/5/3/1/8/0/0/0/0/0/610x900_35318.jpg",
+      "genre": {
+        "25": "Криминал",
+        "24": "Детектив"
+      },
+      "country": {
+        "3": "Испания"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            },
+            {
+              "episode": 13,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33687,
+      "name": "Конгрессмен",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "The Congressman",
+      "year": 2016,
+      "activate_time": "2020-07-16 03:30:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": "822715",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/3/6/8/7/0/0/0/0/0/610x900_33687.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 33802,
+      "name": "Загадай желание",
+      "type": "film",
+      "age": "12+",
+      "quality": "SD",
+      "origin_name": "Aao Wish Karein",
+      "year": 2009,
+      "activate_time": "2020-07-16 03:28:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "7.8",
+      "kinopoisk_id": "484539",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/3/8/0/2/0/0/0/0/0/610x900_33802.jpg",
+      "genre": {
+        "6": "Фэнтези",
+        "33": "Семейный",
+        "19": "Комедия"
+      },
+      "country": {
+        "26": "Индия"
+      }
+    },
+    {
+      "id": 33456,
+      "name": "Легенда о герое со сломанным мечом",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Thong Dee Fun Khao",
+      "year": 2017,
+      "activate_time": "2020-07-16 03:28:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": "1047112",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/3/4/5/6/0/0/0/0/0/610x900_33456.jpg",
+      "genre": {
+        "17": "Боевик"
+      },
+      "country": {
+        "66": "Таиланд"
+      }
+    },
+    {
       "id": 33298,
       "name": "Слендер",
       "type": "film",
@@ -8746,192 +8990,6 @@
       },
       "country": {
         "5": "Россия"
-      }
-    },
-    {
-      "id": 33333,
-      "name": "Открытая дорога назад",
-      "type": "film",
-      "age": "18+",
-      "quality": "SD",
-      "origin_name": "The Open Road",
-      "year": 2009,
-      "activate_time": "2020-07-15 14:26:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": "6.0",
-      "kinopoisk_id": "421388",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/3/3/3/3/0/0/0/0/0/610x900_33333.jpg",
-      "genre": {
-        "19": "Комедия",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 33127,
-      "name": "Селена",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Selena",
-      "year": 1997,
-      "activate_time": "2020-07-15 14:25:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": "7.7",
-      "kinopoisk_id": "2835",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/3/1/2/7/0/0/0/0/0/610x900_33127.jpg",
-      "genre": {
-        "27": "Биографический",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 33349,
-      "name": "Химический разрез",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Chemical Cut",
-      "year": 2016,
-      "activate_time": "2020-07-15 14:24:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": null,
-      "kinopoisk_id": "819496",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/3/3/4/9/0/0/0/0/0/610x900_33349.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 33662,
-      "name": "Жуткие 13",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "13 Eerie",
-      "year": 2013,
-      "activate_time": "2020-07-15 14:23:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": "4.3",
-      "kinopoisk_id": "634265",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/3/6/6/2/0/0/0/0/0/610x900_33662.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "11": "Фантастика"
-      },
-      "country": {
-        "7": "Канада"
-      }
-    },
-    {
-      "id": 33418,
-      "name": "Всем нужна Кэт 2",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Cat Run 2",
-      "year": 2014,
-      "activate_time": "2020-07-15 14:23:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": "4.1",
-      "kinopoisk_id": "819483",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/3/4/1/8/0/0/0/0/0/610x900_33418.jpg",
-      "genre": {
-        "19": "Комедия",
-        "17": "Боевик"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 33139,
-      "name": "Иерусалим",
-      "type": "film",
-      "age": "18+",
-      "quality": "HD (720p)",
-      "origin_name": "Jeruzalem",
-      "year": 2015,
-      "activate_time": "2020-07-15 14:23:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": "4.7",
-      "kinopoisk_id": "910537",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/3/1/3/9/0/0/0/0/0/610x900_33139.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "11": "Фантастика",
-        "13": "Триллер"
-      },
-      "country": {
-        "72": "Израиль"
-      }
-    },
-    {
-      "id": 33231,
-      "name": "Целитель",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "The Healer",
-      "year": 2017,
-      "activate_time": "2020-07-15 14:22:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": "6.5",
-      "kinopoisk_id": "898818",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/3/2/3/1/0/0/0/0/0/610x900_33231.jpg",
-      "genre": {
-        "33": "Семейный",
-        "19": "Комедия",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "7": "Канада",
-        "1": "США",
-        "3": "Испания"
       }
     }
   ]

@@ -1,6 +1,243 @@
 {
   "results": [
     {
+      "id": 11130,
+      "name": "Аудитория из стульев",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "An Audience of Chairs",
+      "year": 2019,
+      "activate_time": "2019-09-26 15:33:00",
+      "imdb": "6.1",
+      "imdb_id": "6980962",
+      "kinopoisk": null,
+      "kinopoisk_id": "1095891",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/3/0/0/0/0/0/0/610x900_11130.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "7": "Канада"
+      }
+    },
+    {
+      "id": 11126,
+      "name": "Doom: Аннигиляция",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Doom: Annihilation",
+      "year": 2019,
+      "activate_time": "2019-09-26 15:33:00",
+      "imdb": "3.6",
+      "imdb_id": "8328716",
+      "kinopoisk": "4.2",
+      "kinopoisk_id": "1141782",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/2/6/0/0/0/0/0/610x900_11126.jpg",
+      "genre": {
+        "9": "Приключения",
+        "26": "Ужасы",
+        "11": "Фантастика",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 11128,
+      "name": "Диана. Семь дней, которые потрясли весь мир",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Diana: 7 Days That Shook the Windsors",
+      "year": 2017,
+      "activate_time": "2019-09-26 15:30:00",
+      "imdb": "7.5",
+      "imdb_id": "6947808",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/2/8/0/0/0/0/0/610x900_11128.jpg",
+      "genre": {
+        "54": "Документальный",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "2": "Великобритания"
+      }
+    },
+    {
+      "id": 11142,
+      "name": "Череп и кости",
+      "type": "series",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Crossbones",
+      "year": 2014,
+      "activate_time": "2019-09-26 14:32:00",
+      "imdb": "6.5",
+      "imdb_id": "2400631",
+      "kinopoisk": "6.1",
+      "kinopoisk_id": "733151",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/4/2/0/0/0/0/0/610x900_11142.jpg",
+      "genre": {
+        "9": "Приключения",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11125,
+      "name": "Корпорация «Сочувствие»",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Empathy, Inc.",
+      "year": 2018,
+      "activate_time": "2019-09-26 13:01:00",
+      "imdb": "5.3",
+      "imdb_id": "6317236",
+      "kinopoisk": null,
+      "kinopoisk_id": "1012218",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/2/5/0/0/0/0/0/610x900_11125.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 11124,
+      "name": "Эвару",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Evaru",
+      "year": 2019,
+      "activate_time": "2019-09-26 12:59:00",
+      "imdb": "8.2",
+      "imdb_id": "10545484",
+      "kinopoisk": null,
+      "kinopoisk_id": "1282650",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/2/4/0/0/0/0/0/610x900_11124.jpg",
+      "genre": {
+        "25": "Криминал",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "26": "Индия"
+      }
+    },
+    {
+      "id": 11121,
+      "name": "Король мальчиков",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "King of Boys",
+      "year": 2018,
+      "activate_time": "2019-09-26 12:58:00",
+      "imdb": "5.8",
+      "imdb_id": "8329618",
+      "kinopoisk": null,
+      "kinopoisk_id": "1134285",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/1/2/1/0/0/0/0/0/610x900_11121.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "106": "Нигерия"
+      }
+    },
+    {
       "id": 11120,
       "name": "Семена",
       "type": "film",
@@ -9246,193 +9483,6 @@
       },
       "country": {
         "3": "Испания"
-      }
-    },
-    {
-      "id": 11011,
-      "name": "Северные тигры в тюрьме Фолсом",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Los Tigres del Norte at Folsom Prison",
-      "year": 2019,
-      "activate_time": "2019-09-23 15:33:00",
-      "imdb": "6.9",
-      "imdb_id": "10857582",
-      "kinopoisk": null,
-      "kinopoisk_id": "1296752",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/1/1/0/0/0/0/0/610x900_11011.jpg",
-      "genre": {
-        "54": "Документальный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 11009,
-      "name": "История о летнем любовнике",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Povestea unui pierde-vara",
-      "year": 2018,
-      "activate_time": "2019-09-23 15:32:00",
-      "imdb": "6.6",
-      "imdb_id": "8299032",
-      "kinopoisk": null,
-      "kinopoisk_id": "1182140",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/0/9/0/0/0/0/0/610x900_11009.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "33": "Болгария",
-        "50": "Румыния"
-      }
-    },
-    {
-      "id": 11006,
-      "name": "Война с порнографией",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Yellow War",
-      "year": 2017,
-      "activate_time": "2019-09-23 15:31:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": null,
-      "kinopoisk_id": null,
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/0/6/0/0/0/0/0/610x900_11006.jpg",
-      "genre": {
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "19": "Китай"
-      }
-    },
-    {
-      "id": 11012,
-      "name": "Восточный ветер: Приезд Ари",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Ostwind: Aris Ankunft",
-      "year": 2019,
-      "activate_time": "2019-09-23 15:30:00",
-      "imdb": "5.4",
-      "imdb_id": "9182284",
-      "kinopoisk": "7.3",
-      "kinopoisk_id": "1206746",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/1/2/0/0/0/0/0/610x900_11012.jpg",
-      "genre": {
-        "33": "Семейный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "20": "Германия"
-      }
-    },
-    {
-      "id": 11007,
-      "name": "Супер 30",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Super 30",
-      "year": 2019,
-      "activate_time": "2019-09-23 15:29:00",
-      "imdb": "7.9",
-      "imdb_id": "7485048",
-      "kinopoisk": "7.6",
-      "kinopoisk_id": "1076779",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/0/7/0/0/0/0/0/610x900_11007.jpg",
-      "genre": {
-        "27": "Биографический",
-        "7": "Драма"
-      },
-      "country": {
-        "26": "Индия"
-      }
-    },
-    {
-      "id": 10931,
-      "name": "В поисках правды",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Saavat: A Hunt for Closure",
-      "year": 2019,
-      "activate_time": "2019-09-23 15:29:00",
-      "imdb": "6.7",
-      "imdb_id": "7798984",
-      "kinopoisk": null,
-      "kinopoisk_id": "1152675",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/3/1/0/0/0/0/0/610x900_10931.jpg",
-      "genre": {
-        "25": "Криминал",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "26": "Индия"
-      }
-    },
-    {
-      "id": 10930,
-      "name": "Дом Бейлоков",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "The Baylock Residence",
-      "year": 2019,
-      "activate_time": "2019-09-23 15:28:00",
-      "imdb": "3.1",
-      "imdb_id": "6185026",
-      "kinopoisk": null,
-      "kinopoisk_id": "1028035",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/3/0/0/0/0/0/0/610x900_10930.jpg",
-      "genre": {
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "2": "Великобритания"
       }
     }
   ]

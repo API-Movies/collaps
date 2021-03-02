@@ -1,6 +1,634 @@
 {
   "results": [
     {
+      "id": 20209,
+      "name": "ИЛЬФИПЕТРОВ",
+      "type": "film",
+      "age": "12+",
+      "quality": "SD",
+      "origin_name": "",
+      "year": 2013,
+      "activate_time": "2020-05-27 12:03:00",
+      "imdb": "6.6",
+      "imdb_id": "3124150",
+      "kinopoisk": "7.6",
+      "kinopoisk_id": "771402",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/0/2/0/9/0/0/0/0/0/610x900_20209.jpg",
+      "genre": {
+        "54": "Документальный"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "71": "Про путешествия"
+      }
+    },
+    {
+      "id": 20072,
+      "name": "Вишну Пурана",
+      "type": "series",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Vishnu-Puran",
+      "year": 2003,
+      "activate_time": "2020-05-27 11:48:00",
+      "imdb": "8.4",
+      "imdb_id": "0397214",
+      "kinopoisk": null,
+      "kinopoisk_id": "576040",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/0/0/7/2/0/0/0/0/0/610x900_20072.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "26": "Индия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            },
+            {
+              "episode": 13,
+              "iframe_url": ""
+            },
+            {
+              "episode": 15,
+              "iframe_url": ""
+            },
+            {
+              "episode": 16,
+              "iframe_url": ""
+            },
+            {
+              "episode": 17,
+              "iframe_url": ""
+            },
+            {
+              "episode": 18,
+              "iframe_url": ""
+            },
+            {
+              "episode": 19,
+              "iframe_url": ""
+            },
+            {
+              "episode": 20,
+              "iframe_url": ""
+            },
+            {
+              "episode": 21,
+              "iframe_url": ""
+            },
+            {
+              "episode": 22,
+              "iframe_url": ""
+            },
+            {
+              "episode": 23,
+              "iframe_url": ""
+            },
+            {
+              "episode": 24,
+              "iframe_url": ""
+            },
+            {
+              "episode": 25,
+              "iframe_url": ""
+            },
+            {
+              "episode": 26,
+              "iframe_url": ""
+            },
+            {
+              "episode": 27,
+              "iframe_url": ""
+            },
+            {
+              "episode": 28,
+              "iframe_url": ""
+            },
+            {
+              "episode": 29,
+              "iframe_url": ""
+            },
+            {
+              "episode": 30,
+              "iframe_url": ""
+            },
+            {
+              "episode": 31,
+              "iframe_url": ""
+            },
+            {
+              "episode": 32,
+              "iframe_url": ""
+            },
+            {
+              "episode": 33,
+              "iframe_url": ""
+            },
+            {
+              "episode": 34,
+              "iframe_url": ""
+            },
+            {
+              "episode": 35,
+              "iframe_url": ""
+            },
+            {
+              "episode": 36,
+              "iframe_url": ""
+            },
+            {
+              "episode": 37,
+              "iframe_url": ""
+            },
+            {
+              "episode": 38,
+              "iframe_url": ""
+            },
+            {
+              "episode": 39,
+              "iframe_url": ""
+            },
+            {
+              "episode": 40,
+              "iframe_url": ""
+            },
+            {
+              "episode": 41,
+              "iframe_url": ""
+            },
+            {
+              "episode": 42,
+              "iframe_url": ""
+            },
+            {
+              "episode": 43,
+              "iframe_url": ""
+            },
+            {
+              "episode": 44,
+              "iframe_url": ""
+            },
+            {
+              "episode": 45,
+              "iframe_url": ""
+            },
+            {
+              "episode": 46,
+              "iframe_url": ""
+            },
+            {
+              "episode": 47,
+              "iframe_url": ""
+            },
+            {
+              "episode": 48,
+              "iframe_url": ""
+            },
+            {
+              "episode": 49,
+              "iframe_url": ""
+            },
+            {
+              "episode": 50,
+              "iframe_url": ""
+            },
+            {
+              "episode": 51,
+              "iframe_url": ""
+            },
+            {
+              "episode": 52,
+              "iframe_url": ""
+            },
+            {
+              "episode": 53,
+              "iframe_url": ""
+            },
+            {
+              "episode": 54,
+              "iframe_url": ""
+            },
+            {
+              "episode": 55,
+              "iframe_url": ""
+            },
+            {
+              "episode": 56,
+              "iframe_url": ""
+            },
+            {
+              "episode": 57,
+              "iframe_url": ""
+            },
+            {
+              "episode": 58,
+              "iframe_url": ""
+            },
+            {
+              "episode": 59,
+              "iframe_url": ""
+            },
+            {
+              "episode": 60,
+              "iframe_url": ""
+            },
+            {
+              "episode": 61,
+              "iframe_url": ""
+            },
+            {
+              "episode": 62,
+              "iframe_url": ""
+            },
+            {
+              "episode": 63,
+              "iframe_url": ""
+            },
+            {
+              "episode": 64,
+              "iframe_url": ""
+            },
+            {
+              "episode": 65,
+              "iframe_url": ""
+            },
+            {
+              "episode": 66,
+              "iframe_url": ""
+            },
+            {
+              "episode": 67,
+              "iframe_url": ""
+            },
+            {
+              "episode": 68,
+              "iframe_url": ""
+            },
+            {
+              "episode": 69,
+              "iframe_url": ""
+            },
+            {
+              "episode": 70,
+              "iframe_url": ""
+            },
+            {
+              "episode": 71,
+              "iframe_url": ""
+            },
+            {
+              "episode": 72,
+              "iframe_url": ""
+            },
+            {
+              "episode": 73,
+              "iframe_url": ""
+            },
+            {
+              "episode": 74,
+              "iframe_url": ""
+            },
+            {
+              "episode": 75,
+              "iframe_url": ""
+            },
+            {
+              "episode": 76,
+              "iframe_url": ""
+            },
+            {
+              "episode": 77,
+              "iframe_url": ""
+            },
+            {
+              "episode": 78,
+              "iframe_url": ""
+            },
+            {
+              "episode": 79,
+              "iframe_url": ""
+            },
+            {
+              "episode": 80,
+              "iframe_url": ""
+            },
+            {
+              "episode": 81,
+              "iframe_url": ""
+            },
+            {
+              "episode": 82,
+              "iframe_url": ""
+            },
+            {
+              "episode": 83,
+              "iframe_url": ""
+            },
+            {
+              "episode": 84,
+              "iframe_url": ""
+            },
+            {
+              "episode": 85,
+              "iframe_url": ""
+            },
+            {
+              "episode": 86,
+              "iframe_url": ""
+            },
+            {
+              "episode": 87,
+              "iframe_url": ""
+            },
+            {
+              "episode": 88,
+              "iframe_url": ""
+            },
+            {
+              "episode": 89,
+              "iframe_url": ""
+            },
+            {
+              "episode": 90,
+              "iframe_url": ""
+            },
+            {
+              "episode": 91,
+              "iframe_url": ""
+            },
+            {
+              "episode": 92,
+              "iframe_url": ""
+            },
+            {
+              "episode": 93,
+              "iframe_url": ""
+            },
+            {
+              "episode": 94,
+              "iframe_url": ""
+            },
+            {
+              "episode": 95,
+              "iframe_url": ""
+            },
+            {
+              "episode": 96,
+              "iframe_url": ""
+            },
+            {
+              "episode": 97,
+              "iframe_url": ""
+            },
+            {
+              "episode": 98,
+              "iframe_url": ""
+            },
+            {
+              "episode": 99,
+              "iframe_url": ""
+            },
+            {
+              "episode": 100,
+              "iframe_url": ""
+            },
+            {
+              "episode": 101,
+              "iframe_url": ""
+            },
+            {
+              "episode": 102,
+              "iframe_url": ""
+            },
+            {
+              "episode": 103,
+              "iframe_url": ""
+            },
+            {
+              "episode": 104,
+              "iframe_url": ""
+            },
+            {
+              "episode": 105,
+              "iframe_url": ""
+            },
+            {
+              "episode": 106,
+              "iframe_url": ""
+            },
+            {
+              "episode": 107,
+              "iframe_url": ""
+            },
+            {
+              "episode": 108,
+              "iframe_url": ""
+            },
+            {
+              "episode": 109,
+              "iframe_url": ""
+            },
+            {
+              "episode": 110,
+              "iframe_url": ""
+            },
+            {
+              "episode": 111,
+              "iframe_url": ""
+            },
+            {
+              "episode": 112,
+              "iframe_url": ""
+            },
+            {
+              "episode": 113,
+              "iframe_url": ""
+            },
+            {
+              "episode": 114,
+              "iframe_url": ""
+            },
+            {
+              "episode": 115,
+              "iframe_url": ""
+            },
+            {
+              "episode": 116,
+              "iframe_url": ""
+            },
+            {
+              "episode": 117,
+              "iframe_url": ""
+            },
+            {
+              "episode": 118,
+              "iframe_url": ""
+            },
+            {
+              "episode": 119,
+              "iframe_url": ""
+            },
+            {
+              "episode": 120,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20170,
+      "name": "Команда Бульдог: Расследования в нерабочее время",
+      "type": "series",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Team Bulldog: Off-duty Investigation",
+      "year": 2020,
+      "activate_time": "2020-05-27 11:45:00",
+      "imdb": "7.7",
+      "imdb_id": "12379076",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/0/1/7/0/0/0/0/0/0/610x900_20170.jpg",
+      "genre": {
+        "25": "Криминал",
+        "17": "Боевик",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "16": "Корея Южная"
+      },
+      "collection": {
+        "62": "Про полицию"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 20041,
       "name": "Кошка",
       "type": "series",
@@ -13130,93 +13758,6 @@
       "country": {
         "1": "США",
         "9": "Франция"
-      }
-    },
-    {
-      "id": 19789,
-      "name": "Приходи как есть",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Hasta la Vista",
-      "year": 2011,
-      "activate_time": "2020-05-25 20:56:00",
-      "imdb": "7.4",
-      "imdb_id": "1753887",
-      "kinopoisk": "6.8",
-      "kinopoisk_id": "586803",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/9/7/8/9/0/0/0/0/0/610x900_19789.jpg",
-      "genre": {
-        "19": "Комедия",
-        "7": "Драма"
-      },
-      "country": {
-        "29": "Бельгия"
-      }
-    },
-    {
-      "id": 19930,
-      "name": "Капитан Зум: Академия супергероев",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Zoom",
-      "year": 2006,
-      "activate_time": "2020-05-25 20:29:00",
-      "imdb": "4.4",
-      "imdb_id": "0383060",
-      "kinopoisk": "5.1",
-      "kinopoisk_id": "87854",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/9/9/3/0/0/0/0/0/0/610x900_19930.jpg",
-      "genre": {
-        "9": "Приключения",
-        "11": "Фантастика",
-        "6": "Фэнтези",
-        "33": "Семейный",
-        "19": "Комедия",
-        "17": "Боевик"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "42": "Про супергероев"
-      }
-    },
-    {
-      "id": 19927,
-      "name": "Синий зонтик",
-      "type": "film",
-      "age": "16+",
-      "quality": "SD",
-      "origin_name": "The Blue Umbrella",
-      "year": 2005,
-      "activate_time": "2020-05-25 20:29:00",
-      "imdb": "7.5",
-      "imdb_id": "0457802",
-      "kinopoisk": null,
-      "kinopoisk_id": "227215",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/9/9/2/7/0/0/0/0/0/610x900_19927.jpg",
-      "genre": {
-        "6": "Фэнтези",
-        "33": "Семейный",
-        "19": "Комедия",
-        "7": "Драма"
-      },
-      "country": {
-        "26": "Индия"
       }
     }
   ]

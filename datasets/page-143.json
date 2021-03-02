@@ -1,6 +1,90 @@
 {
   "results": [
     {
+      "id": 15389,
+      "name": "Маленькие женщины",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Little Women",
+      "year": 1994,
+      "activate_time": "2020-02-17 16:17:00",
+      "imdb": "7.3",
+      "imdb_id": "0110367",
+      "kinopoisk": "7.7",
+      "kinopoisk_id": "4568",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/3/8/9/0/0/0/0/0/610x900_15389.jpg",
+      "genre": {
+        "33": "Семейный",
+        "10": "Зарубежный",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "7": "Канада",
+        "1": "США"
+      },
+      "collection": {
+        "11": "Для женщин"
+      }
+    },
+    {
+      "id": 15388,
+      "name": "Жестокие сердца",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Cruel Hearts",
+      "year": 2018,
+      "activate_time": "2020-02-17 16:17:00",
+      "imdb": "5.0",
+      "imdb_id": "5031388",
+      "kinopoisk": null,
+      "kinopoisk_id": "937244",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/3/8/8/0/0/0/0/0/610x900_15388.jpg",
+      "genre": {
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 15386,
+      "name": "Купидон",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Cupid",
+      "year": 2020,
+      "activate_time": "2020-02-17 16:17:00",
+      "imdb": "4.7",
+      "imdb_id": "10817348",
+      "kinopoisk": "3.6",
+      "kinopoisk_id": "1293237",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/3/8/6/0/0/0/0/0/610x900_15386.jpg",
+      "genre": {
+        "26": "Ужасы"
+      },
+      "collection": {
+        "73": "Про девушек",
+        "59": "Про ведьм"
+      }
+    },
+    {
       "id": 15384,
       "name": "Конец предложения",
       "type": "film",
@@ -10045,166 +10129,6 @@
       },
       "collection": {
         "11": "Для женщин"
-      }
-    },
-    {
-      "id": 15333,
-      "name": "Счастливый край",
-      "type": "series",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Lykkeland",
-      "year": 2018,
-      "activate_time": "2020-02-11 18:21:00",
-      "imdb": "7.8",
-      "imdb_id": "7005636",
-      "kinopoisk": null,
-      "kinopoisk_id": "1224096",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/3/3/3/0/0/0/0/0/610x900_15333.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "29": "Бельгия",
-        "53": "Норвегия"
-      },
-      "serial_status": "online",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 15328,
-      "name": "Все или ничего: сборная Бразилии",
-      "type": "series",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "All or Nothing: Brazil National Team",
-      "year": 2019,
-      "activate_time": "2020-02-11 17:02:00",
-      "imdb": "7.2",
-      "imdb_id": "11621718",
-      "kinopoisk": null,
-      "kinopoisk_id": null,
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/3/2/8/0/0/0/0/0/610x900_15328.jpg",
-      "genre": {
-        "54": "Документальный",
-        "23": "Спортивный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "76": "Про спорт",
-        "39": "На реальных событиях"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 15330,
-      "name": "Наблюдатель",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "The Lurker",
-      "year": 2019,
-      "activate_time": "2020-02-11 16:57:00",
-      "imdb": "3.1",
-      "imdb_id": "5201882",
-      "kinopoisk": null,
-      "kinopoisk_id": "1054700",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/3/3/0/0/0/0/0/0/610x900_15330.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "24": "Детектив",
-        "13": "Триллер"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "43": "Про подростков"
       }
     }
   ]

@@ -1,6 +1,109 @@
 {
   "results": [
     {
+      "id": 44467,
+      "name": "Бирюк",
+      "type": "series",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2014,
+      "activate_time": "2021-02-21 14:34:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "5.6",
+      "kinopoisk_id": "861597",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/4/4/6/7/0/0/0/0/0/610x900_44467.jpg",
+      "genre": {
+        "25": "Криминал",
+        "7": "Драма"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44466,
+      "name": "Нетихая жизнь",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "To Olivia",
+      "year": 2021,
+      "activate_time": "2021-02-21 14:26:00",
+      "imdb": "6.8",
+      "imdb_id": "7598106",
+      "kinopoisk": null,
+      "kinopoisk_id": "1318973",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/4/4/6/6/0/0/0/0/0/610x900_44466.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "2": "Великобритания"
+      }
+    },
+    {
+      "id": 44465,
+      "name": "Паранормальная тюрьма",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Paranormal Prison",
+      "year": 2021,
+      "activate_time": "2021-02-21 13:56:00",
+      "imdb": "3.0",
+      "imdb_id": "9013780",
+      "kinopoisk": null,
+      "kinopoisk_id": "1232713",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/4/4/6/5/0/0/0/0/0/610x900_44465.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "13": "Триллер"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 44460,
       "name": "Гудлэнд",
       "type": "film",
@@ -4234,6 +4337,10 @@
             {
               "episode": 2,
               "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
             }
           ]
         }
@@ -7636,83 +7743,6 @@
       "genre": {
         "11": "Фантастика",
         "13": "Триллер",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 44237,
-      "name": "Поломка",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "The Breakdown",
-      "year": 2021,
-      "activate_time": "2021-02-12 11:32:00",
-      "imdb": "6.2",
-      "imdb_id": "12872946",
-      "kinopoisk": null,
-      "kinopoisk_id": "1408846",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/4/2/3/7/0/0/0/0/0/610x900_44237.jpg",
-      "genre": {
-        "19": "Комедия"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 44235,
-      "name": "Без причин",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "No Reasons",
-      "year": 2021,
-      "activate_time": "2021-02-12 11:27:00",
-      "imdb": "5.4",
-      "imdb_id": "3155936",
-      "kinopoisk": null,
-      "kinopoisk_id": null,
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/4/2/3/5/0/0/0/0/0/610x900_44235.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "13": "Триллер",
-        "7": "Драма"
-      },
-      "country": {
-        "2": "Великобритания"
-      }
-    },
-    {
-      "id": 44231,
-      "name": "Тазманийский дьявол",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Tazmanian Devil",
-      "year": 2020,
-      "activate_time": "2021-02-12 04:02:00",
-      "imdb": "4.0",
-      "imdb_id": "8647010",
-      "kinopoisk": null,
-      "kinopoisk_id": "1196278",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/4/2/3/1/0/0/0/0/0/610x900_44231.jpg",
-      "genre": {
         "7": "Драма"
       },
       "country": {

@@ -1,6 +1,712 @@
 {
   "results": [
     {
+      "id": 10130,
+      "name": "Уцелевшая",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Survivor",
+      "year": 2015,
+      "activate_time": "2020-01-03 14:58:00",
+      "imdb": "5.6",
+      "imdb_id": "3247714",
+      "kinopoisk": "5.2",
+      "kinopoisk_id": "804648",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/1/3/0/0/0/0/0/0/610x900_10130.jpg",
+      "genre": {
+        "25": "Криминал",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США",
+        "2": "Великобритания"
+      }
+    },
+    {
+      "id": 9116,
+      "name": "Бэндслэм",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Bandslam",
+      "year": 2009,
+      "activate_time": "2020-01-03 14:57:00",
+      "imdb": "6.3",
+      "imdb_id": "0976222",
+      "kinopoisk": "6.8",
+      "kinopoisk_id": "425085",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/1/1/6/0/0/0/0/0/0/610x900_9116.jpg",
+      "genre": {
+        "33": "Семейный",
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 8508,
+      "name": "В поисках доброго самаритянина",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Good Sam",
+      "year": 2019,
+      "activate_time": "2020-01-03 14:57:00",
+      "imdb": "5.7",
+      "imdb_id": "9032888",
+      "kinopoisk": "5.7",
+      "kinopoisk_id": "1207620",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/8/5/0/8/0/0/0/0/0/0/610x900_8508.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 7970,
+      "name": "Приятель",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Mon pote",
+      "year": 2010,
+      "activate_time": "2020-01-03 14:57:00",
+      "imdb": "6.1",
+      "imdb_id": "1688070",
+      "kinopoisk": "7.0",
+      "kinopoisk_id": "548111",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/7/9/7/0/0/0/0/0/0/0/610x900_7970.jpg",
+      "genre": {
+        "25": "Криминал",
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "9": "Франция"
+      }
+    },
+    {
+      "id": 7769,
+      "name": "Трава зеленее",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Grass is Greener",
+      "year": 2019,
+      "activate_time": "2020-01-03 14:57:00",
+      "imdb": "7.1",
+      "imdb_id": "10050782",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "1254819",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/7/7/6/9/0/0/0/0/0/0/610x900_7769.jpg",
+      "genre": {
+        "54": "Документальный",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 3963,
+      "name": "Кинотеатр Пени Ужасной",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "The Penny Dreadful Picture Show",
+      "year": 2013,
+      "activate_time": "2020-01-03 14:57:00",
+      "imdb": "5.0",
+      "imdb_id": "2317484",
+      "kinopoisk": "5.3",
+      "kinopoisk_id": "695311",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/9/6/3/0/0/0/0/0/0/610x900_3963.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 3600,
+      "name": "Срочная доставка",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Premium Rush",
+      "year": 2012,
+      "activate_time": "2020-01-03 14:57:00",
+      "imdb": "6.5",
+      "imdb_id": "1547234",
+      "kinopoisk": "6.6",
+      "kinopoisk_id": "489415",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/6/0/0/0/0/0/0/0/0/610x900_3600.jpg",
+      "genre": {
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 3461,
+      "name": "Рождественская мелодия",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "A Christmas Melody",
+      "year": 2015,
+      "activate_time": "2020-01-03 14:57:00",
+      "imdb": "6.0",
+      "imdb_id": "4587740",
+      "kinopoisk": "5.7",
+      "kinopoisk_id": "936625",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/4/6/1/0/0/0/0/0/0/610x900_3461.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 3458,
+      "name": "Совершенно чокнутый",
+      "type": "film",
+      "age": "12+",
+      "quality": "SD",
+      "origin_name": "Mixed Nuts",
+      "year": 1994,
+      "activate_time": "2020-01-03 14:57:00",
+      "imdb": "5.5",
+      "imdb_id": "0110538",
+      "kinopoisk": "5.7",
+      "kinopoisk_id": "1571",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/4/5/8/0/0/0/0/0/0/610x900_3458.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "36": "Романтические комедии"
+      }
+    },
+    {
+      "id": 3440,
+      "name": "Пчёлы-убийцы",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Killer Bees",
+      "year": 1995,
+      "activate_time": "2020-01-03 14:57:00",
+      "imdb": "4.0",
+      "imdb_id": "0112826",
+      "kinopoisk": "4.6",
+      "kinopoisk_id": "297038",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/4/4/0/0/0/0/0/0/0/610x900_3440.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "11": "Фантастика",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "14": "Для взрослых",
+        "18": "Про животных"
+      }
+    },
+    {
+      "id": 14010,
+      "name": "Класс",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Class",
+      "year": 1983,
+      "activate_time": "2020-01-03 14:56:00",
+      "imdb": "6.0",
+      "imdb_id": "0085346",
+      "kinopoisk": "7.0",
+      "kinopoisk_id": "2446",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/0/1/0/0/0/0/0/0/610x900_14010.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "14": "Для взрослых"
+      }
+    },
+    {
+      "id": 14008,
+      "name": "Индеец в Париже",
+      "type": "film",
+      "age": "0+",
+      "quality": "HD (720p)",
+      "origin_name": "Un indien dans la ville",
+      "year": 1994,
+      "activate_time": "2020-01-03 14:56:00",
+      "imdb": "5.7",
+      "imdb_id": "0111543",
+      "kinopoisk": "6.8",
+      "kinopoisk_id": "55009",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/0/0/8/0/0/0/0/0/610x900_14008.jpg",
+      "genre": {
+        "9": "Приключения",
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "9": "Франция"
+      },
+      "collection": {
+        "57": "Про мафию, банды",
+        "71": "Про путешествия"
+      }
+    },
+    {
+      "id": 14004,
+      "name": "Сиджин",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Siccin",
+      "year": 2014,
+      "activate_time": "2020-01-03 14:56:00",
+      "imdb": "6.2",
+      "imdb_id": "4240654",
+      "kinopoisk": null,
+      "kinopoisk_id": "898046",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/0/0/4/0/0/0/0/0/610x900_14004.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "36": "Турция"
+      }
+    },
+    {
+      "id": 13975,
+      "name": "Блубёрд",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Bluebird",
+      "year": 2019,
+      "activate_time": "2020-01-03 14:56:00",
+      "imdb": "7.3",
+      "imdb_id": "9602666",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/9/7/5/0/0/0/0/0/610x900_13975.jpg",
+      "genre": {
+        "54": "Документальный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "81": "Про звезд",
+        "27": "Про жизнь"
+      }
+    },
+    {
+      "id": 13916,
+      "name": "Рука на миллион",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Million Dollar Arm",
+      "year": 2014,
+      "activate_time": "2020-01-03 14:56:00",
+      "imdb": "7.0",
+      "imdb_id": "1647668",
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "518117",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/9/1/6/0/0/0/0/0/610x900_13916.jpg",
+      "genre": {
+        "28": "Исторический",
+        "23": "Спортивный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "37": "Disney"
+      }
+    },
+    {
+      "id": 13911,
+      "name": "Рождественская западня",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Grounded for Christmas",
+      "year": 2019,
+      "activate_time": "2020-01-03 14:56:00",
+      "imdb": "6.4",
+      "imdb_id": "10964346",
+      "kinopoisk": null,
+      "kinopoisk_id": "1311432",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/9/1/1/0/0/0/0/0/610x900_13911.jpg",
+      "genre": {
+        "19": "Комедия"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "38": "Про любовь",
+        "3": "Рождественские"
+      }
+    },
+    {
+      "id": 14012,
+      "name": "Зелёный фургон. Совсем другая история",
+      "type": "series",
+      "age": "16+",
+      "quality": "SD",
+      "origin_name": "",
+      "year": 2020,
+      "activate_time": "2020-01-03 14:36:00",
+      "imdb": "3.4",
+      "imdb_id": "11489096",
+      "kinopoisk": "5.6",
+      "kinopoisk_id": "1073215",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/0/1/2/0/0/0/0/0/610x900_14012.jpg",
+      "genre": {
+        "25": "Криминал",
+        "24": "Детектив",
+        "22": "Русский",
+        "19": "Комедия"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "62": "Про полицию",
+        "19": "Про ограбления, аферы и мошенников"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            },
+            {
+              "episode": 13,
+              "iframe_url": ""
+            },
+            {
+              "episode": 14,
+              "iframe_url": ""
+            },
+            {
+              "episode": 15,
+              "iframe_url": ""
+            },
+            {
+              "episode": 16,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13831,
+      "name": "Евангелион: Смерть и перерождение",
+      "type": "anime-film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Shinseiki Evangelion Gekijoban: Shi to Shinsei",
+      "year": 1997,
+      "activate_time": "2020-01-03 10:59:00",
+      "imdb": "7.5",
+      "imdb_id": "0169880",
+      "kinopoisk": "7.4",
+      "kinopoisk_id": "55505",
+      "world_art": "7.5",
+      "world_art_id": "33",
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/8/3/1/0/0/0/0/0/610x900_13831.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "17": "Боевик",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "18": "Япония"
+      }
+    },
+    {
+      "id": 13905,
+      "name": "На мысочках",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "In punta di piedi",
+      "year": 2018,
+      "activate_time": "2020-01-03 10:32:00",
+      "imdb": "6.8",
+      "imdb_id": "6596944",
+      "kinopoisk": null,
+      "kinopoisk_id": "1041800",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/9/0/5/0/0/0/0/0/610x900_13905.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "8": "Италия"
+      }
+    },
+    {
+      "id": 13903,
+      "name": "Свой человек",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Uno di famiglia",
+      "year": 2018,
+      "activate_time": "2020-01-03 10:31:00",
+      "imdb": "5.6",
+      "imdb_id": "8467658",
+      "kinopoisk": null,
+      "kinopoisk_id": "1163688",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/9/0/3/0/0/0/0/0/610x900_13903.jpg",
+      "genre": {
+        "25": "Криминал",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "8": "Италия"
+      }
+    },
+    {
+      "id": 13933,
+      "name": "На острие",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2019,
+      "activate_time": "2020-01-03 10:07:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "1311064",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/9/3/3/0/0/0/0/0/610x900_13933.jpg",
+      "genre": {
+        "34": "Полнометражный",
+        "23": "Спортивный",
+        "22": "Русский",
+        "7": "Драма"
+      },
+      "country": {
+        "5": "Россия"
+      }
+    },
+    {
+      "id": 13931,
+      "name": "Морские паразиты",
+      "type": "film",
+      "age": "18+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Sea Fever",
+      "year": 2019,
+      "activate_time": "2020-01-03 10:06:00",
+      "imdb": "5.8",
+      "imdb_id": "2716382",
+      "kinopoisk": "5.2",
+      "kinopoisk_id": "740296",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/9/3/1/0/0/0/0/0/610x900_13931.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "11": "Фантастика",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США",
+        "2": "Великобритания",
+        "21": "Ирландия",
+        "28": "Швеция",
+        "29": "Бельгия"
+      },
+      "collection": {
+        "26": "Про монстров",
+        "14": "Для взрослых"
+      }
+    },
+    {
       "id": 13930,
       "name": "Огонь",
       "type": "film",
@@ -6848,1088 +7554,6 @@
       "collection": {
         "96": "Про путешествия во времени",
         "50": "Про агентов"
-      }
-    },
-    {
-      "id": 13718,
-      "name": "Номер один",
-      "type": "film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "",
-      "year": 2020,
-      "activate_time": "2019-12-26 09:39:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": "4.8",
-      "kinopoisk_id": "1314719",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/1/8/0/0/0/0/0/610x900_13718.jpeg",
-      "genre": {
-        "22": "Русский",
-        "19": "Комедия"
-      },
-      "country": {
-        "5": "Россия"
-      },
-      "collection": {
-        "82": "Молодежные комедии",
-        "21": "Для молодёжи",
-        "19": "Про ограбления, аферы и мошенников"
-      }
-    },
-    {
-      "id": 13168,
-      "name": "Шахматист",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Fahim",
-      "year": 2019,
-      "activate_time": "2019-12-26 09:39:00",
-      "imdb": "6.8",
-      "imdb_id": "4693588",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "914862",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/1/6/8/0/0/0/0/0/610x900_13168.jpg",
-      "genre": {
-        "27": "Биографический",
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция"
-      },
-      "collection": {
-        "78": "Биографии"
-      }
-    },
-    {
-      "id": 13722,
-      "name": "Верю в любовь",
-      "type": "film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "I Still Believe",
-      "year": 2020,
-      "activate_time": "2019-12-26 09:37:00",
-      "imdb": "6.5",
-      "imdb_id": "9779516",
-      "kinopoisk": "6.3",
-      "kinopoisk_id": "1255550",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/2/2/0/0/0/0/0/610x900_13722.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "38": "Про любовь",
-        "11": "Для женщин"
-      }
-    },
-    {
-      "id": 13724,
-      "name": "Небо измеряется милями",
-      "type": "film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "",
-      "year": 2019,
-      "activate_time": "2019-12-26 09:36:00",
-      "imdb": "5.5",
-      "imdb_id": "11498678",
-      "kinopoisk": "6.5",
-      "kinopoisk_id": "1245325",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/2/4/0/0/0/0/0/610x900_13724.jpg",
-      "genre": {
-        "34": "Полнометражный",
-        "32": "Военный",
-        "28": "Исторический",
-        "22": "Русский"
-      },
-      "country": {
-        "5": "Россия"
-      }
-    },
-    {
-      "id": 13830,
-      "name": "Конец Евангелиона",
-      "type": "anime-series",
-      "age": "18+",
-      "quality": "SD",
-      "origin_name": "Shinseiki Evangelion Gekijoban: Air/Magokoro wo, kimi ni",
-      "year": 1997,
-      "activate_time": "2019-12-26 07:45:27",
-      "imdb": "8.1",
-      "imdb_id": "0169858",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "41956",
-      "world_art": "8.5",
-      "world_art_id": "34",
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/8/3/0/0/0/0/0/0/610x900_13830.jpg",
-      "genre": {
-        "11": "Фантастика",
-        "17": "Боевик",
-        "7": "Драма"
-      },
-      "country": {
-        "18": "Япония"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13780,
-      "name": "Эврика 7: Псалмы Планет",
-      "type": "anime-film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Kokyo shihen Eureka Sebun: Poketto ga niji de ippai",
-      "year": 2009,
-      "activate_time": "2019-12-25 21:52:00",
-      "imdb": "6.4",
-      "imdb_id": "1414518",
-      "kinopoisk": "6.5",
-      "kinopoisk_id": "463746",
-      "world_art": "7.6",
-      "world_art_id": "7168",
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/8/0/0/0/0/0/0/610x900_13780.jpg",
-      "genre": {
-        "9": "Приключения",
-        "11": "Фантастика",
-        "17": "Боевик",
-        "7": "Драма"
-      },
-      "country": {
-        "18": "Япония"
-      }
-    },
-    {
-      "id": 13785,
-      "name": "Одному лишь Богу ведомый мир",
-      "type": "anime-film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Kami nomi zo Shiru Sekai",
-      "year": 2010,
-      "activate_time": "2019-12-25 21:50:00",
-      "imdb": "7.4",
-      "imdb_id": "1899022",
-      "kinopoisk": "7.3",
-      "kinopoisk_id": "632810",
-      "world_art": "6.7",
-      "world_art_id": "1473",
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/8/5/0/0/0/0/0/610x900_13785.jpg",
-      "genre": {
-        "19": "Комедия",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "18": "Япония"
-      }
-    },
-    {
-      "id": 13712,
-      "name": "Помощники",
-      "type": "series",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Helpsters",
-      "year": 2019,
-      "activate_time": "2019-12-25 21:38:00",
-      "imdb": "6.2",
-      "imdb_id": "10515488",
-      "kinopoisk": null,
-      "kinopoisk_id": "1316581",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/1/2/0/0/0/0/0/610x900_13712.jpg",
-      "genre": {
-        "33": "Семейный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "101": "Apple TV+"
-      },
-      "serial_status": "online",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            },
-            {
-              "episode": 12,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13747,
-      "name": "Найти Элизабет",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Elizabeth is Missing",
-      "year": 2019,
-      "activate_time": "2019-12-25 21:23:00",
-      "imdb": "7.7",
-      "imdb_id": "8201352",
-      "kinopoisk": null,
-      "kinopoisk_id": "1280335",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/4/7/0/0/0/0/0/610x900_13747.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "2": "Великобритания"
-      }
-    },
-    {
-      "id": 13738,
-      "name": "Качок",
-      "type": "series",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Bruiser",
-      "year": 2000,
-      "activate_time": "2019-12-25 21:07:00",
-      "imdb": "7.1",
-      "imdb_id": "0388583",
-      "kinopoisk": null,
-      "kinopoisk_id": "709734",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/3/8/0/0/0/0/0/610x900_13738.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "2": "Великобритания"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13553,
-      "name": "Мифомания",
-      "type": "series",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Mytho",
-      "year": 2019,
-      "activate_time": "2019-12-25 21:04:00",
-      "imdb": "6.8",
-      "imdb_id": "10677432",
-      "kinopoisk": null,
-      "kinopoisk_id": "1286863",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/5/5/3/0/0/0/0/0/610x900_13553.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция"
-      },
-      "serial_status": "online",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13789,
-      "name": "Триган: Переполох в Пустошах",
-      "type": "anime-film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Trigun: Badlands Rumble",
-      "year": 2010,
-      "activate_time": "2019-12-25 21:03:00",
-      "imdb": "7.5",
-      "imdb_id": "1703049",
-      "kinopoisk": "7.6",
-      "kinopoisk_id": "557745",
-      "world_art": "8.7",
-      "world_art_id": "7705",
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/8/9/0/0/0/0/0/610x900_13789.jpg",
-      "genre": {
-        "11": "Фантастика",
-        "19": "Комедия",
-        "17": "Боевик"
-      },
-      "country": {
-        "18": "Япония"
-      }
-    },
-    {
-      "id": 12788,
-      "name": "Убийственная игра",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Kill Game",
-      "year": 2018,
-      "activate_time": "2019-12-25 20:55:00",
-      "imdb": "4.0",
-      "imdb_id": "3024324",
-      "kinopoisk": "4.3",
-      "kinopoisk_id": "779688",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/2/7/8/8/0/0/0/0/0/610x900_12788.jpg",
-      "genre": {
-        "26": "Ужасы"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 13807,
-      "name": "100 шагов: Успеть до старших классов",
-      "type": "series",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "100 Things to Do Before High School",
-      "year": 2014,
-      "activate_time": "2019-12-25 20:03:00",
-      "imdb": "6.2",
-      "imdb_id": "3904078",
-      "kinopoisk": null,
-      "kinopoisk_id": "933277",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/8/0/7/0/0/0/0/0/610x900_13807.jpg",
-      "genre": {
-        "33": "Семейный",
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            },
-            {
-              "episode": 12,
-              "iframe_url": ""
-            },
-            {
-              "episode": 13,
-              "iframe_url": ""
-            },
-            {
-              "episode": 14,
-              "iframe_url": ""
-            },
-            {
-              "episode": 15,
-              "iframe_url": ""
-            },
-            {
-              "episode": 16,
-              "iframe_url": ""
-            },
-            {
-              "episode": 17,
-              "iframe_url": ""
-            },
-            {
-              "episode": 18,
-              "iframe_url": ""
-            },
-            {
-              "episode": 19,
-              "iframe_url": ""
-            },
-            {
-              "episode": 20,
-              "iframe_url": ""
-            },
-            {
-              "episode": 21,
-              "iframe_url": ""
-            },
-            {
-              "episode": 22,
-              "iframe_url": ""
-            },
-            {
-              "episode": 23,
-              "iframe_url": ""
-            },
-            {
-              "episode": 24,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13160,
-      "name": "Спаркл",
-      "type": "film",
-      "age": "16+",
-      "quality": "SD",
-      "origin_name": "Sparkle",
-      "year": 2012,
-      "activate_time": "2019-12-25 19:48:00",
-      "imdb": "5.7",
-      "imdb_id": "1876451",
-      "kinopoisk": "6.2",
-      "kinopoisk_id": "588817",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/1/6/0/0/0/0/0/0/610x900_13160.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 13803,
-      "name": "Отдел 42",
-      "type": "series",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Unite 42",
-      "year": 2017,
-      "activate_time": "2019-12-25 19:39:00",
-      "imdb": "7.0",
-      "imdb_id": "6136644",
-      "kinopoisk": null,
-      "kinopoisk_id": "1275280",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/8/0/3/0/0/0/0/0/610x900_13803.jpg",
-      "genre": {
-        "25": "Криминал",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "29": "Бельгия"
-      },
-      "collection": {
-        "62": "Про полицию"
-      },
-      "serial_status": "online",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 2,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13740,
-      "name": "На виду",
-      "type": "series",
-      "age": "16+",
-      "quality": "SD",
-      "origin_name": "In Plain Sight",
-      "year": 2016,
-      "activate_time": "2019-12-25 19:17:00",
-      "imdb": "7.4",
-      "imdb_id": "6131920",
-      "kinopoisk": "6.4",
-      "kinopoisk_id": "1008644",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/4/0/0/0/0/0/0/610x900_13740.jpg",
-      "genre": {
-        "25": "Криминал",
-        "24": "Детектив",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "2": "Великобритания"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13707,
-      "name": "Шпионские войны",
-      "type": "series",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Spy Wars",
-      "year": 2019,
-      "activate_time": "2019-12-25 19:00:00",
-      "imdb": "7.8",
-      "imdb_id": "9865156",
-      "kinopoisk": null,
-      "kinopoisk_id": null,
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/0/7/0/0/0/0/0/610x900_13707.jpg",
-      "genre": {
-        "54": "Документальный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "2": "Великобритания"
-      },
-      "serial_status": "paused",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 12892,
-      "name": "National Geographic. Самые жуткие убийцы",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "World's Creepiest Killers",
-      "year": 2009,
-      "activate_time": "2019-12-25 17:50:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": null,
-      "kinopoisk_id": null,
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/2/8/9/2/0/0/0/0/0/610x900_12892.jpg",
-      "genre": {
-        "54": "Документальный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "105": "National Geographic"
-      }
-    },
-    {
-      "id": 13782,
-      "name": "Все реки текут",
-      "type": "series",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "All the Rivers Run",
-      "year": 1983,
-      "activate_time": "2019-12-25 16:24:00",
-      "imdb": "7.6",
-      "imdb_id": "0086663",
-      "kinopoisk": "7.9",
-      "kinopoisk_id": "271690",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/8/2/0/0/0/0/0/610x900_13782.jpg",
-      "genre": {
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "4": "Австралия"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 2,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13131,
-      "name": "Отверженные",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Les miserables",
-      "year": 2019,
-      "activate_time": "2019-12-25 14:19:00",
-      "imdb": "7.6",
-      "imdb_id": "10199590",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "1256262",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/1/3/1/0/0/0/0/0/610x900_13131.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция"
-      }
-    },
-    {
-      "id": 13743,
-      "name": "Ферма \"Спираль\"",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Spiral Farm",
-      "year": 2019,
-      "activate_time": "2019-12-24 19:28:00",
-      "imdb": "5.0",
-      "imdb_id": "7365040",
-      "kinopoisk": null,
-      "kinopoisk_id": "1061894",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/4/3/0/0/0/0/0/610x900_13743.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "3": "Испания",
-        "8": "Италия"
       }
     }
   ]

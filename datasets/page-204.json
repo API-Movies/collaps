@@ -1,6 +1,715 @@
 {
   "results": [
     {
+      "id": 1813,
+      "name": "Красная черепаха",
+      "type": "cartoon",
+      "age": "6+",
+      "quality": "HD (720p)",
+      "origin_name": "La Tortue Rouge",
+      "year": 2016,
+      "activate_time": "2018-08-27 12:38:46",
+      "imdb": "7.5",
+      "imdb_id": "3666024",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "879827",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/1/3/0/0/0/0/0/0/610x900_1813.jpg",
+      "genre": {
+        "6": "Фэнтези",
+        "37": "Детский",
+        "34": "Полнометражный",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "9": "Франция",
+        "18": "Япония",
+        "29": "Бельгия"
+      },
+      "collection": {
+        "18": "Про животных"
+      }
+    },
+    {
+      "id": 1812,
+      "name": "Призраки Элоиз",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Eloise",
+      "year": 2017,
+      "activate_time": "2018-08-27 12:36:44",
+      "imdb": "4.6",
+      "imdb_id": "3692652",
+      "kinopoisk": "4.8",
+      "kinopoisk_id": "846027",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/1/2/0/0/0/0/0/0/610x900_1812.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "45": "Фильмы на Хэллоуин",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 1811,
+      "name": "Отпетые напарники / По следу",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Skiptrace",
+      "year": 2016,
+      "activate_time": "2018-08-27 12:33:10",
+      "imdb": "5.7",
+      "imdb_id": "2238032",
+      "kinopoisk": "5.9",
+      "kinopoisk_id": "689957",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/1/1/0/0/0/0/0/0/610x900_1811.jpg",
+      "genre": {
+        "19": "Комедия",
+        "17": "Боевик",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "12": "Гонконг",
+        "1": "США",
+        "19": "Китай"
+      },
+      "collection": {
+        "21": "Для молодёжи",
+        "19": "Про ограбления, аферы и мошенников"
+      }
+    },
+    {
+      "id": 1810,
+      "name": "Битва преподов",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Fist Fight",
+      "year": 2017,
+      "activate_time": "2018-08-27 12:24:27",
+      "imdb": "5.6",
+      "imdb_id": "3401882",
+      "kinopoisk": "5.4",
+      "kinopoisk_id": "817965",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/1/0/0/0/0/0/0/0/610x900_1810.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "74": "Про школу",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 1808,
+      "name": "Разочарование",
+      "type": "cartoon-series",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Disenchantment",
+      "year": 2018,
+      "activate_time": "2018-08-27 10:57:09",
+      "imdb": "7.2",
+      "imdb_id": "5363918",
+      "kinopoisk": "7.5",
+      "kinopoisk_id": "1112702",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/8/0/0/0/0/0/0/610x900_1808.jpg",
+      "genre": {
+        "9": "Приключения",
+        "6": "Фэнтези",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "26": "Про монстров",
+        "21": "Для молодёжи"
+      },
+      "serial_status": "online",
+      "seasons": [
+        {
+          "poster": "https://img.imgilall.me/movies/season/8/9/0/0/0/0/0/0/0/0/610x900_890.jpg",
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            },
+            {
+              "episode": 13,
+              "iframe_url": ""
+            },
+            {
+              "episode": 14,
+              "iframe_url": ""
+            },
+            {
+              "episode": 15,
+              "iframe_url": ""
+            },
+            {
+              "episode": 16,
+              "iframe_url": ""
+            },
+            {
+              "episode": 17,
+              "iframe_url": ""
+            },
+            {
+              "episode": 18,
+              "iframe_url": ""
+            },
+            {
+              "episode": 19,
+              "iframe_url": ""
+            },
+            {
+              "episode": 20,
+              "iframe_url": ""
+            }
+          ]
+        },
+        {
+          "poster": "https://img.imgilall.me/movies/season/5/7/8/6/0/0/0/0/0/0/610x900_5786.jpg",
+          "iframe_url": "",
+          "season": 2,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1807,
+      "name": "Суперполицейские",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Super Troopers",
+      "year": 2001,
+      "activate_time": "2018-08-24 16:37:54",
+      "imdb": "7.1",
+      "imdb_id": "0247745",
+      "kinopoisk": "6.1",
+      "kinopoisk_id": "848",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/7/0/0/0/0/0/0/610x900_1807.jpg",
+      "genre": {
+        "25": "Криминал",
+        "24": "Детектив",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 1806,
+      "name": "Иллюзия любви",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Mal de pierres",
+      "year": 2016,
+      "activate_time": "2018-08-24 15:34:05",
+      "imdb": "6.7",
+      "imdb_id": "3794028",
+      "kinopoisk": "6.5",
+      "kinopoisk_id": "862939",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/6/0/0/0/0/0/0/610x900_1806.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "7": "Канада",
+        "9": "Франция",
+        "29": "Бельгия"
+      },
+      "collection": {
+        "38": "Про любовь"
+      }
+    },
+    {
+      "id": 1805,
+      "name": "Лего Фильм: Бэтмен",
+      "type": "cartoon",
+      "age": "6+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The LEGO Batman Movie",
+      "year": 2017,
+      "activate_time": "2018-08-24 15:32:45",
+      "imdb": "7.3",
+      "imdb_id": "4116284",
+      "kinopoisk": "7.0",
+      "kinopoisk_id": "843480",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/5/0/0/0/0/0/0/610x900_1805.jpg",
+      "genre": {
+        "9": "Приключения",
+        "6": "Фэнтези",
+        "37": "Детский",
+        "34": "Полнометражный",
+        "33": "Семейный",
+        "19": "Комедия",
+        "17": "Боевик",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США",
+        "25": "Дания"
+      },
+      "collection": {
+        "21": "Для молодёжи",
+        "2": "DC"
+      }
+    },
+    {
+      "id": 1804,
+      "name": "Планета динозавров",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Planet Dinosaur",
+      "year": 2011,
+      "activate_time": "2018-08-24 15:28:20",
+      "imdb": "8.2",
+      "imdb_id": "1998816",
+      "kinopoisk": "8.2",
+      "kinopoisk_id": "648762",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/4/0/0/0/0/0/0/610x900_1804.jpg",
+      "genre": {
+        "54": "Документальный",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "2": "Великобритания"
+      },
+      "collection": {
+        "91": "Про динозавров",
+        "18": "Про животных"
+      }
+    },
+    {
+      "id": 1803,
+      "name": "Пазманский дьявол",
+      "type": "film",
+      "age": "18+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Bleed for This",
+      "year": 2016,
+      "activate_time": "2018-08-24 15:24:18",
+      "imdb": "6.8",
+      "imdb_id": "1620935",
+      "kinopoisk": "6.8",
+      "kinopoisk_id": "502723",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/3/0/0/0/0/0/0/610x900_1803.jpg",
+      "genre": {
+        "27": "Биографический",
+        "23": "Спортивный",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "81": "Про звезд",
+        "78": "Биографии",
+        "16": "Про боевые искусства"
+      }
+    },
+    {
+      "id": 1802,
+      "name": "Космос между нами",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "The Space Between Us",
+      "year": 2017,
+      "activate_time": "2018-08-24 15:22:53",
+      "imdb": "6.4",
+      "imdb_id": "3922818",
+      "kinopoisk": "6.5",
+      "kinopoisk_id": "924990",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/2/0/0/0/0/0/0/610x900_1802.jpg",
+      "genre": {
+        "9": "Приключения",
+        "11": "Фантастика",
+        "10": "Зарубежный",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "43": "Про подростков",
+        "28": "Про космос"
+      }
+    },
+    {
+      "id": 1801,
+      "name": "Звонки",
+      "type": "film",
+      "age": "18+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Rings",
+      "year": 2017,
+      "activate_time": "2018-08-24 15:21:18",
+      "imdb": "4.5",
+      "imdb_id": "0498381",
+      "kinopoisk": "4.8",
+      "kinopoisk_id": "252279",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/1/0/0/0/0/0/0/610x900_1801.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "45": "Фильмы на Хэллоуин",
+        "22": "Про призраков",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 1800,
+      "name": "Великая стена",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Great Wall",
+      "year": 2016,
+      "activate_time": "2018-08-24 15:19:32",
+      "imdb": "5.9",
+      "imdb_id": "2034800",
+      "kinopoisk": "6.1",
+      "kinopoisk_id": "611822",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/0/0/0/0/0/0/0/0/610x900_1800.jpg",
+      "genre": {
+        "9": "Приключения",
+        "6": "Фэнтези",
+        "41": "Блокбастер",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "7": "Канада",
+        "12": "Гонконг",
+        "1": "США",
+        "4": "Австралия",
+        "19": "Китай"
+      },
+      "collection": {
+        "26": "Про монстров",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 1799,
+      "name": "Дом напротив",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "The Neighbor",
+      "year": 2016,
+      "activate_time": "2018-08-24 15:17:28",
+      "imdb": "5.8",
+      "imdb_id": "3330764",
+      "kinopoisk": "5.6",
+      "kinopoisk_id": "811619",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/7/9/9/0/0/0/0/0/0/610x900_1799.jpg",
+      "genre": {
+        "25": "Криминал",
+        "26": "Ужасы",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "45": "Фильмы на Хэллоуин",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 1798,
+      "name": "Трансформация",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Rupture",
+      "year": 2016,
+      "activate_time": "2018-08-24 15:16:16",
+      "imdb": "4.8",
+      "imdb_id": "4578118",
+      "kinopoisk": "4.8",
+      "kinopoisk_id": "905758",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/7/9/8/0/0/0/0/0/0/610x900_1798.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "7": "Канада",
+        "1": "США"
+      }
+    },
+    {
+      "id": 1797,
+      "name": "Семейное ограбление",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Mes trésors / Family Heist",
+      "year": 2017,
+      "activate_time": "2018-08-24 15:13:14",
+      "imdb": "5.5",
+      "imdb_id": "5286268",
+      "kinopoisk": "5.8",
+      "kinopoisk_id": "959858",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/7/9/7/0/0/0/0/0/0/610x900_1797.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "9": "Франция"
+      },
+      "collection": {
+        "19": "Про ограбления, аферы и мошенников"
+      }
+    },
+    {
+      "id": 1796,
+      "name": "Не стучи дважды",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Don't Knock Twice",
+      "year": 2016,
+      "activate_time": "2018-08-24 15:11:13",
+      "imdb": "5.1",
+      "imdb_id": "3622110",
+      "kinopoisk": "4.8",
+      "kinopoisk_id": "910183",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/7/9/6/0/0/0/0/0/0/610x900_1796.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "2": "Великобритания"
+      },
+      "collection": {
+        "45": "Фильмы на Хэллоуин",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 1795,
+      "name": "Балерина",
+      "type": "cartoon",
+      "age": "6+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Ballerina",
+      "year": 2016,
+      "activate_time": "2018-08-24 15:09:59",
+      "imdb": "6.8",
+      "imdb_id": "2261287",
+      "kinopoisk": "7.0",
+      "kinopoisk_id": "674249",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/7/9/5/0/0/0/0/0/0/610x900_1795.jpg",
+      "genre": {
+        "9": "Приключения",
+        "6": "Фэнтези",
+        "37": "Детский",
+        "34": "Полнометражный",
+        "33": "Семейный",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "7": "Канада",
+        "9": "Франция"
+      }
+    },
+    {
       "id": 1794,
       "name": "Рождение нации",
       "type": "film",
@@ -5548,582 +6257,6 @@
       "collection": {
         "5": "С наградами",
         "11": "Для женщин"
-      }
-    },
-    {
-      "id": 1595,
-      "name": "Леди Бёрд",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Lady Bird",
-      "year": 2017,
-      "activate_time": "2018-08-14 12:01:43",
-      "imdb": "7.4",
-      "imdb_id": "4925292",
-      "kinopoisk": "7.0",
-      "kinopoisk_id": "958293",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/9/5/0/0/0/0/0/0/610x900_1595.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "5": "С наградами",
-        "43": "Про подростков",
-        "21": "Для молодёжи"
-      }
-    },
-    {
-      "id": 1594,
-      "name": "Последнее слово",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "The Last Word",
-      "year": 2017,
-      "activate_time": "2018-08-14 12:00:03",
-      "imdb": "6.6",
-      "imdb_id": "5023260",
-      "kinopoisk": "7.0",
-      "kinopoisk_id": "933117",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/9/4/0/0/0/0/0/0/610x900_1594.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "39": "На реальных событиях",
-        "27": "Про жизнь"
-      }
-    },
-    {
-      "id": 1593,
-      "name": "Окча",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Okja",
-      "year": 2017,
-      "activate_time": "2018-08-14 11:49:34",
-      "imdb": "7.3",
-      "imdb_id": "3967856",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "909848",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/9/3/0/0/0/0/0/0/610x900_1593.jpg",
-      "genre": {
-        "9": "Приключения",
-        "11": "Фантастика",
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "16": "Корея Южная"
-      },
-      "collection": {
-        "26": "Про монстров"
-      }
-    },
-    {
-      "id": 1592,
-      "name": "Борг/Макинрой",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Borg McEnroe",
-      "year": 2017,
-      "activate_time": "2018-08-14 11:27:31",
-      "imdb": "6.9",
-      "imdb_id": "5727282",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "978613",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/9/2/0/0/0/0/0/0/610x900_1592.jpg",
-      "genre": {
-        "27": "Биографический",
-        "23": "Спортивный",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "25": "Дания",
-        "28": "Швеция",
-        "48": "Финляндия"
-      },
-      "collection": {
-        "78": "Биографии",
-        "76": "Про спорт",
-        "39": "На реальных событиях",
-        "21": "Для молодёжи"
-      }
-    },
-    {
-      "id": 1591,
-      "name": "Ангелы Карли",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Kiss and Cry",
-      "year": 2017,
-      "activate_time": "2018-08-14 11:25:17",
-      "imdb": "6.7",
-      "imdb_id": "5224012",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "954223",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/9/1/0/0/0/0/0/0/610x900_1591.jpg",
-      "genre": {
-        "27": "Биографический",
-        "23": "Спортивный",
-        "10": "Зарубежный",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "7": "Канада"
-      },
-      "collection": {
-        "78": "Биографии",
-        "76": "Про спорт",
-        "39": "На реальных событиях",
-        "21": "Для молодёжи"
-      }
-    },
-    {
-      "id": 1589,
-      "name": "Меган Ливи",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Megan Leavey",
-      "year": 2017,
-      "activate_time": "2018-08-14 11:17:17",
-      "imdb": "7.1",
-      "imdb_id": "4899370",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "928156",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/9/0/0/0/0/0/0/610x900_1589.jpg",
-      "genre": {
-        "32": "Военный",
-        "27": "Биографический",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "78": "Биографии"
-      }
-    },
-    {
-      "id": 1588,
-      "name": "Недруги",
-      "type": "film",
-      "age": "18+",
-      "quality": "HD (720p)",
-      "origin_name": "Hostiles",
-      "year": 2017,
-      "activate_time": "2018-08-14 11:15:00",
-      "imdb": "7.2",
-      "imdb_id": "5478478",
-      "kinopoisk": "7.3",
-      "kinopoisk_id": "963016",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/8/0/0/0/0/0/0/610x900_1588.jpg",
-      "genre": {
-        "9": "Приключения",
-        "29": "Вестерн",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 1587,
-      "name": "Как Витька Чеснок вез Леху Штыря в дом инвалидов",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "",
-      "year": 2017,
-      "activate_time": "2018-08-14 11:13:02",
-      "imdb": "7.0",
-      "imdb_id": "5837242",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "909700",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/7/0/0/0/0/0/0/610x900_1587.jpg",
-      "genre": {
-        "25": "Криминал",
-        "22": "Русский",
-        "7": "Драма"
-      },
-      "country": {
-        "5": "Россия"
-      },
-      "collection": {
-        "21": "Для молодёжи",
-        "62": "Про полицию"
-      }
-    },
-    {
-      "id": 1586,
-      "name": "Мешок мрамора",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Un sac de billes",
-      "year": 2017,
-      "activate_time": "2018-08-14 11:10:10",
-      "imdb": "7.3",
-      "imdb_id": "5091612",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "942720",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/6/0/0/0/0/0/0/610x900_1586.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "7": "Канада",
-        "9": "Франция",
-        "51": "Чехия"
-      }
-    },
-    {
-      "id": 1585,
-      "name": "Бахубали 2: Завершение",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Bahubali 2: The Conclusion",
-      "year": 2017,
-      "activate_time": "2018-08-14 11:07:11",
-      "imdb": "8.2",
-      "imdb_id": "4849438",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "922572",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/5/0/0/0/0/0/0/610x900_1585.jpg",
-      "genre": {
-        "9": "Приключения",
-        "32": "Военный",
-        "28": "Исторический",
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "26": "Индия"
-      },
-      "collection": {
-        "93": "Про средневековье"
-      }
-    },
-    {
-      "id": 1584,
-      "name": "Бахубали",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Bahubali: The Beginning",
-      "year": 2015,
-      "activate_time": "2018-08-14 11:06:44",
-      "imdb": "8.0",
-      "imdb_id": "2631186",
-      "kinopoisk": "7.0",
-      "kinopoisk_id": "731343",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/4/0/0/0/0/0/0/610x900_1584.jpg",
-      "genre": {
-        "9": "Приключения",
-        "32": "Военный",
-        "28": "Исторический",
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "26": "Индия"
-      },
-      "collection": {
-        "93": "Про средневековье",
-        "21": "Для молодёжи"
-      }
-    },
-    {
-      "id": 1583,
-      "name": "Зигота",
-      "type": "film",
-      "age": "18+",
-      "quality": "HD (720p)",
-      "origin_name": "Zygote",
-      "year": 2017,
-      "activate_time": "2018-08-14 10:58:50",
-      "imdb": "7.3",
-      "imdb_id": "7078780",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "1046599",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/3/0/0/0/0/0/0/610x900_1583.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "11": "Фантастика",
-        "53": "Короткометражный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "7": "Канада"
-      },
-      "collection": {
-        "45": "Фильмы на Хэллоуин",
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 1582,
-      "name": "Оскорбление",
-      "type": "film",
-      "age": "18+",
-      "quality": "HD (720p)",
-      "origin_name": "L'insulte",
-      "year": 2017,
-      "activate_time": "2018-08-14 10:55:26",
-      "imdb": "7.7",
-      "imdb_id": "7048622",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "1047308",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/2/0/0/0/0/0/0/610x900_1582.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "46": "Кипр",
-        "57": "Ливан",
-        "1": "США",
-        "9": "Франция",
-        "29": "Бельгия"
-      },
-      "collection": {
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 1581,
-      "name": "Апелляция / Повторное расследование",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Jaesim / Retrial / New Trial",
-      "year": 2017,
-      "activate_time": "2018-08-14 10:54:01",
-      "imdb": "6.8",
-      "imdb_id": "6731636",
-      "kinopoisk": "7.0",
-      "kinopoisk_id": "1008570",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/1/0/0/0/0/0/0/610x900_1581.jpg",
-      "genre": {
-        "24": "Детектив",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "16": "Корея Южная"
-      },
-      "collection": {
-        "13": "С неожиданным концом"
-      }
-    },
-    {
-      "id": 1580,
-      "name": "Конор МакГрегор: Печально известный",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Conor McGregor: Notorious",
-      "year": 2017,
-      "activate_time": "2018-08-14 10:51:50",
-      "imdb": "7.2",
-      "imdb_id": "7518466",
-      "kinopoisk": "7.3",
-      "kinopoisk_id": "1086327",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/0/0/0/0/0/0/0/610x900_1580.jpg",
-      "genre": {
-        "54": "Документальный",
-        "27": "Биографический",
-        "23": "Спортивный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "21": "Ирландия"
-      },
-      "collection": {
-        "78": "Биографии",
-        "76": "Про спорт",
-        "21": "Для молодёжи"
-      }
-    },
-    {
-      "id": 1579,
-      "name": "Выстрел в пустоту",
-      "type": "film",
-      "age": "18+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Shot Caller",
-      "year": 2017,
-      "activate_time": "2018-08-14 10:49:25",
-      "imdb": "7.3",
-      "imdb_id": "4633690",
-      "kinopoisk": "7.4",
-      "kinopoisk_id": "910353",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/7/9/0/0/0/0/0/0/610x900_1579.jpg",
-      "genre": {
-        "25": "Криминал",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "56": "Про тюрьму",
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 1578,
-      "name": "На игле 2 / Т2 Трейнспоттинг",
-      "type": "film",
-      "age": "18+",
-      "quality": "HD (720p)",
-      "origin_name": "T2 Trainspotting",
-      "year": 2017,
-      "activate_time": "2018-08-14 10:16:15",
-      "imdb": "7.2",
-      "imdb_id": "2763304",
-      "kinopoisk": "7.3",
-      "kinopoisk_id": "744776",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/7/8/0/0/0/0/0/0/610x900_1578.jpg",
-      "genre": {
-        "25": "Криминал",
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "2": "Великобритания"
-      },
-      "collection": {
-        "14": "Для взрослых",
-        "62": "Про полицию"
-      }
-    },
-    {
-      "id": 1577,
-      "name": "На игле",
-      "type": "film",
-      "age": "18+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Trainspotting",
-      "year": 1996,
-      "activate_time": "2018-08-14 10:15:32",
-      "imdb": "8.1",
-      "imdb_id": "0117951",
-      "kinopoisk": "7.9",
-      "kinopoisk_id": "515",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/7/7/0/0/0/0/0/0/610x900_1577.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "2": "Великобритания"
-      },
-      "collection": {
-        "77": "Лучшие фильмы 20 века",
-        "14": "Для взрослых"
       }
     }
   ]

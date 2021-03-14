@@ -1,6 +1,31 @@
 {
   "results": [
     {
+      "id": 36012,
+      "name": "Поли",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Poly",
+      "year": 2020,
+      "activate_time": "2020-10-21 12:20:00",
+      "imdb": "5.7",
+      "imdb_id": "11060092",
+      "kinopoisk": null,
+      "kinopoisk_id": "1309698",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/3/6/0/1/2/0/0/0/0/0/610x900_36012.jpg",
+      "genre": {
+        "33": "Семейный"
+      },
+      "country": {
+        "9": "Франция"
+      }
+    },
+    {
       "id": 37541,
       "name": "Игры судьбы",
       "type": "film",
@@ -189,7 +214,7 @@
       "name": "Мой год Сэлинджера",
       "type": "film",
       "age": null,
-      "quality": "SD",
+      "quality": "HD (720p)",
       "origin_name": "My Salinger Year",
       "year": 2020,
       "activate_time": "2020-10-21 11:32:00",
@@ -7216,36 +7241,6 @@
       },
       "country": {
         "1": "США"
-      }
-    },
-    {
-      "id": 25151,
-      "name": "Всадник",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "The Horseman",
-      "year": 2008,
-      "activate_time": "2020-10-17 04:17:00",
-      "imdb": "6.5",
-      "imdb_id": "1060255",
-      "kinopoisk": "6.1",
-      "kinopoisk_id": "392235",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/5/1/5/1/0/0/0/0/0/610x900_25151.jpg",
-      "genre": {
-        "25": "Криминал",
-        "13": "Триллер"
-      },
-      "country": {
-        "4": "Австралия"
-      },
-      "collection": {
-        "29": "Психологические",
-        "21": "Для молодёжи"
       }
     }
   ]

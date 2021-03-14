@@ -1,6 +1,35 @@
 {
   "results": [
     {
+      "id": 21543,
+      "name": "Экзистенция",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "eXistenZ",
+      "year": 1999,
+      "activate_time": "2020-06-02 21:20:00",
+      "imdb": "6.8",
+      "imdb_id": "0120907",
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "7569",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/1/5/4/3/0/0/0/0/0/610x900_21543.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "11": "Фантастика",
+        "13": "Триллер"
+      },
+      "country": {
+        "7": "Канада",
+        "2": "Великобритания",
+        "9": "Франция"
+      }
+    },
+    {
       "id": 21554,
       "name": "Завещание",
       "type": "film",
@@ -6679,63 +6708,6 @@
             },
             {
               "episode": 2,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 21183,
-      "name": "Криминальное наследство",
-      "type": "series",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "",
-      "year": 2015,
-      "activate_time": "2020-06-02 09:28:00",
-      "imdb": null,
-      "imdb_id": "4996628",
-      "kinopoisk": "6.7",
-      "kinopoisk_id": "842859",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/1/1/8/3/0/0/0/0/0/610x900_21183.jpg",
-      "genre": {
-        "25": "Криминал",
-        "22": "Русский",
-        "17": "Боевик",
-        "7": "Драма"
-      },
-      "country": {
-        "5": "Россия"
-      },
-      "collection": {
-        "12": "Для мужчин"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
               "iframe_url": ""
             }
           ]

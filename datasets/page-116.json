@@ -1,6 +1,37 @@
 {
   "results": [
     {
+      "id": 20827,
+      "name": "Октагон",
+      "type": "film",
+      "age": "18+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Octagon",
+      "year": 1980,
+      "activate_time": "2020-06-04 00:05:00",
+      "imdb": "5.2",
+      "imdb_id": "0081259",
+      "kinopoisk": "5.9",
+      "kinopoisk_id": "28593",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/0/8/2/7/0/0/0/0/0/610x900_20827.jpg",
+      "genre": {
+        "17": "Боевик",
+        "13": "Триллер",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "57": "Про мафию, банды"
+      }
+    },
+    {
       "id": 21668,
       "name": "Чужие из бездны",
       "type": "film",
@@ -6716,35 +6747,6 @@
       },
       "collection": {
         "71": "Про путешествия"
-      }
-    },
-    {
-      "id": 21543,
-      "name": "Экзистенция",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "eXistenZ",
-      "year": 1999,
-      "activate_time": "2020-06-02 21:20:00",
-      "imdb": "6.8",
-      "imdb_id": "0120907",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "7569",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/1/5/4/3/0/0/0/0/0/610x900_21543.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "11": "Фантастика",
-        "13": "Триллер"
-      },
-      "country": {
-        "7": "Канада",
-        "2": "Великобритания",
-        "9": "Франция"
       }
     }
   ]

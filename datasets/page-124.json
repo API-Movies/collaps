@@ -1,6 +1,70 @@
 {
   "results": [
     {
+      "id": 19634,
+      "name": "Дежурный",
+      "type": "series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Rostered On",
+      "year": 2016,
+      "activate_time": "2020-05-25 11:04:00",
+      "imdb": "7.2",
+      "imdb_id": "6156654",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/9/6/3/4/0/0/0/0/0/610x900_19634.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "4": "Австралия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 19650,
       "name": "Посредник",
       "type": "series",
@@ -7765,29 +7829,6 @@
       },
       "country": {
         "1": "США"
-      }
-    },
-    {
-      "id": 19518,
-      "name": "Смелый большой панда",
-      "type": "cartoon",
-      "age": "0+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Little Big Panda",
-      "year": 2011,
-      "activate_time": "2020-05-21 15:25:00",
-      "imdb": "5.2",
-      "imdb_id": "1576423",
-      "kinopoisk": "5.1",
-      "kinopoisk_id": "498818",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/9/5/1/8/0/0/0/0/0/610x900_19518.jpg",
-      "country": {
-        "19": "Китай",
-        "20": "Германия"
       }
     }
   ]

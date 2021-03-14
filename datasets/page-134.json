@@ -1,6 +1,34 @@
 {
   "results": [
     {
+      "id": 17635,
+      "name": "Жизнь после смерти",
+      "type": "film",
+      "age": "16+",
+      "quality": "SD",
+      "origin_name": "Living with the Dead",
+      "year": 2002,
+      "activate_time": "2020-05-04 14:13:00",
+      "imdb": "7.1",
+      "imdb_id": "0289652",
+      "kinopoisk": "7.2",
+      "kinopoisk_id": "84791",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/7/6/3/5/0/0/0/0/0/610x900_17635.jpg",
+      "genre": {
+        "25": "Криминал",
+        "6": "Фэнтези",
+        "24": "Детектив",
+        "13": "Триллер"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 17634,
       "name": "Москва – не Москва",
       "type": "film",
@@ -6599,43 +6627,6 @@
         "78": "Биографии",
         "39": "На реальных событиях",
         "34": "Мотивирующие"
-      }
-    },
-    {
-      "id": 17334,
-      "name": "Монстр",
-      "type": "film",
-      "age": "18+",
-      "quality": "HD (720p)",
-      "origin_name": "Monster",
-      "year": 2003,
-      "activate_time": "2020-04-30 23:10:00",
-      "imdb": "7.3",
-      "imdb_id": "0340855",
-      "kinopoisk": "7.3",
-      "kinopoisk_id": "6177",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/7/3/3/4/0/0/0/0/0/610x900_17334.jpg",
-      "genre": {
-        "25": "Криминал",
-        "27": "Биографический",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "20": "Германия"
-      },
-      "collection": {
-        "78": "Биографии",
-        "73": "Про девушек",
-        "39": "На реальных событиях",
-        "25": "Про маньяков",
-        "14": "Для взрослых"
       }
     }
   ]

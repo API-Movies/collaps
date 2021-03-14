@@ -1,6 +1,63 @@
 {
   "results": [
     {
+      "id": 21183,
+      "name": "Криминальное наследство",
+      "type": "series",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2015,
+      "activate_time": "2020-06-02 09:28:00",
+      "imdb": null,
+      "imdb_id": "4996628",
+      "kinopoisk": "6.7",
+      "kinopoisk_id": "842859",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/1/1/8/3/0/0/0/0/0/610x900_21183.jpg",
+      "genre": {
+        "25": "Криминал",
+        "22": "Русский",
+        "17": "Боевик",
+        "7": "Драма"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "12": "Для мужчин"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 21069,
       "name": "Опыт Far Cry",
       "type": "series",
@@ -6541,31 +6598,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 21107,
-      "name": "Одноклассницы: Новый поворот",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "",
-      "year": 2017,
-      "activate_time": "2020-06-01 14:12:00",
-      "imdb": "4.1",
-      "imdb_id": "7351178",
-      "kinopoisk": "4.5",
-      "kinopoisk_id": "1008216",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/1/1/0/7/0/0/0/0/0/610x900_21107.jpg",
-      "genre": {
-        "19": "Комедия"
-      },
-      "country": {
-        "5": "Россия"
-      }
     }
   ]
 }

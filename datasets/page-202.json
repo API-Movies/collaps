@@ -1,6 +1,144 @@
 {
   "results": [
     {
+      "id": 2278,
+      "name": "Милый во Франкcе",
+      "type": "anime-series",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Darling in the FranXX",
+      "year": 2018,
+      "activate_time": "2018-09-14 11:14:17",
+      "imdb": "7.3",
+      "imdb_id": "7865090",
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "1113120",
+      "world_art": "7.4",
+      "world_art_id": "9308",
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/2/7/8/0/0/0/0/0/0/610x900_2278.jpg",
+      "genre": {
+        "9": "Приключения",
+        "11": "Фантастика",
+        "6": "Фэнтези",
+        "37": "Детский",
+        "17": "Боевик",
+        "10": "Зарубежный",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "18": "Япония"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": "https://img.imgilall.me/movies/season/1/0/9/1/0/0/0/0/0/0/610x900_1091.jpg",
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            },
+            {
+              "episode": 13,
+              "iframe_url": ""
+            },
+            {
+              "episode": 14,
+              "iframe_url": ""
+            },
+            {
+              "episode": 15,
+              "iframe_url": ""
+            },
+            {
+              "episode": 16,
+              "iframe_url": ""
+            },
+            {
+              "episode": 17,
+              "iframe_url": ""
+            },
+            {
+              "episode": 18,
+              "iframe_url": ""
+            },
+            {
+              "episode": 19,
+              "iframe_url": ""
+            },
+            {
+              "episode": 20,
+              "iframe_url": ""
+            },
+            {
+              "episode": 21,
+              "iframe_url": ""
+            },
+            {
+              "episode": 22,
+              "iframe_url": ""
+            },
+            {
+              "episode": 23,
+              "iframe_url": ""
+            },
+            {
+              "episode": 24,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 2277,
       "name": "Семь Смертных Грехов",
       "type": "anime-series",
@@ -11605,7 +11743,7 @@
       "name": "Бесстыжие / Бесстыдники",
       "type": "series",
       "age": "18+",
-      "quality": "FHD (1080p)",
+      "quality": "HD (720p)",
       "origin_name": "Shameless (US)",
       "year": 2011,
       "activate_time": "2018-09-07 12:10:00",
@@ -12225,6 +12363,10 @@
             {
               "episode": 7,
               "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
             }
           ]
         }
@@ -12760,6 +12902,10 @@
             },
             {
               "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
               "iframe_url": ""
             }
           ]
@@ -19671,35 +19817,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 2074,
-      "name": "Искатель рассвета",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "The Dawnseeker",
-      "year": 2018,
-      "activate_time": "2018-09-06 09:27:25",
-      "imdb": "4.2",
-      "imdb_id": "8548792",
-      "kinopoisk": null,
-      "kinopoisk_id": "1163032",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/0/7/4/0/0/0/0/0/0/610x900_2074.jpg",
-      "genre": {
-        "11": "Фантастика",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "21": "Для молодёжи"
-      }
     }
   ]
 }

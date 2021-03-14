@@ -1,6 +1,35 @@
 {
   "results": [
     {
+      "id": 16065,
+      "name": "Три двери в ад",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Portae Infernales",
+      "year": 2019,
+      "activate_time": "2020-03-26 22:00:00",
+      "imdb": "4.5",
+      "imdb_id": "10873728",
+      "kinopoisk": null,
+      "kinopoisk_id": "1302135",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/0/6/5/0/0/0/0/0/610x900_16065.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "49": "Австрия"
+      },
+      "collection": {
+        "14": "Для взрослых"
+      }
+    },
+    {
       "id": 16087,
       "name": "Король Гари",
       "type": "series",
@@ -7821,36 +7850,6 @@
       },
       "country": {
         "1": "США"
-      }
-    },
-    {
-      "id": 15869,
-      "name": "Техасец",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Tejano",
-      "year": 2018,
-      "activate_time": "2020-03-16 22:05:00",
-      "imdb": "5.7",
-      "imdb_id": "8257900",
-      "kinopoisk": null,
-      "kinopoisk_id": "1133175",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/6/9/0/0/0/0/0/610x900_15869.jpg",
-      "genre": {
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "57": "Про мафию, банды",
-        "19": "Про ограбления, аферы и мошенников"
       }
     }
   ]

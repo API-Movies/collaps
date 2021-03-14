@@ -1,6 +1,34 @@
 {
   "results": [
     {
+      "id": 19080,
+      "name": "Зубастики 3",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Critters 3",
+      "year": 1991,
+      "activate_time": "2020-05-18 13:28:00",
+      "imdb": "4.5",
+      "imdb_id": "0101627",
+      "kinopoisk": "5.6",
+      "kinopoisk_id": "6876",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/9/0/8/0/0/0/0/0/0/610x900_19080.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "11": "Фантастика",
+        "19": "Комедия",
+        "13": "Триллер"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 19082,
       "name": "Он посылает дождь",
       "type": "film",
@@ -8033,31 +8061,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 18887,
-      "name": "Дорога в Редемпшн",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Redemption Road",
-      "year": 2010,
-      "activate_time": "2020-05-15 14:16:00",
-      "imdb": "5.7",
-      "imdb_id": "1470020",
-      "kinopoisk": null,
-      "kinopoisk_id": "599415",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/8/8/7/0/0/0/0/0/610x900_18887.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
     }
   ]
 }

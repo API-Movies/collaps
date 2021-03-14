@@ -1,6 +1,35 @@
 {
   "results": [
     {
+      "id": 44297,
+      "name": "Под маской Марвел",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Marvel's Behind the Mask",
+      "year": 2021,
+      "activate_time": "2021-02-15 00:09:00",
+      "imdb": "7.1",
+      "imdb_id": "13885628",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/4/2/9/7/0/0/0/0/0/610x900_44297.jpg",
+      "genre": {
+        "54": "Документальный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "37": "Disney",
+        "1": "Marvel"
+      }
+    },
+    {
       "id": 44296,
       "name": "Рыба-кузовок",
       "type": "film",
@@ -5488,6 +5517,10 @@
             {
               "episode": 17,
               "iframe_url": ""
+            },
+            {
+              "episode": 19,
+              "iframe_url": ""
             }
           ]
         }
@@ -9114,35 +9147,6 @@
       },
       "country": {
         "1": "США"
-      }
-    },
-    {
-      "id": 44093,
-      "name": "Создание \"Хода Королевы\"",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Creating the Queen's Gambit",
-      "year": 2021,
-      "activate_time": "2021-02-05 13:53:00",
-      "imdb": "7.0",
-      "imdb_id": "13818410",
-      "kinopoisk": null,
-      "kinopoisk_id": null,
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/4/0/9/3/0/0/0/0/0/610x900_44093.jpg",
-      "genre": {
-        "54": "Документальный",
-        "53": "Короткометражный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "40": "Netflix"
       }
     }
   ]

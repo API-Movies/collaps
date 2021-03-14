@@ -1,6 +1,36 @@
 {
   "results": [
     {
+      "id": 20768,
+      "name": "Аномалия",
+      "type": "film",
+      "age": "6+",
+      "quality": "HD (720p)",
+      "origin_name": "Anomaly",
+      "year": 2017,
+      "activate_time": "2020-05-29 20:08:00",
+      "imdb": "6.3",
+      "imdb_id": "7752620",
+      "kinopoisk": "4.7",
+      "kinopoisk_id": "1043819",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/0/7/6/8/0/0/0/0/0/610x900_20768.jpg",
+      "genre": {
+        "9": "Приключения",
+        "33": "Семейный",
+        "24": "Детектив"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "71": "Про путешествия"
+      }
+    },
+    {
       "id": 20802,
       "name": "Болотная тварь",
       "type": "film",
@@ -12002,33 +12032,6 @@
       },
       "country": {
         "3": "Испания"
-      }
-    },
-    {
-      "id": 20610,
-      "name": "Преступления и проступки",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Crimes and Misdemeanors",
-      "year": 1989,
-      "activate_time": "2020-05-28 19:05:00",
-      "imdb": "7.9",
-      "imdb_id": "0097123",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "2740",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/0/6/1/0/0/0/0/0/0/610x900_20610.jpg",
-      "genre": {
-        "19": "Комедия",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
       }
     }
   ]

@@ -1,6 +1,36 @@
 {
   "results": [
     {
+      "id": 15869,
+      "name": "Техасец",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Tejano",
+      "year": 2018,
+      "activate_time": "2020-03-16 22:05:00",
+      "imdb": "5.7",
+      "imdb_id": "8257900",
+      "kinopoisk": null,
+      "kinopoisk_id": "1133175",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/8/6/9/0/0/0/0/0/610x900_15869.jpg",
+      "genre": {
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "57": "Про мафию, банды",
+        "19": "Про ограбления, аферы и мошенников"
+      }
+    },
+    {
       "id": 15852,
       "name": "Фрейд",
       "type": "series",
@@ -11723,34 +11753,6 @@
       },
       "collection": {
         "27": "Про жизнь"
-      }
-    },
-    {
-      "id": 15687,
-      "name": "Габриэль",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Gabriel",
-      "year": 2018,
-      "activate_time": "2020-02-28 10:31:00",
-      "imdb": "6.4",
-      "imdb_id": "8534294",
-      "kinopoisk": null,
-      "kinopoisk_id": "1176974",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/6/8/7/0/0/0/0/0/610x900_15687.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "62": "Португалия"
-      },
-      "collection": {
-        "76": "Про спорт"
       }
     }
   ]

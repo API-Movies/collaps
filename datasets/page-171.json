@@ -1,6 +1,33 @@
 {
   "results": [
     {
+      "id": 10141,
+      "name": "Идеальная кожа",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Perfect Skin",
+      "year": 2018,
+      "activate_time": "2019-07-30 12:03:00",
+      "imdb": "5.2",
+      "imdb_id": "6301784",
+      "kinopoisk": "5.2",
+      "kinopoisk_id": "1031663",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/1/4/1/0/0/0/0/0/610x900_10141.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "2": "Великобритания"
+      }
+    },
+    {
       "id": 10134,
       "name": "Рам и Лила",
       "type": "film",
@@ -15284,7 +15311,7 @@
       "name": "Пенниуорт",
       "type": "series",
       "age": "16+",
-      "quality": "HD (720p)",
+      "quality": "FHD (1080p)",
       "origin_name": "Pennyworth",
       "year": 2019,
       "activate_time": "2019-07-22 23:09:00",
@@ -15384,6 +15411,10 @@
             },
             {
               "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
               "iframe_url": ""
             }
           ]
@@ -16683,32 +16714,6 @@
       },
       "country": {
         "26": "Индия"
-      }
-    },
-    {
-      "id": 9742,
-      "name": "Таинственное происшествие в Лувре",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "Mystery at the Louvre Museum",
-      "year": 2017,
-      "activate_time": "2019-07-22 17:57:00",
-      "imdb": "6.7",
-      "imdb_id": "7798160",
-      "kinopoisk": null,
-      "kinopoisk_id": "1145537",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/9/7/4/2/0/0/0/0/0/0/610x900_9742.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция"
       }
     }
   ]

@@ -1,6 +1,31 @@
 {
   "results": [
     {
+      "id": 39269,
+      "name": "Mister Пронька",
+      "type": "cartoon",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "",
+      "year": 1991,
+      "activate_time": "2020-10-14 04:21:00",
+      "imdb": "7.3",
+      "imdb_id": "4272668",
+      "kinopoisk": "8.0",
+      "kinopoisk_id": "436339",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/9/2/6/9/0/0/0/0/0/610x900_39269.jpg",
+      "genre": {
+        "53": "Короткометражный"
+      },
+      "country": {
+        "24": "СССР"
+      }
+    },
+    {
       "id": 38549,
       "name": "Страшный лес",
       "type": "film",
@@ -4986,6 +5011,10 @@
             {
               "episode": 21,
               "iframe_url": ""
+            },
+            {
+              "episode": 22,
+              "iframe_url": ""
             }
           ]
         }
@@ -6519,31 +6548,6 @@
       },
       "country": {
         "12": "Гонконг"
-      }
-    },
-    {
-      "id": 37868,
-      "name": "Chitemma Mogudu",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "",
-      "year": 1992,
-      "activate_time": "2020-10-12 16:11:00",
-      "imdb": "7.3",
-      "imdb_id": "0245917",
-      "kinopoisk": null,
-      "kinopoisk_id": "409644",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/7/8/6/8/0/0/0/0/0/610x900_37868.jpg",
-      "genre": {
-        "19": "Комедия"
-      },
-      "country": {
-        "26": "Индия"
       }
     }
   ]

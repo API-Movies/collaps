@@ -1,6 +1,57 @@
 {
   "results": [
     {
+      "id": 37031,
+      "name": "Просто представь, что мы знаем",
+      "type": "series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2020,
+      "activate_time": "2020-09-24 22:12:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "1355058",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/3/7/0/3/1/0/0/0/0/0/610x900_37031.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "online",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 37267,
       "name": "Греховная неверность",
       "type": "film",
@@ -10962,94 +11013,6 @@
       "country": {
         "4": "Австралия"
       }
-    },
-    {
-      "id": 37053,
-      "name": "Брестфордские жены",
-      "type": "series",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Bedford Wives",
-      "year": 2017,
-      "activate_time": "2020-09-16 02:15:00",
-      "imdb": "5.1",
-      "imdb_id": "7875562",
-      "kinopoisk": null,
-      "kinopoisk_id": "1175741",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/7/0/5/3/0/0/0/0/0/610x900_37053.jpg",
-      "genre": {
-        "19": "Комедия",
-        "7": "Драма"
-      },
-      "country": {
-        "27": "ЮАР"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            },
-            {
-              "episode": 12,
-              "iframe_url": ""
-            },
-            {
-              "episode": 13,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
     }
   ]
 }

@@ -1,6 +1,66 @@
 {
   "results": [
     {
+      "id": 6872,
+      "name": "Исчезновение Мауры Мюррей",
+      "type": "series",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "The Disappearance of Maura Murray",
+      "year": 2017,
+      "activate_time": "2019-03-18 17:25:07",
+      "imdb": "6.6",
+      "imdb_id": "7345380",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/6/8/7/2/0/0/0/0/0/0/610x900_6872.jpg",
+      "genre": {
+        "25": "Криминал",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": "https://img.imgilall.me/movies/season/4/6/9/3/0/0/0/0/0/0/610x900_4693.jpg",
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 6871,
       "name": "Голубые глаза",
       "type": "series",
@@ -6793,6 +6853,17 @@
               "iframe_url": ""
             }
           ]
+        },
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 4,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            }
+          ]
         }
       ]
     },
@@ -12097,32 +12168,6 @@
       },
       "country": {
         "7": "Канада"
-      }
-    },
-    {
-      "id": 6637,
-      "name": "Экслибрис: Нью-Йоркская публичная библиотека",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Ex Libris: The New York Public Library",
-      "year": 2017,
-      "activate_time": "2019-03-12 10:27:55",
-      "imdb": "7.4",
-      "imdb_id": "6209282",
-      "kinopoisk": null,
-      "kinopoisk_id": "1047317",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/6/6/3/7/0/0/0/0/0/0/610x900_6637.jpg",
-      "genre": {
-        "54": "Документальный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
       }
     }
   ]

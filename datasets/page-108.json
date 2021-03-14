@@ -1,6 +1,35 @@
 {
   "results": [
     {
+      "id": 23302,
+      "name": "Русский вор в законе",
+      "type": "film",
+      "age": "16+",
+      "quality": "SD",
+      "origin_name": "Ladron",
+      "year": 2010,
+      "activate_time": "2020-06-15 04:42:00",
+      "imdb": "6.6",
+      "imdb_id": "1610492",
+      "kinopoisk": "2.8",
+      "kinopoisk_id": "505940",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/3/3/0/2/0/0/0/0/0/610x900_23302.jpg",
+      "genre": {
+        "25": "Криминал",
+        "17": "Боевик"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "57": "Про мафию, банды"
+      }
+    },
+    {
       "id": 22747,
       "name": "Индеец в шкафу",
       "type": "film",
@@ -8593,33 +8622,6 @@
       },
       "collection": {
         "27": "Про жизнь"
-      }
-    },
-    {
-      "id": 23049,
-      "name": "Отель Луна в Кабуле",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Moon Hotel Kabul",
-      "year": 2018,
-      "activate_time": "2020-06-12 10:13:00",
-      "imdb": "6.5",
-      "imdb_id": "6785134",
-      "kinopoisk": null,
-      "kinopoisk_id": "1053628",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/3/0/4/9/0/0/0/0/0/610x900_23049.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция",
-        "50": "Румыния"
       }
     }
   ]

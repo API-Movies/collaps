@@ -1,6 +1,62 @@
 {
   "results": [
     {
+      "id": 15337,
+      "name": "Самая красивая",
+      "type": "series",
+      "age": "12+",
+      "quality": "SD",
+      "origin_name": "",
+      "year": 2005,
+      "activate_time": "2020-02-14 11:33:00",
+      "imdb": "4.9",
+      "imdb_id": "1392065",
+      "kinopoisk": "7.0",
+      "kinopoisk_id": "255145",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/3/3/7/0/0/0/0/0/610x900_15337.jpg",
+      "genre": {
+        "22": "Русский",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "38": "Про любовь",
+        "11": "Для женщин"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 15335,
       "name": "Лео",
       "type": "series",
@@ -11745,40 +11801,6 @@
       },
       "collection": {
         "71": "Про путешествия"
-      }
-    },
-    {
-      "id": 15023,
-      "name": "Дети шпионов 4D",
-      "type": "film",
-      "age": "6+",
-      "quality": "HD (720p)",
-      "origin_name": "Spy Kids 4: All the Time in the World",
-      "year": 2011,
-      "activate_time": "2020-02-05 17:27:00",
-      "imdb": "3.5",
-      "imdb_id": "1517489",
-      "kinopoisk": "3.7",
-      "kinopoisk_id": "477764",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/0/2/3/0/0/0/0/0/610x900_15023.jpg",
-      "genre": {
-        "9": "Приключения",
-        "11": "Фантастика",
-        "33": "Семейный",
-        "19": "Комедия",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "79": "Про детей",
-        "50": "Про агентов"
       }
     }
   ]

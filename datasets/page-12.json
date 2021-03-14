@@ -1,6 +1,53 @@
 {
   "results": [
     {
+      "id": 42641,
+      "name": "Взять живым",
+      "type": "series",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "",
+      "year": 1982,
+      "activate_time": "2020-12-02 16:36:00",
+      "imdb": "5.3",
+      "imdb_id": "5578876",
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "453126",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/2/6/4/1/0/0/0/0/0/610x900_42641.jpg",
+      "genre": {
+        "32": "Военный"
+      },
+      "country": {
+        "24": "СССР"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 42655,
       "name": "Рождественская надежда: второй шанс на первую любовь",
       "type": "film",
@@ -9367,32 +9414,6 @@
       },
       "country": {
         "1": "США"
-      }
-    },
-    {
-      "id": 42449,
-      "name": "Круглянский мост",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "",
-      "year": 1989,
-      "activate_time": "2020-11-23 18:32:00",
-      "imdb": "8.3",
-      "imdb_id": "0140317",
-      "kinopoisk": "6.6",
-      "kinopoisk_id": "44994",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/2/4/4/9/0/0/0/0/0/610x900_42449.jpg",
-      "genre": {
-        "32": "Военный",
-        "7": "Драма"
-      },
-      "country": {
-        "24": "СССР"
       }
     }
   ]

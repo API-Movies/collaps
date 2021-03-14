@@ -1,6 +1,32 @@
 {
   "results": [
     {
+      "id": 37780,
+      "name": "Заложники",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Under Pressure",
+      "year": 1997,
+      "activate_time": "2020-10-12 05:36:00",
+      "imdb": "5.3",
+      "imdb_id": "0118670",
+      "kinopoisk": "6.4",
+      "kinopoisk_id": "9212",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/7/7/8/0/0/0/0/0/0/610x900_37780.jpg",
+      "genre": {
+        "13": "Триллер",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 37968,
       "name": "Дело поручается детективу Тедди. Бурый и Белый",
       "type": "cartoon",
@@ -5588,35 +5614,6 @@
       },
       "collection": {
         "21": "Для молодёжи"
-      }
-    },
-    {
-      "id": 23217,
-      "name": "Детские игры",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Child's Play",
-      "year": 1988,
-      "activate_time": "2020-10-09 04:59:00",
-      "imdb": "6.6",
-      "imdb_id": "0094862",
-      "kinopoisk": "6.8",
-      "kinopoisk_id": "5891",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/3/2/1/7/0/0/0/0/0/610x900_23217.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "13": "Триллер"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "26": "Про монстров"
       }
     }
   ]

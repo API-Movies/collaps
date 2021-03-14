@@ -1,6 +1,43 @@
 {
   "results": [
     {
+      "id": 984,
+      "name": "Пес-призрак: Путь самурая",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Ghost Dog: The Way of the Samurai",
+      "year": 1999,
+      "activate_time": "2018-07-05 14:20:58",
+      "imdb": "7.5",
+      "imdb_id": "0165798",
+      "kinopoisk": "7.7",
+      "kinopoisk_id": "4766",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/8/4/0/0/0/0/0/0/0/610x900_984.jpg",
+      "genre": {
+        "25": "Криминал",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США",
+        "9": "Франция",
+        "18": "Япония",
+        "20": "Германия"
+      },
+      "collection": {
+        "12": "Для мужчин",
+        "21": "Для молодёжи",
+        "62": "Про полицию"
+      }
+    },
+    {
       "id": 983,
       "name": "Рэмбо 4",
       "type": "film",
@@ -6140,38 +6177,6 @@
       },
       "collection": {
         "12": "Для мужчин"
-      }
-    },
-    {
-      "id": 769,
-      "name": "Доспехи Бога 3: Миссия Зодиак",
-      "type": "film",
-      "age": "6+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Armour of God III. Chinese Zodiac",
-      "year": 2012,
-      "activate_time": "2018-07-04 11:14:24",
-      "imdb": "6.1",
-      "imdb_id": "1424310",
-      "kinopoisk": "6.5",
-      "kinopoisk_id": "654749",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/6/9/0/0/0/0/0/0/0/610x900_769.jpg",
-      "genre": {
-        "9": "Приключения",
-        "19": "Комедия",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "12": "Гонконг",
-        "19": "Китай"
-      },
-      "collection": {
-        "71": "Про путешествия"
       }
     }
   ]

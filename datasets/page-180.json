@@ -1,6 +1,33 @@
 {
   "results": [
     {
+      "id": 7351,
+      "name": "Пегас",
+      "type": "film",
+      "age": "16+",
+      "quality": "SD",
+      "origin_name": "Fei chi ren sheng",
+      "year": 2019,
+      "activate_time": "2019-04-04 09:52:36",
+      "imdb": "6.2",
+      "imdb_id": "9597190",
+      "kinopoisk": null,
+      "kinopoisk_id": "1178283",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/7/3/5/1/0/0/0/0/0/0/610x900_7351.jpg",
+      "genre": {
+        "23": "Спортивный",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "19": "Китай"
+      }
+    },
+    {
       "id": 7350,
       "name": "Счастливчик Пер",
       "type": "film",
@@ -14960,6 +14987,10 @@
             {
               "episode": 8,
               "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
             }
           ]
         }
@@ -18814,34 +18845,6 @@
       },
       "country": {
         "1": "США"
-      }
-    },
-    {
-      "id": 7116,
-      "name": "Драконий жемчуг Супер: Броли",
-      "type": "anime-film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Dragon Ball Super: Broly",
-      "year": 2018,
-      "activate_time": "2019-03-27 15:03:35",
-      "imdb": "7.9",
-      "imdb_id": "7961060",
-      "kinopoisk": null,
-      "kinopoisk_id": "1115309",
-      "world_art": "7.3",
-      "world_art_id": "9511",
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/1/1/6/0/0/0/0/0/0/610x900_7116.jpg",
-      "genre": {
-        "9": "Приключения",
-        "6": "Фэнтези",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "18": "Япония"
       }
     }
   ]

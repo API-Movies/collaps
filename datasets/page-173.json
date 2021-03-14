@@ -1,6 +1,36 @@
 {
   "results": [
     {
+      "id": 9516,
+      "name": "Сестры-терминаторы: Генезис",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Terminator sisters: Genesis (Shuang Zi Qi Yuan)",
+      "year": 2017,
+      "activate_time": "2019-06-18 15:31:15",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/5/1/6/0/0/0/0/0/0/610x900_9516.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "19": "Китай"
+      },
+      "collection": {
+        "68": "Про роботов"
+      }
+    },
+    {
       "id": 9515,
       "name": "Семейная фотография",
       "type": "film",
@@ -15209,106 +15239,6 @@
       "country": {
         "53": "Норвегия"
       }
-    },
-    {
-      "id": 9109,
-      "name": "Пятый день",
-      "type": "series",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Day 5",
-      "year": 2016,
-      "activate_time": "2019-05-28 15:10:24",
-      "imdb": "7.5",
-      "imdb_id": "5707408",
-      "kinopoisk": "6.5",
-      "kinopoisk_id": "989064",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/9/1/0/9/0/0/0/0/0/0/610x900_9109.jpg",
-      "genre": {
-        "11": "Фантастика",
-        "24": "Детектив",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": "https://img.imgilall.me/movies/season/5/8/4/1/0/0/0/0/0/0/610x900_5841.jpg",
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": "https://img.imgilall.me/movies/season/5/8/4/2/0/0/0/0/0/0/610x900_5842.jpg",
-          "iframe_url": "",
-          "season": 2,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
     }
   ]
 }

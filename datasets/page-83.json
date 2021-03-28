@@ -1,6 +1,88 @@
 {
   "results": [
     {
+      "id": 28088,
+      "name": "Милый друг",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Bel Ami",
+      "year": 2012,
+      "activate_time": "2020-07-09 14:35:00",
+      "imdb": "5.4",
+      "imdb_id": "1440732",
+      "kinopoisk": "6.0",
+      "kinopoisk_id": "466849",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/8/0/8/8/0/0/0/0/0/610x900_28088.jpg",
+      "genre": {
+        "25": "Криминал",
+        "28": "Исторический",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "2": "Великобритания",
+        "8": "Италия"
+      }
+    },
+    {
+      "id": 29095,
+      "name": "Джимми Пикард",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Jimmy P.",
+      "year": 2013,
+      "activate_time": "2020-07-09 14:32:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "5.6",
+      "kinopoisk_id": "687998",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/9/0/9/5/0/0/0/0/0/610x900_29095.jpg",
+      "genre": {
+        "27": "Биографический",
+        "13": "Триллер",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США",
+        "9": "Франция"
+      }
+    },
+    {
+      "id": 27874,
+      "name": "Чудо в Крыму",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "",
+      "year": 2015,
+      "activate_time": "2020-07-09 14:32:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "3.3",
+      "kinopoisk_id": "913018",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/7/8/7/4/0/0/0/0/0/610x900_27874.jpg",
+      "genre": {
+        "8": "Мелодрама"
+      },
+      "country": {
+        "5": "Россия"
+      }
+    },
+    {
       "id": 28504,
       "name": "Это случилось однажды ночью",
       "type": "film",
@@ -5544,87 +5626,6 @@
       },
       "country": {
         "8": "Италия"
-      }
-    },
-    {
-      "id": 27802,
-      "name": "Майндхорн",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Mindhorn",
-      "year": 2016,
-      "activate_time": "2020-07-09 12:02:00",
-      "imdb": "6.3",
-      "imdb_id": "4799064",
-      "kinopoisk": "6.0",
-      "kinopoisk_id": "956239",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/7/8/0/2/0/0/0/0/0/610x900_27802.jpg",
-      "genre": {
-        "19": "Комедия"
-      },
-      "country": {
-        "2": "Великобритания"
-      }
-    },
-    {
-      "id": 28990,
-      "name": "Крылья славы",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Angel of the Skies",
-      "year": 2013,
-      "activate_time": "2020-07-09 12:00:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": "4.6",
-      "kinopoisk_id": "795126",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/8/9/9/0/0/0/0/0/0/610x900_28990.jpg",
-      "genre": {
-        "25": "Криминал",
-        "32": "Военный",
-        "13": "Триллер",
-        "7": "Драма"
-      },
-      "country": {
-        "27": "ЮАР"
-      }
-    },
-    {
-      "id": 29342,
-      "name": "Пираты ХХ века",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "",
-      "year": 1979,
-      "activate_time": "2020-07-09 11:59:00",
-      "imdb": "6.8",
-      "imdb_id": "0151987",
-      "kinopoisk": "7.4",
-      "kinopoisk_id": "42978",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/9/3/4/2/0/0/0/0/0/610x900_29342.jpg",
-      "genre": {
-        "25": "Криминал",
-        "9": "Приключения",
-        "17": "Боевик",
-        "13": "Триллер"
-      },
-      "country": {
-        "24": "СССР"
       }
     }
   ]

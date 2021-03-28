@@ -1,6 +1,101 @@
 {
   "results": [
     {
+      "id": 14724,
+      "name": "Засада",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Stuck",
+      "year": 2007,
+      "activate_time": "2020-01-27 15:33:00",
+      "imdb": "6.4",
+      "imdb_id": "0758786",
+      "kinopoisk": "6.4",
+      "kinopoisk_id": "262589",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/7/2/4/0/0/0/0/0/610x900_14724.jpg",
+      "genre": {
+        "25": "Криминал",
+        "26": "Ужасы",
+        "27": "Биографический",
+        "13": "Триллер",
+        "7": "Драма"
+      },
+      "country": {
+        "7": "Канада",
+        "1": "США",
+        "2": "Великобритания",
+        "20": "Германия"
+      }
+    },
+    {
+      "id": 14723,
+      "name": "Импульс",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Impulse",
+      "year": 1990,
+      "activate_time": "2020-01-27 15:33:00",
+      "imdb": "5.6",
+      "imdb_id": "0099832",
+      "kinopoisk": "6.2",
+      "kinopoisk_id": "12366",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/7/2/3/0/0/0/0/0/610x900_14723.jpg",
+      "genre": {
+        "25": "Криминал",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "25": "Про маньяков"
+      }
+    },
+    {
+      "id": 14722,
+      "name": "Космические яйца",
+      "type": "film",
+      "age": "6+",
+      "quality": "HD (720p)",
+      "origin_name": "Spaceballs",
+      "year": 1987,
+      "activate_time": "2020-01-27 15:33:00",
+      "imdb": "7.1",
+      "imdb_id": "0094012",
+      "kinopoisk": "6.6",
+      "kinopoisk_id": "8954",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/7/2/2/0/0/0/0/0/610x900_14722.jpg",
+      "genre": {
+        "9": "Приключения",
+        "11": "Фантастика",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "70": "Про инопланетян",
+        "28": "Про космос"
+      }
+    },
+    {
       "id": 14718,
       "name": "Стокгольм, Пенсильвания",
       "type": "film",
@@ -20258,99 +20353,6 @@
       },
       "collection": {
         "43": "Про подростков",
-        "21": "Для молодёжи"
-      }
-    },
-    {
-      "id": 14475,
-      "name": "Зог",
-      "type": "cartoon",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Zog",
-      "year": 2018,
-      "activate_time": "2020-01-20 22:31:00",
-      "imdb": "7.4",
-      "imdb_id": "9109620",
-      "kinopoisk": null,
-      "kinopoisk_id": "1202072",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/4/4/7/5/0/0/0/0/0/610x900_14475.jpg",
-      "genre": {
-        "6": "Фэнтези",
-        "53": "Короткометражный",
-        "33": "Семейный",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "2": "Великобритания"
-      },
-      "collection": {
-        "74": "Про школу",
-        "99": "Про драконов"
-      }
-    },
-    {
-      "id": 14545,
-      "name": "Одноклассники 2",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Grown Ups 2",
-      "year": 2013,
-      "activate_time": "2020-01-20 22:30:00",
-      "imdb": "5.4",
-      "imdb_id": "2191701",
-      "kinopoisk": "6.0",
-      "kinopoisk_id": "663191",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/4/5/4/5/0/0/0/0/0/610x900_14545.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "82": "Молодежные комедии",
-        "21": "Для молодёжи"
-      }
-    },
-    {
-      "id": 14544,
-      "name": "Одноклассники",
-      "type": "film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Grown Ups",
-      "year": 2010,
-      "activate_time": "2020-01-20 22:30:00",
-      "imdb": "5.9",
-      "imdb_id": "1375670",
-      "kinopoisk": "6.8",
-      "kinopoisk_id": "450345",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/4/5/4/4/0/0/0/0/0/610x900_14544.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "82": "Молодежные комедии",
         "21": "Для молодёжи"
       }
     }

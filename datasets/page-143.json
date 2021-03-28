@@ -1,6 +1,94 @@
 {
   "results": [
     {
+      "id": 16023,
+      "name": "Платформа",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "El hoyo",
+      "year": 2019,
+      "activate_time": "2020-03-23 16:27:00",
+      "imdb": "7.0",
+      "imdb_id": "8228288",
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "1134778",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/0/2/3/0/0/0/0/0/610x900_16023.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "11": "Фантастика",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "3": "Испания"
+      },
+      "collection": {
+        "56": "Про тюрьму"
+      }
+    },
+    {
+      "id": 16015,
+      "name": "Под дождем",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Inside the Rain",
+      "year": 2020,
+      "activate_time": "2020-03-23 16:27:00",
+      "imdb": "4.6",
+      "imdb_id": "11029976",
+      "kinopoisk": null,
+      "kinopoisk_id": "1309274",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/0/1/5/0/0/0/0/0/610x900_16015.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "36": "Романтические комедии",
+        "38": "Про любовь",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 16017,
+      "name": "Человеческий капитал",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Human Capital",
+      "year": 2019,
+      "activate_time": "2020-03-23 16:19:00",
+      "imdb": "6.1",
+      "imdb_id": "9185066",
+      "kinopoisk": "5.6",
+      "kinopoisk_id": "1211296",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/0/1/7/0/0/0/0/0/610x900_16017.jpg",
+      "genre": {
+        "25": "Криминал",
+        "10": "Зарубежный",
+        "7": "Драма"
+      }
+    },
+    {
       "id": 16022,
       "name": "Интрижка",
       "type": "film",
@@ -9676,120 +9764,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 15770,
-      "name": "Тут",
-      "type": "series",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Tut",
-      "year": 2015,
-      "activate_time": "2020-03-10 14:43:00",
-      "imdb": "7.1",
-      "imdb_id": "3214310",
-      "kinopoisk": "6.9",
-      "kinopoisk_id": "842682",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/7/7/0/0/0/0/0/0/610x900_15770.jpg",
-      "genre": {
-        "28": "Исторический",
-        "27": "Биографический",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "7": "Канада"
-      },
-      "collection": {
-        "39": "На реальных событиях"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": "1-2",
-              "iframe_url": ""
-            },
-            {
-              "episode": "3-4",
-              "iframe_url": ""
-            },
-            {
-              "episode": "5-6",
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 15765,
-      "name": "Роботы",
-      "type": "cartoon",
-      "age": "6+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Robots",
-      "year": 2005,
-      "activate_time": "2020-03-10 14:41:00",
-      "imdb": "6.3",
-      "imdb_id": "0358082",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "40666",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/7/6/5/0/0/0/0/0/610x900_15765.jpg",
-      "genre": {
-        "9": "Приключения",
-        "11": "Фантастика",
-        "33": "Семейный",
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "68": "Про роботов"
-      }
-    },
-    {
-      "id": 15797,
-      "name": "Хижина Любви",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "Falling Inn Love",
-      "year": 2019,
-      "activate_time": "2020-03-10 14:40:00",
-      "imdb": "5.6",
-      "imdb_id": "9860728",
-      "kinopoisk": "6.0",
-      "kinopoisk_id": "1283888",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/7/9/7/0/0/0/0/0/610x900_15797.jpg",
-      "genre": {
-        "19": "Комедия",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "40": "Netflix"
-      }
     }
   ]
 }

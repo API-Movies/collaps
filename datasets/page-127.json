@@ -1,6 +1,131 @@
 {
   "results": [
     {
+      "id": 18219,
+      "name": "Человек-спагетти",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Spaghettiman",
+      "year": 2016,
+      "activate_time": "2020-05-20 21:05:00",
+      "imdb": "5.0",
+      "imdb_id": "4626970",
+      "kinopoisk": null,
+      "kinopoisk_id": "902562",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/2/1/9/0/0/0/0/0/610x900_18219.jpg",
+      "genre": {
+        "25": "Криминал",
+        "19": "Комедия",
+        "17": "Боевик"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 19447,
+      "name": "Клерк",
+      "type": "series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2020,
+      "activate_time": "2020-05-20 21:02:00",
+      "imdb": "2.0",
+      "imdb_id": "12094286",
+      "kinopoisk": null,
+      "kinopoisk_id": "1048587",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/9/4/4/7/0/0/0/0/0/610x900_19447.jpg",
+      "genre": {
+        "13": "Триллер"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19443,
+      "name": "Когда наступит завтра",
+      "type": "series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2020,
+      "activate_time": "2020-05-20 21:02:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/9/4/4/3/0/0/0/0/0/610x900_19443.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "online",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 19433,
       "name": "Карантин 2: Терминал",
       "type": "film",
@@ -8015,87 +8140,6 @@
       },
       "collection": {
         "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 19216,
-      "name": "Управляющий Сансё",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Sanshô dayû",
-      "year": 1954,
-      "activate_time": "2020-05-19 13:12:00",
-      "imdb": "8.4",
-      "imdb_id": "0047445",
-      "kinopoisk": "8.2",
-      "kinopoisk_id": "86297",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/9/2/1/6/0/0/0/0/0/610x900_19216.jpg",
-      "genre": {
-        "28": "Исторический",
-        "7": "Драма"
-      },
-      "country": {
-        "18": "Япония"
-      }
-    },
-    {
-      "id": 17287,
-      "name": "Всё о Еве",
-      "type": "film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "All About Eve",
-      "year": 1950,
-      "activate_time": "2020-05-19 13:12:00",
-      "imdb": "8.2",
-      "imdb_id": "0042192",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "372",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/7/2/8/7/0/0/0/0/0/610x900_17287.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "5": "С наградами"
-      }
-    },
-    {
-      "id": 19219,
-      "name": "Мой мужчина",
-      "type": "film",
-      "age": "16+",
-      "quality": "SD",
-      "origin_name": "Mon homme",
-      "year": 1996,
-      "activate_time": "2020-05-19 13:09:00",
-      "imdb": "6.5",
-      "imdb_id": "0117073",
-      "kinopoisk": "6.9",
-      "kinopoisk_id": "9446",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/9/2/1/9/0/0/0/0/0/610x900_19219.jpg",
-      "genre": {
-        "19": "Комедия",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция"
       }
     }
   ]

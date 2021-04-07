@@ -1,6 +1,562 @@
 {
   "results": [
     {
+      "id": 1018,
+      "name": "Нечто",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Thing",
+      "year": 2011,
+      "activate_time": "2018-07-05 16:55:31",
+      "imdb": "6.2",
+      "imdb_id": "0905372",
+      "kinopoisk": "6.4",
+      "kinopoisk_id": "399977",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/1/8/0/0/0/0/0/0/610x900_1018.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "11": "Фантастика",
+        "24": "Детектив",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "7": "Канада",
+        "1": "США"
+      },
+      "collection": {
+        "45": "Фильмы на Хэллоуин",
+        "70": "Про инопланетян"
+      }
+    },
+    {
+      "id": 1017,
+      "name": "Другие",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "The Others",
+      "year": 2001,
+      "activate_time": "2018-07-05 16:53:29",
+      "imdb": "7.6",
+      "imdb_id": "0230600",
+      "kinopoisk": "7.9",
+      "kinopoisk_id": "494",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/1/7/0/0/0/0/0/0/610x900_1017.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "24": "Детектив",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США",
+        "3": "Испания",
+        "8": "Италия",
+        "9": "Франция"
+      },
+      "collection": {
+        "45": "Фильмы на Хэллоуин"
+      }
+    },
+    {
+      "id": 1015,
+      "name": "Мистер Бин на отдыхе",
+      "type": "film",
+      "age": "6+",
+      "quality": "HD (720p)",
+      "origin_name": "Mr. Bean's Holiday",
+      "year": 2007,
+      "activate_time": "2018-07-05 16:05:52",
+      "imdb": "6.4",
+      "imdb_id": "0453451",
+      "kinopoisk": "6.9",
+      "kinopoisk_id": "196106",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/1/5/0/0/0/0/0/0/610x900_1015.jpg",
+      "genre": {
+        "33": "Семейный",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "2": "Великобритания",
+        "9": "Франция",
+        "20": "Германия"
+      }
+    },
+    {
+      "id": 1014,
+      "name": "Мистер Бин",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Bean",
+      "year": 1997,
+      "activate_time": "2018-07-05 16:05:03",
+      "imdb": "8.5",
+      "imdb_id": "0096657",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "8163",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/1/4/0/0/0/0/0/0/610x900_1014.jpg",
+      "genre": {
+        "33": "Семейный",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США",
+        "2": "Великобритания"
+      }
+    },
+    {
+      "id": 1012,
+      "name": "О Шмидте",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "About Schmidt",
+      "year": 2002,
+      "activate_time": "2018-07-05 16:02:03",
+      "imdb": "7.1",
+      "imdb_id": "0257360",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "583",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/1/2/0/0/0/0/0/0/610x900_1012.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 1011,
+      "name": "Человек эпохи Возрождения",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Renaissance Man",
+      "year": 1994,
+      "activate_time": "2018-07-05 16:00:50",
+      "imdb": "6.2",
+      "imdb_id": "0110971",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "4836",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/1/1/0/0/0/0/0/0/610x900_1011.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 1010,
+      "name": "А как же Боб?",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "What About Bob?",
+      "year": 1991,
+      "activate_time": "2018-07-05 15:59:35",
+      "imdb": "7.0",
+      "imdb_id": "0103241",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "9207",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/1/0/0/0/0/0/0/0/610x900_1010.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 1009,
+      "name": "Без вины виноватый",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Wrongfully Accused",
+      "year": 1998,
+      "activate_time": "2018-07-05 15:55:38",
+      "imdb": "6.2",
+      "imdb_id": "0120901",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "21275",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/0/9/0/0/0/0/0/0/610x900_1009.jpg",
+      "genre": {
+        "19": "Комедия",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США",
+        "20": "Германия"
+      },
+      "collection": {
+        "16": "Про боевые искусства"
+      }
+    },
+    {
+      "id": 1007,
+      "name": "Там, где бродит бизон",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Where the Buffalo Roam",
+      "year": 1980,
+      "activate_time": "2018-07-05 15:05:22",
+      "imdb": "6.7",
+      "imdb_id": "0081748",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "11889",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/0/7/0/0/0/0/0/0/610x900_1007.jpg",
+      "genre": {
+        "27": "Биографический",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "78": "Биографии",
+        "27": "Про жизнь"
+      }
+    },
+    {
+      "id": 1006,
+      "name": "Здесь курят",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Thank You for Smoking",
+      "year": 2005,
+      "activate_time": "2018-07-05 15:04:20",
+      "imdb": "7.6",
+      "imdb_id": "0427944",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "87477",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/0/6/0/0/0/0/0/0/610x900_1006.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 1005,
+      "name": "50 первых поцелуев",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "50 First Dates",
+      "year": 2004,
+      "activate_time": "2018-07-05 14:59:55",
+      "imdb": "6.8",
+      "imdb_id": "0343660",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "1794",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/0/5/0/0/0/0/0/0/610x900_1005.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "88": "Про острова"
+      }
+    },
+    {
+      "id": 1004,
+      "name": "Семь психопатов",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Seven Psychopaths",
+      "year": 2012,
+      "activate_time": "2018-07-05 14:59:00",
+      "imdb": "7.2",
+      "imdb_id": "1931533",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "586584",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/0/4/0/0/0/0/0/0/610x900_1004.jpg",
+      "genre": {
+        "25": "Криминал",
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "2": "Великобритания"
+      },
+      "collection": {
+        "14": "Для взрослых"
+      }
+    },
+    {
+      "id": 1003,
+      "name": "Как отделаться от парня за 10 дней",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "How to Lose a Guy in 10 Days",
+      "year": 2003,
+      "activate_time": "2018-07-05 14:56:50",
+      "imdb": "6.4",
+      "imdb_id": "0251127",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "704",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/0/3/0/0/0/0/0/0/610x900_1003.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "1": "США",
+        "20": "Германия"
+      }
+    },
+    {
+      "id": 1002,
+      "name": "Голый пистолет 33 ⅓: Последний выпад",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Naked Gun 33 ⅓: The Final Insult",
+      "year": 1994,
+      "activate_time": "2018-07-05 14:54:50",
+      "imdb": "6.5",
+      "imdb_id": "0110622",
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "1933",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/0/2/0/0/0/0/0/0/610x900_1002.jpg",
+      "genre": {
+        "25": "Криминал",
+        "19": "Комедия",
+        "17": "Боевик",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 1001,
+      "name": "Голый пистолет 2 ½: Запах страха",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Naked Gun 2 ½: The Smell of Fear",
+      "year": 1991,
+      "activate_time": "2018-07-05 14:52:47",
+      "imdb": "6.9",
+      "imdb_id": "0102510",
+      "kinopoisk": "7.2",
+      "kinopoisk_id": "2388",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/0/1/0/0/0/0/0/0/610x900_1001.jpg",
+      "genre": {
+        "25": "Криминал",
+        "19": "Комедия",
+        "17": "Боевик",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 1000,
+      "name": "Голый пистолет",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "activate_time": "2018-07-05 14:48:10",
+      "imdb": "7.6",
+      "imdb_id": "0095705",
+      "kinopoisk": "7.4",
+      "kinopoisk_id": "4067",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/0/0/0/0/0/0/0/0/610x900_1000.jpg",
+      "genre": {
+        "25": "Криминал",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 999,
+      "name": "Подмена",
+      "type": "film",
+      "age": "16+",
+      "quality": "SD",
+      "origin_name": "Switch",
+      "year": 1991,
+      "activate_time": "2018-07-05 14:45:08",
+      "imdb": "5.8",
+      "imdb_id": "0103016",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "10927",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/9/9/0/0/0/0/0/0/0/610x900_999.jpg",
+      "genre": {
+        "6": "Фэнтези",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 998,
+      "name": "Плакса",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Cry-Baby",
+      "year": 1990,
+      "activate_time": "2018-07-05 14:42:43",
+      "imdb": "6.5",
+      "imdb_id": "0099329",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "7510",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/9/8/0/0/0/0/0/0/0/610x900_998.jpg",
+      "genre": {
+        "38": "Мюзикл",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "43": "Про подростков"
+      }
+    },
+    {
+      "id": 997,
+      "name": "Трое мужчин и младенец",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "3 Men and a Baby / Three Men and a Baby",
+      "year": 1987,
+      "activate_time": "2018-07-05 14:41:22",
+      "imdb": "6.1",
+      "imdb_id": "0094137",
+      "kinopoisk": "7.4",
+      "kinopoisk_id": "2413",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/9/7/0/0/0/0/0/0/0/610x900_997.jpg",
+      "genre": {
+        "25": "Криминал",
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 995,
       "name": "Третий акт / Волшебство Бэль Айл",
       "type": "film",
@@ -5575,595 +6131,6 @@
       "collection": {
         "77": "Лучшие фильмы 20 века",
         "21": "Для молодёжи"
-      }
-    },
-    {
-      "id": 798,
-      "name": "Рок-волна",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "The Boat That Rocked",
-      "year": 2009,
-      "activate_time": "2018-07-04 12:23:27",
-      "imdb": "7.4",
-      "imdb_id": "1131729",
-      "kinopoisk": "7.9",
-      "kinopoisk_id": "416824",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/9/8/0/0/0/0/0/0/0/610x900_798.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "2": "Великобритания",
-        "9": "Франция",
-        "20": "Германия"
-      }
-    },
-    {
-      "id": 797,
-      "name": "Целитель Адамс",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Patch Adams",
-      "year": 1998,
-      "activate_time": "2018-07-04 12:21:37",
-      "imdb": "6.8",
-      "imdb_id": "0129290",
-      "kinopoisk": "7.9",
-      "kinopoisk_id": "6123",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/9/7/0/0/0/0/0/0/0/610x900_797.jpg",
-      "genre": {
-        "27": "Биографический",
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "77": "Лучшие фильмы 20 века",
-        "78": "Биографии",
-        "27": "Про жизнь"
-      }
-    },
-    {
-      "id": 796,
-      "name": "Откройте, полиция! 3",
-      "type": "film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Les Ripoux 3",
-      "year": 2003,
-      "activate_time": "2018-07-04 12:20:07",
-      "imdb": "5.7",
-      "imdb_id": "0351795",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "51150",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/9/6/0/0/0/0/0/0/0/610x900_796.jpg",
-      "genre": {
-        "25": "Криминал",
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "9": "Франция"
-      },
-      "collection": {
-        "62": "Про полицию"
-      }
-    },
-    {
-      "id": 795,
-      "name": "Откройте, полиция! 2",
-      "type": "film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Ripoux contre ripoux",
-      "year": 1990,
-      "activate_time": "2018-07-04 12:17:31",
-      "imdb": "6.2",
-      "imdb_id": "0100496",
-      "kinopoisk": "7.3",
-      "kinopoisk_id": "57322",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/9/5/0/0/0/0/0/0/0/610x900_795.jpg",
-      "genre": {
-        "25": "Криминал",
-        "19": "Комедия",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "9": "Франция"
-      },
-      "collection": {
-        "62": "Про полицию"
-      }
-    },
-    {
-      "id": 794,
-      "name": "Откройте, полиция!",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Les ripoux",
-      "year": 1984,
-      "activate_time": "2018-07-04 12:14:37",
-      "imdb": "7.2",
-      "imdb_id": "0088002",
-      "kinopoisk": "7.9",
-      "kinopoisk_id": "55071",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/9/4/0/0/0/0/0/0/0/610x900_794.jpg",
-      "genre": {
-        "25": "Криминал",
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "9": "Франция"
-      },
-      "collection": {
-        "62": "Про полицию"
-      }
-    },
-    {
-      "id": 793,
-      "name": "Красотка",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Pretty Woman",
-      "year": 1990,
-      "activate_time": "2018-07-04 12:09:30",
-      "imdb": "7.0",
-      "imdb_id": "0100405",
-      "kinopoisk": "7.9",
-      "kinopoisk_id": "8125",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/9/3/0/0/0/0/0/0/0/610x900_793.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "38": "Про любовь",
-        "11": "Для женщин"
-      }
-    },
-    {
-      "id": 792,
-      "name": "Игрушка",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Le Jouet",
-      "year": 1976,
-      "activate_time": "2018-07-04 12:07:53",
-      "imdb": "7.5",
-      "imdb_id": "0074720",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "57004",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/9/2/0/0/0/0/0/0/0/610x900_792.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "9": "Франция"
-      },
-      "collection": {
-        "77": "Лучшие фильмы 20 века"
-      }
-    },
-    {
-      "id": 791,
-      "name": "Охотники за привидениями 2",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Ghostbusters II",
-      "year": 1989,
-      "activate_time": "2018-07-04 12:05:31",
-      "imdb": "6.6",
-      "imdb_id": "0097428",
-      "kinopoisk": "7.6",
-      "kinopoisk_id": "2461",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/7/9/1/0/0/0/0/0/0/0/610x900_791.jpg",
-      "genre": {
-        "9": "Приключения",
-        "11": "Фантастика",
-        "6": "Фэнтези",
-        "41": "Блокбастер",
-        "19": "Комедия",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 790,
-      "name": "Охотники за привидениями (1984)",
-      "type": "film",
-      "age": "6+",
-      "quality": "FHD (1080p)",
-      "origin_name": "GhostBusters",
-      "year": 1984,
-      "activate_time": "2018-07-04 12:03:43",
-      "imdb": "7.8",
-      "imdb_id": "0087332",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "2467",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/7/9/0/0/0/0/0/0/0/0/610x900_790.jpg",
-      "genre": {
-        "11": "Фантастика",
-        "6": "Фэнтези",
-        "41": "Блокбастер",
-        "19": "Комедия",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "77": "Лучшие фильмы 20 века",
-        "12": "Для мужчин"
-      }
-    },
-    {
-      "id": 789,
-      "name": "Я шагаю по Москве",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "",
-      "year": 1964,
-      "activate_time": "2018-07-04 12:01:28",
-      "imdb": "7.9",
-      "imdb_id": "0057694",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "42398",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/8/9/0/0/0/0/0/0/0/610x900_789.jpg",
-      "genre": {
-        "22": "Русский",
-        "19": "Комедия",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "24": "СССР"
-      },
-      "collection": {
-        "46": "Советские"
-      }
-    },
-    {
-      "id": 788,
-      "name": "За бортом",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Overboard",
-      "year": 1987,
-      "activate_time": "2018-07-04 12:00:21",
-      "imdb": "6.9",
-      "imdb_id": "0093693",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "16115",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/8/8/0/0/0/0/0/0/0/610x900_788.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "77": "Лучшие фильмы 20 века",
-        "11": "Для женщин",
-        "19": "Про ограбления, аферы и мошенников"
-      }
-    },
-    {
-      "id": 787,
-      "name": "Облако-рай",
-      "type": "film",
-      "age": "16+",
-      "quality": "SD",
-      "origin_name": "",
-      "year": 1991,
-      "activate_time": "2018-07-04 11:58:46",
-      "imdb": "7.9",
-      "imdb_id": "0102574",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "42694",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/8/7/0/0/0/0/0/0/0/610x900_787.jpg",
-      "genre": {
-        "22": "Русский",
-        "19": "Комедия",
-        "7": "Драма"
-      },
-      "country": {
-        "24": "СССР"
-      },
-      "collection": {
-        "46": "Советские"
-      }
-    },
-    {
-      "id": 786,
-      "name": "О бедном гусаре замолвите слово",
-      "type": "film",
-      "age": "6+",
-      "quality": "SD",
-      "origin_name": "",
-      "year": 1980,
-      "activate_time": "2018-07-04 11:56:20",
-      "imdb": "7.9",
-      "imdb_id": "0081256",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "81430",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/8/6/0/0/0/0/0/0/0/610x900_786.jpg",
-      "genre": {
-        "38": "Мюзикл",
-        "28": "Исторический",
-        "22": "Русский",
-        "19": "Комедия",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "24": "СССР"
-      },
-      "collection": {
-        "46": "Советские"
-      }
-    },
-    {
-      "id": 785,
-      "name": "Человек с бульвара Капуцинов",
-      "type": "film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "",
-      "year": 1987,
-      "activate_time": "2018-07-04 11:55:34",
-      "imdb": "7.8",
-      "imdb_id": "0092745",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "45463",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/8/5/0/0/0/0/0/0/0/610x900_785.jpg",
-      "genre": {
-        "38": "Мюзикл",
-        "29": "Вестерн",
-        "22": "Русский",
-        "19": "Комедия",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "24": "СССР"
-      },
-      "collection": {
-        "46": "Советские"
-      }
-    },
-    {
-      "id": 784,
-      "name": "Мачеха",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Stepmom",
-      "year": 1998,
-      "activate_time": "2018-07-04 11:54:34",
-      "imdb": "6.8",
-      "imdb_id": "0120686",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "1949",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/8/4/0/0/0/0/0/0/0/610x900_784.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "77": "Лучшие фильмы 20 века",
-        "11": "Для женщин"
-      }
-    },
-    {
-      "id": 783,
-      "name": "Однажды двадцать лет спустя",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "",
-      "year": 1981,
-      "activate_time": "2018-07-04 11:52:23",
-      "imdb": "7.3",
-      "imdb_id": "0081262",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "25082",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/8/3/0/0/0/0/0/0/0/610x900_783.jpg",
-      "genre": {
-        "22": "Русский",
-        "19": "Комедия",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "24": "СССР"
-      },
-      "collection": {
-        "46": "Советские",
-        "11": "Для женщин"
-      }
-    },
-    {
-      "id": 782,
-      "name": "Афоня",
-      "type": "film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "",
-      "year": 1975,
-      "activate_time": "2018-07-04 11:51:01",
-      "imdb": "7.9",
-      "imdb_id": "0072613",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "43423",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/8/2/0/0/0/0/0/0/0/610x900_782.jpg",
-      "genre": {
-        "22": "Русский",
-        "19": "Комедия",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "24": "СССР"
-      },
-      "collection": {
-        "46": "Советские"
-      }
-    },
-    {
-      "id": 781,
-      "name": "Свадьба в Малиновке",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "",
-      "year": 1967,
-      "activate_time": "2018-07-04 11:49:28",
-      "imdb": "7.5",
-      "imdb_id": "0062323",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "44045",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/8/1/0/0/0/0/0/0/0/610x900_781.jpg",
-      "genre": {
-        "38": "Мюзикл",
-        "32": "Военный",
-        "22": "Русский",
-        "19": "Комедия"
-      },
-      "country": {
-        "24": "СССР"
-      },
-      "collection": {
-        "46": "Советские"
-      }
-    },
-    {
-      "id": 780,
-      "name": "Женя, Женечка и «Катюша»",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "",
-      "year": 1967,
-      "activate_time": "2018-07-04 11:46:41",
-      "imdb": "7.6",
-      "imdb_id": "0062523",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "45311",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/7/8/0/0/0/0/0/0/0/0/610x900_780.jpg",
-      "genre": {
-        "32": "Военный",
-        "22": "Русский",
-        "19": "Комедия",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "24": "СССР"
-      },
-      "collection": {
-        "46": "Советские"
       }
     }
   ]

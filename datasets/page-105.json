@@ -1,6 +1,156 @@
 {
   "results": [
     {
+      "id": 24918,
+      "name": "Чистыми руками",
+      "type": "film",
+      "age": "12+",
+      "quality": "SD",
+      "origin_name": "Cu mâinile curate",
+      "year": 1972,
+      "activate_time": "2020-06-22 11:07:00",
+      "imdb": "7.8",
+      "imdb_id": "0068431",
+      "kinopoisk": "7.0",
+      "kinopoisk_id": "101353",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/4/9/1/8/0/0/0/0/0/610x900_24918.jpg",
+      "genre": {
+        "25": "Криминал",
+        "17": "Боевик",
+        "13": "Триллер"
+      },
+      "country": {
+        "38": "Германия (ФРГ)",
+        "50": "Румыния"
+      }
+    },
+    {
+      "id": 24895,
+      "name": "Генералы песчаных карьеров",
+      "type": "film",
+      "age": "0+",
+      "quality": "SD",
+      "origin_name": "The Sandpit Generals",
+      "year": 1971,
+      "activate_time": "2020-06-22 11:05:00",
+      "imdb": "6.8",
+      "imdb_id": "0067705",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "77253",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/4/8/9/5/0/0/0/0/0/610x900_24895.jpg",
+      "genre": {
+        "17": "Боевик",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 24888,
+      "name": "Запретная дорога",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Reservation Road",
+      "year": 2007,
+      "activate_time": "2020-06-22 11:00:00",
+      "imdb": "6.7",
+      "imdb_id": "0831884",
+      "kinopoisk": "6.9",
+      "kinopoisk_id": "261177",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/4/8/8/8/0/0/0/0/0/610x900_24888.jpg",
+      "genre": {
+        "25": "Криминал",
+        "13": "Триллер",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США",
+        "20": "Германия"
+      }
+    },
+    {
+      "id": 24880,
+      "name": "Бабадук",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Babadook",
+      "year": 2014,
+      "activate_time": "2020-06-22 10:57:00",
+      "imdb": "6.8",
+      "imdb_id": "2321549",
+      "kinopoisk": "5.7",
+      "kinopoisk_id": "675216",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/4/8/8/0/0/0/0/0/0/610x900_24880.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "7": "Канада",
+        "4": "Австралия"
+      },
+      "collection": {
+        "26": "Про монстров",
+        "14": "Для взрослых"
+      }
+    },
+    {
+      "id": 24893,
+      "name": "Спартанец",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Spartan",
+      "year": 2004,
+      "activate_time": "2020-06-22 10:49:00",
+      "imdb": "6.5",
+      "imdb_id": "0360009",
+      "kinopoisk": "6.1",
+      "kinopoisk_id": "2974",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/4/8/9/3/0/0/0/0/0/610x900_24893.jpg",
+      "genre": {
+        "25": "Криминал",
+        "24": "Детектив",
+        "17": "Боевик",
+        "13": "Триллер",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США",
+        "20": "Германия"
+      },
+      "collection": {
+        "12": "Для мужчин",
+        "14": "Для взрослых"
+      }
+    },
+    {
       "id": 24744,
       "name": "Звездное выживание с Беаром Гриллсом",
       "type": "tv-show",
@@ -7538,155 +7688,6 @@
       "country": {
         "1": "США",
         "20": "Германия"
-      }
-    },
-    {
-      "id": 24709,
-      "name": "За облаками",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Al di là delle nuvole",
-      "year": 1995,
-      "activate_time": "2020-06-19 13:17:00",
-      "imdb": "6.5",
-      "imdb_id": "0114086",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "14293",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/7/0/9/0/0/0/0/0/610x900_24709.jpg",
-      "genre": {
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "8": "Италия",
-        "9": "Франция",
-        "20": "Германия"
-      },
-      "collection": {
-        "38": "Про любовь"
-      }
-    },
-    {
-      "id": 24682,
-      "name": "Женщина в окне",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Une femme à sa fenêtre",
-      "year": 1976,
-      "activate_time": "2020-06-19 13:15:00",
-      "imdb": "6.2",
-      "imdb_id": "0075370",
-      "kinopoisk": "6.4",
-      "kinopoisk_id": "94496",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/6/8/2/0/0/0/0/0/610x900_24682.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "8": "Италия",
-        "9": "Франция",
-        "38": "Германия (ФРГ)"
-      }
-    },
-    {
-      "id": 24712,
-      "name": "Маленький вампир",
-      "type": "cartoon",
-      "age": "6+",
-      "quality": "HD (720p)",
-      "origin_name": "The Little Vampire 3D",
-      "year": 2017,
-      "activate_time": "2020-06-19 13:10:00",
-      "imdb": "5.4",
-      "imdb_id": "4729560",
-      "kinopoisk": "5.9",
-      "kinopoisk_id": "914937",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/7/1/2/0/0/0/0/0/610x900_24712.jpg",
-      "genre": {
-        "9": "Приключения",
-        "26": "Ужасы",
-        "6": "Фэнтези",
-        "33": "Семейный",
-        "19": "Комедия"
-      },
-      "country": {
-        "31": "Нидерланды",
-        "2": "Великобритания",
-        "20": "Германия",
-        "25": "Дания"
-      }
-    },
-    {
-      "id": 24617,
-      "name": "Призрак",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Affraa Taffri",
-      "year": 2020,
-      "activate_time": "2020-06-19 13:10:00",
-      "imdb": "6.3",
-      "imdb_id": "11569602",
-      "kinopoisk": null,
-      "kinopoisk_id": "1340335",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/6/1/7/0/0/0/0/0/610x900_24617.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "26": "Индия"
-      }
-    },
-    {
-      "id": 24672,
-      "name": "Гармонии Веркмейстера",
-      "type": "film",
-      "age": "16+",
-      "quality": "SD",
-      "origin_name": "Werckmeister harmóniák",
-      "year": 2000,
-      "activate_time": "2020-06-19 13:08:00",
-      "imdb": "8.2",
-      "imdb_id": "0249241",
-      "kinopoisk": "7.7",
-      "kinopoisk_id": "50377",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/6/7/2/0/0/0/0/0/610x900_24672.jpg",
-      "genre": {
-        "24": "Детектив",
-        "7": "Драма"
-      },
-      "country": {
-        "8": "Италия",
-        "9": "Франция",
-        "20": "Германия",
-        "32": "Венгрия"
-      },
-      "collection": {
-        "29": "Психологические"
       }
     }
   ]

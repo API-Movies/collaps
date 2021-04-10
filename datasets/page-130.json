@@ -1,6 +1,180 @@
 {
   "results": [
     {
+      "id": 19096,
+      "name": "Подразделение / Единство",
+      "type": "series",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "La Unidad",
+      "year": 2020,
+      "activate_time": "2020-05-18 23:48:00",
+      "imdb": "7.3",
+      "imdb_id": "10230502",
+      "kinopoisk": null,
+      "kinopoisk_id": "1262065",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/9/0/9/6/0/0/0/0/0/610x900_19096.jpg",
+      "genre": {
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "3": "Испания"
+      },
+      "collection": {
+        "62": "Про полицию"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19155,
+      "name": "Артистка",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Mahanati",
+      "year": 2018,
+      "activate_time": "2020-05-18 23:22:00",
+      "imdb": "8.5",
+      "imdb_id": "7465992",
+      "kinopoisk": null,
+      "kinopoisk_id": "1073394",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/9/1/5/5/0/0/0/0/0/610x900_19155.jpg",
+      "genre": {
+        "27": "Биографический",
+        "7": "Драма"
+      },
+      "country": {
+        "26": "Индия"
+      }
+    },
+    {
+      "id": 19157,
+      "name": "С Чандни Чоука в Китай",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Chandni Chowk to China",
+      "year": 2009,
+      "activate_time": "2020-05-18 23:07:00",
+      "imdb": "4.0",
+      "imdb_id": "1091229",
+      "kinopoisk": "7.0",
+      "kinopoisk_id": "394718",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/9/1/5/7/0/0/0/0/0/610x900_19157.jpg",
+      "genre": {
+        "6": "Фэнтези",
+        "19": "Комедия",
+        "17": "Боевик"
+      },
+      "country": {
+        "1": "США",
+        "26": "Индия"
+      }
+    },
+    {
+      "id": 19158,
+      "name": "Халк: Где обитают чудовища",
+      "type": "cartoon",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Hulk: Where Monsters Dwell",
+      "year": 2016,
+      "activate_time": "2020-05-18 23:03:00",
+      "imdb": "5.4",
+      "imdb_id": "6173902",
+      "kinopoisk": "5.5",
+      "kinopoisk_id": "1007400",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/9/1/5/8/0/0/0/0/0/610x900_19158.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "6": "Фэнтези",
+        "17": "Боевик"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 19108,
+      "name": "Франклин",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Franklyn",
+      "year": 2008,
+      "activate_time": "2020-05-18 23:03:00",
+      "imdb": "6.1",
+      "imdb_id": "0893402",
+      "kinopoisk": "6.6",
+      "kinopoisk_id": "271937",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/9/1/0/8/0/0/0/0/0/610x900_19108.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "6": "Фэнтези",
+        "13": "Триллер",
+        "7": "Драма"
+      },
+      "country": {
+        "2": "Великобритания"
+      }
+    },
+    {
       "id": 19129,
       "name": "Прощание",
       "type": "film",
@@ -7989,154 +8163,6 @@
       "poster": "https://img.imgilall.me/movies/franchise/1/8/9/5/9/0/0/0/0/0/610x900_18959.jpg",
       "genre": {
         "28": "Исторический",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 18984,
-      "name": "Юнайтед",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "The United",
-      "year": 2012,
-      "activate_time": "2020-05-16 01:27:00",
-      "imdb": "6.6",
-      "imdb_id": "2004405",
-      "kinopoisk": null,
-      "kinopoisk_id": "612538",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/9/8/4/0/0/0/0/0/610x900_18984.jpg",
-      "genre": {
-        "23": "Спортивный",
-        "19": "Комедия",
-        "17": "Боевик",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 18971,
-      "name": "Шестой игрок",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "The Sixth Man",
-      "year": 1997,
-      "activate_time": "2020-05-16 01:07:00",
-      "imdb": "5.7",
-      "imdb_id": "0120142",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "13085",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/9/7/1/0/0/0/0/0/610x900_18971.jpg",
-      "genre": {
-        "6": "Фэнтези",
-        "23": "Спортивный",
-        "19": "Комедия",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 18987,
-      "name": "Переломный момент",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Break Point",
-      "year": 2014,
-      "activate_time": "2020-05-16 00:24:00",
-      "imdb": "6.0",
-      "imdb_id": "3062742",
-      "kinopoisk": "5.9",
-      "kinopoisk_id": "780591",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/9/8/7/0/0/0/0/0/610x900_18987.jpg",
-      "genre": {
-        "23": "Спортивный",
-        "19": "Комедия"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "76": "Про спорт"
-      }
-    },
-    {
-      "id": 18974,
-      "name": "Девочка против монстра",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "Girl Vs. Monster",
-      "year": 2012,
-      "activate_time": "2020-05-16 00:20:00",
-      "imdb": "5.5",
-      "imdb_id": "2326087",
-      "kinopoisk": "5.5",
-      "kinopoisk_id": "674889",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/9/7/4/0/0/0/0/0/610x900_18974.jpg",
-      "genre": {
-        "9": "Приключения",
-        "11": "Фантастика",
-        "6": "Фэнтези",
-        "33": "Семейный",
-        "19": "Комедия",
-        "17": "Боевик"
-      },
-      "country": {
-        "7": "Канада",
-        "1": "США"
-      },
-      "collection": {
-        "45": "Фильмы на Хэллоуин",
-        "43": "Про подростков"
-      }
-    },
-    {
-      "id": 18981,
-      "name": "Джеки и Райан",
-      "type": "film",
-      "age": "16+",
-      "quality": "SD",
-      "origin_name": "Jackie & Ryan",
-      "year": 2014,
-      "activate_time": "2020-05-16 00:15:00",
-      "imdb": "5.8",
-      "imdb_id": "3270108",
-      "kinopoisk": "6.4",
-      "kinopoisk_id": "807825",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/9/8/1/0/0/0/0/0/610x900_18981.jpg",
-      "genre": {
-        "33": "Семейный",
-        "8": "Мелодрама",
         "7": "Драма"
       },
       "country": {

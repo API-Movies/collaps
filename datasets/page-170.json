@@ -1,6 +1,592 @@
 {
   "results": [
     {
+      "id": 11091,
+      "name": "Тайна 101: Слова могут убить",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Mystery 101: Words Can Kill",
+      "year": 2019,
+      "activate_time": "2019-09-24 17:40:00",
+      "imdb": "7.3",
+      "imdb_id": "10709048",
+      "kinopoisk": null,
+      "kinopoisk_id": "1291132",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/9/1/0/0/0/0/0/610x900_11091.jpg",
+      "genre": {
+        "25": "Криминал",
+        "24": "Детектив",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 8593,
+      "name": "Набросок",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Sketch",
+      "year": 2018,
+      "activate_time": "2019-09-24 17:24:00",
+      "imdb": "5.7",
+      "imdb_id": "6872436",
+      "kinopoisk": null,
+      "kinopoisk_id": "1046169",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/5/9/3/0/0/0/0/0/0/610x900_8593.jpg",
+      "genre": {
+        "17": "Боевик",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "26": "Индия"
+      }
+    },
+    {
+      "id": 9282,
+      "name": "Криштиану Роланду",
+      "type": "film",
+      "age": "12+",
+      "quality": "SD",
+      "origin_name": "Cristiano Rolando",
+      "year": 2018,
+      "activate_time": "2019-09-24 17:23:00",
+      "imdb": "7.2",
+      "imdb_id": "9066702",
+      "kinopoisk": null,
+      "kinopoisk_id": "1250068",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/2/8/2/0/0/0/0/0/0/610x900_9282.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "8": "Италия"
+      }
+    },
+    {
+      "id": 9281,
+      "name": "Знаки судьбы",
+      "type": "film",
+      "age": "16+",
+      "quality": "SD",
+      "origin_name": "Krutant",
+      "year": 2019,
+      "activate_time": "2019-09-24 17:23:00",
+      "imdb": "6.5",
+      "imdb_id": "9575388",
+      "kinopoisk": null,
+      "kinopoisk_id": "1233064",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/2/8/1/0/0/0/0/0/0/610x900_9281.jpg",
+      "genre": {
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "26": "Индия"
+      }
+    },
+    {
+      "id": 9242,
+      "name": "Призрачный отряд",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Gosuto sukuwaddo / Ghost Squad",
+      "year": 2018,
+      "activate_time": "2019-09-24 17:23:00",
+      "imdb": "5.9",
+      "imdb_id": "7547158",
+      "kinopoisk": null,
+      "kinopoisk_id": "1100923",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/2/4/2/0/0/0/0/0/0/610x900_9242.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "18": "Япония"
+      }
+    },
+    {
+      "id": 9229,
+      "name": "Роковая ассистентка",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Deadly Assistan",
+      "year": 2019,
+      "activate_time": "2019-09-24 17:23:00",
+      "imdb": "4.7",
+      "imdb_id": "9362694",
+      "kinopoisk": null,
+      "kinopoisk_id": "1219310",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/2/2/9/0/0/0/0/0/0/610x900_9229.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 9049,
+      "name": "Ритуалы вины",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Rituals of Guilt",
+      "year": 2018,
+      "activate_time": "2019-09-24 17:23:00",
+      "imdb": "4.6",
+      "imdb_id": "8875622",
+      "kinopoisk": null,
+      "kinopoisk_id": "1184104",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/0/4/9/0/0/0/0/0/0/610x900_9049.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 9283,
+      "name": "Зловещий Бонг 666",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Evil Bong 666",
+      "year": 2017,
+      "activate_time": "2019-09-24 17:22:00",
+      "imdb": "4.0",
+      "imdb_id": "6462084",
+      "kinopoisk": null,
+      "kinopoisk_id": "1023218",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/2/8/3/0/0/0/0/0/0/610x900_9283.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 9284,
+      "name": "Ценности",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Precious Things",
+      "year": 2017,
+      "activate_time": "2019-09-24 17:21:00",
+      "imdb": "4.6",
+      "imdb_id": "6184402",
+      "kinopoisk": null,
+      "kinopoisk_id": "1021578",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/2/8/4/0/0/0/0/0/0/610x900_9284.jpg",
+      "genre": {
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "7": "Канада"
+      }
+    },
+    {
+      "id": 11083,
+      "name": "Удивительное приключение",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Adventure Journey",
+      "year": 2019,
+      "activate_time": "2019-09-24 17:20:00",
+      "imdb": null,
+      "imdb_id": "10740804",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/8/3/0/0/0/0/0/610x900_11083.jpg",
+      "genre": {
+        "9": "Приключения",
+        "33": "Семейный",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "19": "Китай"
+      }
+    },
+    {
+      "id": 9342,
+      "name": "МакБеттер",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "McBetter",
+      "year": 2018,
+      "activate_time": "2019-09-24 17:20:00",
+      "imdb": "5.1",
+      "imdb_id": "7016060",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/9/3/4/2/0/0/0/0/0/0/610x900_9342.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "8": "Италия"
+      }
+    },
+    {
+      "id": 11064,
+      "name": "Между двумя водами",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Entre dos aguas",
+      "year": 2018,
+      "activate_time": "2019-09-24 16:35:00",
+      "imdb": "6.5",
+      "imdb_id": "6157294",
+      "kinopoisk": null,
+      "kinopoisk_id": "1023603",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/6/4/0/0/0/0/0/610x900_11064.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "3": "Испания"
+      }
+    },
+    {
+      "id": 11062,
+      "name": "Семь",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Seven",
+      "year": 2019,
+      "activate_time": "2019-09-24 16:35:00",
+      "imdb": "5.2",
+      "imdb_id": "9165458",
+      "kinopoisk": null,
+      "kinopoisk_id": "1204707",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/6/2/0/0/0/0/0/610x900_11062.jpg",
+      "genre": {
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "26": "Индия"
+      }
+    },
+    {
+      "id": 11060,
+      "name": "Плохая доза",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Bad Dose",
+      "year": 2019,
+      "activate_time": "2019-09-24 16:35:00",
+      "imdb": "4.0",
+      "imdb_id": "6499516",
+      "kinopoisk": null,
+      "kinopoisk_id": "1241499",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/6/0/0/0/0/0/0/610x900_11060.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "7": "Канада"
+      }
+    },
+    {
+      "id": 11061,
+      "name": "Акты отчаяния",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Acts of Desperation",
+      "year": 2018,
+      "activate_time": "2019-09-24 16:33:00",
+      "imdb": "4.9",
+      "imdb_id": "3219686",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/6/1/0/0/0/0/0/610x900_11061.jpg",
+      "genre": {
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 11054,
+      "name": "Голограмма",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Auggie",
+      "year": 2019,
+      "activate_time": "2019-09-24 16:33:00",
+      "imdb": "5.3",
+      "imdb_id": "7596220",
+      "kinopoisk": null,
+      "kinopoisk_id": "1100824",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/5/4/0/0/0/0/0/610x900_11054.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 11057,
+      "name": "Жёсткая краска",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Tinta Bruta",
+      "year": 2018,
+      "activate_time": "2019-09-24 16:31:00",
+      "imdb": "6.7",
+      "imdb_id": "7925066",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/5/7/0/0/0/0/0/610x900_11057.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "30": "Бразилия"
+      }
+    },
+    {
+      "id": 11050,
+      "name": "Следующая остановка",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "One Stop Away",
+      "year": 2017,
+      "activate_time": "2019-09-24 16:30:00",
+      "imdb": "6.6",
+      "imdb_id": "4316472",
+      "kinopoisk": null,
+      "kinopoisk_id": "886548",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/5/0/0/0/0/0/0/610x900_11050.jpg",
+      "genre": {
+        "33": "Семейный",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 11051,
+      "name": "Вы спятили",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Mais vous etes fous",
+      "year": 2019,
+      "activate_time": "2019-09-24 16:29:00",
+      "imdb": "6.4",
+      "imdb_id": "8110662",
+      "kinopoisk": null,
+      "kinopoisk_id": "1142219",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/5/1/0/0/0/0/0/610x900_11051.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "9": "Франция"
+      }
+    },
+    {
+      "id": 11049,
+      "name": "Гризли",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "The Grizzlies",
+      "year": 2018,
+      "activate_time": "2019-09-24 16:26:00",
+      "imdb": "7.5",
+      "imdb_id": "6365796",
+      "kinopoisk": null,
+      "kinopoisk_id": "1035074",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/4/9/0/0/0/0/0/610x900_11049.jpg",
+      "genre": {
+        "27": "Биографический",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "7": "Канада"
+      }
+    },
+    {
+      "id": 11043,
+      "name": "Девушки солнца",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Les filles du soleil",
+      "year": 2018,
+      "activate_time": "2019-09-24 16:26:00",
+      "imdb": "6.5",
+      "imdb_id": "6704880",
+      "kinopoisk": null,
+      "kinopoisk_id": "1070325",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/4/3/0/0/0/0/0/610x900_11043.jpg",
+      "genre": {
+        "32": "Военный",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "9": "Франция",
+        "10": "Швейцария",
+        "29": "Бельгия",
+        "69": "Грузия"
+      }
+    },
+    {
+      "id": 11048,
+      "name": "Тёмная сторона",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Bloodline",
+      "year": 2018,
+      "activate_time": "2019-09-24 16:25:00",
+      "imdb": "6.0",
+      "imdb_id": "8883524",
+      "kinopoisk": "5.6",
+      "kinopoisk_id": "1183843",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/0/4/8/0/0/0/0/0/610x900_11048.jpg",
+      "genre": {
+        "25": "Криминал",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 11035,
       "name": "Вальс Вальдхайма",
       "type": "film",
@@ -502,7 +1088,7 @@
       "origin_name": "Palacios",
       "year": 2017,
       "activate_time": "2019-09-24 14:31:00",
-      "imdb": "7.1",
+      "imdb": "7.2",
       "imdb_id": "6235850",
       "kinopoisk": null,
       "kinopoisk_id": "1033402",
@@ -528,7 +1114,7 @@
       "origin_name": "Bundy and the Green River Killer",
       "year": 2019,
       "activate_time": "2019-09-24 14:30:00",
-      "imdb": "3.7",
+      "imdb": "3.8",
       "imdb_id": "8549254",
       "kinopoisk": null,
       "kinopoisk_id": "1163880",
@@ -583,7 +1169,7 @@
       "origin_name": "Una vita spericolata",
       "year": 2018,
       "activate_time": "2019-09-24 14:28:00",
-      "imdb": "5.0",
+      "imdb": "5.1",
       "imdb_id": "6917272",
       "kinopoisk": null,
       "kinopoisk_id": "1078726",
@@ -689,7 +1275,7 @@
       "origin_name": "New Money",
       "year": 2018,
       "activate_time": "2019-09-24 14:25:00",
-      "imdb": "4.9",
+      "imdb": "4.7",
       "imdb_id": "7493184",
       "kinopoisk": null,
       "kinopoisk_id": "1097978",
@@ -909,7 +1495,7 @@
       "origin_name": "Robin",
       "year": 2017,
       "activate_time": "2019-09-24 14:19:00",
-      "imdb": "6.9",
+      "imdb": "7.0",
       "imdb_id": "5520358",
       "kinopoisk": null,
       "kinopoisk_id": "980130",
@@ -8941,760 +9527,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 10963,
-      "name": "Замкнутый круг",
-      "type": "series",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Cember",
-      "year": 2017,
-      "activate_time": "2019-09-20 10:46:00",
-      "imdb": "7.8",
-      "imdb_id": "7130992",
-      "kinopoisk": null,
-      "kinopoisk_id": "1048084",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/6/3/0/0/0/0/0/610x900_10963.jpg",
-      "genre": {
-        "25": "Криминал",
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "36": "Турция"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10994,
-      "name": "Только один взгляд",
-      "type": "series",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Juste un regard",
-      "year": 2017,
-      "activate_time": "2019-09-20 10:32:00",
-      "imdb": "6.4",
-      "imdb_id": "6272384",
-      "kinopoisk": null,
-      "kinopoisk_id": "1209003",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/9/4/0/0/0/0/0/610x900_10994.jpg",
-      "genre": {
-        "25": "Криминал",
-        "9": "Приключения",
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10941,
-      "name": "Маяк",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "The Lighthouse",
-      "year": 2019,
-      "activate_time": "2019-09-19 18:01:00",
-      "imdb": "7.5",
-      "imdb_id": "7984734",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "1114927",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/4/1/0/0/0/0/0/610x900_10941.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "6": "Фэнтези",
-        "24": "Детектив",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "30": "Бразилия"
-      }
-    },
-    {
-      "id": 10940,
-      "name": "В тени Луны",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "In the Shadow of the Moon",
-      "year": 2019,
-      "activate_time": "2019-09-19 18:00:00",
-      "imdb": "6.2",
-      "imdb_id": "8110640",
-      "kinopoisk": "6.3",
-      "kinopoisk_id": "1127701",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/4/0/0/0/0/0/0/610x900_10940.jpg",
-      "genre": {
-        "25": "Криминал",
-        "11": "Фантастика",
-        "24": "Детектив",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "96": "Про путешествия во времени",
-        "40": "Netflix",
-        "29": "Психологические",
-        "50": "Про агентов",
-        "62": "Про полицию"
-      }
-    },
-    {
-      "id": 10939,
-      "name": "Хищные птицы: Потрясающая история Харли Квинн",
-      "type": "film",
-      "age": "18+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn",
-      "year": 2020,
-      "activate_time": "2019-09-19 17:59:00",
-      "imdb": "6.1",
-      "imdb_id": "7713068",
-      "kinopoisk": "5.9",
-      "kinopoisk_id": "1111004",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/3/9/0/0/0/0/0/610x900_10939.jpg",
-      "genre": {
-        "25": "Криминал",
-        "9": "Приключения",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "73": "Про девушек",
-        "42": "Про супергероев",
-        "2": "DC"
-      }
-    },
-    {
-      "id": 10938,
-      "name": "Смотри / Видеть",
-      "type": "series",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "See",
-      "year": 2019,
-      "activate_time": "2019-09-19 17:57:00",
-      "imdb": "7.6",
-      "imdb_id": "7949218",
-      "kinopoisk": "7.0",
-      "kinopoisk_id": "1171911",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/3/8/0/0/0/0/0/610x900_10938.jpg",
-      "genre": {
-        "11": "Фантастика",
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "101": "Apple TV+"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10956,
-      "name": "Перерождённая",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Reborn",
-      "year": 2018,
-      "activate_time": "2019-09-19 17:55:00",
-      "imdb": "4.2",
-      "imdb_id": "7975674",
-      "kinopoisk": null,
-      "kinopoisk_id": "1133417",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/5/6/0/0/0/0/0/610x900_10956.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 10954,
-      "name": "Здесь мы собрались",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "We Are Gathered Here",
-      "year": 2019,
-      "activate_time": "2019-09-19 17:51:00",
-      "imdb": "3.5",
-      "imdb_id": "7907714",
-      "kinopoisk": null,
-      "kinopoisk_id": "1128176",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/5/4/0/0/0/0/0/610x900_10954.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 10936,
-      "name": "Сладкий попкорн",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Candy Corn",
-      "year": 2019,
-      "activate_time": "2019-09-19 17:45:00",
-      "imdb": "3.9",
-      "imdb_id": "6264182",
-      "kinopoisk": "3.9",
-      "kinopoisk_id": "1157998",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/3/6/0/0/0/0/0/610x900_10936.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 10934,
-      "name": "Пиху",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Pihu",
-      "year": 2018,
-      "activate_time": "2019-09-19 17:42:00",
-      "imdb": "6.7",
-      "imdb_id": "8458202",
-      "kinopoisk": "6.6",
-      "kinopoisk_id": "1204208",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/3/4/0/0/0/0/0/610x900_10934.jpg",
-      "genre": {
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "26": "Индия"
-      }
-    },
-    {
-      "id": 10935,
-      "name": "Предначертанное",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Foreseen",
-      "year": 2019,
-      "activate_time": "2019-09-19 17:41:00",
-      "imdb": "2.5",
-      "imdb_id": "4106264",
-      "kinopoisk": null,
-      "kinopoisk_id": "876604",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/3/5/0/0/0/0/0/610x900_10935.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "24": "Детектив",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 10933,
-      "name": "Идеальный",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Perfect",
-      "year": 2018,
-      "activate_time": "2019-09-19 17:36:00",
-      "imdb": "4.0",
-      "imdb_id": "6222286",
-      "kinopoisk": "5.0",
-      "kinopoisk_id": "1033145",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/3/3/0/0/0/0/0/610x900_10933.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "11": "Фантастика",
-        "24": "Детектив",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 10932,
-      "name": "Новички",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Su ren te gong",
-      "year": 2019,
-      "activate_time": "2019-09-19 17:33:00",
-      "imdb": "4.0",
-      "imdb_id": "7773340",
-      "kinopoisk": "5.4",
-      "kinopoisk_id": "1115977",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/3/2/0/0/0/0/0/610x900_10932.jpg",
-      "genre": {
-        "9": "Приключения",
-        "19": "Комедия",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "19": "Китай",
-        "32": "Венгрия"
-      }
-    },
-    {
-      "id": 10928,
-      "name": "Непобедимый дракон",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Jiu long bu bai",
-      "year": 2019,
-      "activate_time": "2019-09-19 17:28:00",
-      "imdb": "5.3",
-      "imdb_id": "6329716",
-      "kinopoisk": null,
-      "kinopoisk_id": "1010069",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/2/8/0/0/0/0/0/610x900_10928.jpg",
-      "genre": {
-        "25": "Криминал",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "12": "Гонконг",
-        "19": "Китай"
-      }
-    },
-    {
-      "id": 10920,
-      "name": "90 мл",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "90 ML",
-      "year": 2019,
-      "activate_time": "2019-09-19 17:26:00",
-      "imdb": "3.3",
-      "imdb_id": "8268916",
-      "kinopoisk": null,
-      "kinopoisk_id": "1150038",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/2/0/0/0/0/0/0/610x900_10920.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "26": "Индия"
-      }
-    },
-    {
-      "id": 10911,
-      "name": "Бестии",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "The Furies",
-      "year": 2019,
-      "activate_time": "2019-09-19 17:24:00",
-      "imdb": "5.4",
-      "imdb_id": "8228172",
-      "kinopoisk": "5.3",
-      "kinopoisk_id": "1127311",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/1/1/0/0/0/0/0/610x900_10911.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "4": "Австралия"
-      }
-    },
-    {
-      "id": 10923,
-      "name": "Витрина DC: Сержант Рок",
-      "type": "cartoon",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "DC Showcase: Sgt. Rock",
-      "year": 2019,
-      "activate_time": "2019-09-19 17:20:00",
-      "imdb": "6.7",
-      "imdb_id": "10736082",
-      "kinopoisk": "6.6",
-      "kinopoisk_id": "1292033",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/2/3/0/0/0/0/0/610x900_10923.jpg",
-      "genre": {
-        "9": "Приключения",
-        "53": "Короткометражный",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 10970,
-      "name": "Голый романтик",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "The Naked Wanderer",
-      "year": 2019,
-      "activate_time": "2019-09-19 17:14:00",
-      "imdb": "5.4",
-      "imdb_id": "5277030",
-      "kinopoisk": "5.8",
-      "kinopoisk_id": "1116467",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/7/0/0/0/0/0/0/610x900_10970.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "4": "Австралия"
-      }
-    },
-    {
-      "id": 10910,
-      "name": "Истории из парилки: В кино",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Steam Room Stories: The Movie!",
-      "year": 2019,
-      "activate_time": "2019-09-19 17:12:00",
-      "imdb": "4.2",
-      "imdb_id": "8483220",
-      "kinopoisk": null,
-      "kinopoisk_id": "1165279",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/1/0/0/0/0/0/0/610x900_10910.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 10908,
-      "name": "Клоунский торнадо",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Clownado",
-      "year": 2019,
-      "activate_time": "2019-09-19 16:42:00",
-      "imdb": "5.8",
-      "imdb_id": "8485548",
-      "kinopoisk": null,
-      "kinopoisk_id": "1161046",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/0/8/0/0/0/0/0/610x900_10908.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 10906,
-      "name": "Некрасивый, но вкусный",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Feo pero Sabroso",
-      "year": 2019,
-      "activate_time": "2019-09-19 16:31:00",
-      "imdb": "4.2",
-      "imdb_id": "10432682",
-      "kinopoisk": null,
-      "kinopoisk_id": "1273352",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/0/6/0/0/0/0/0/610x900_10906.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "63": "Колумбия"
-      }
-    },
-    {
-      "id": 10901,
-      "name": "Я не убийца",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Non sono un assassino",
-      "year": 2019,
-      "activate_time": "2019-09-19 16:23:00",
-      "imdb": "5.5",
-      "imdb_id": "8271188",
-      "kinopoisk": null,
-      "kinopoisk_id": "1141993",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/9/0/1/0/0/0/0/0/610x900_10901.jpg",
-      "genre": {
-        "25": "Криминал",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "8": "Италия"
-      }
     }
   ]
 }

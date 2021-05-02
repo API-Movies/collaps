@@ -1,6 +1,595 @@
 {
   "results": [
     {
+      "id": 16934,
+      "name": "Маркиза тьмы",
+      "type": "film",
+      "age": "16+",
+      "quality": "SD",
+      "origin_name": "La marquise des ombres",
+      "year": 2010,
+      "activate_time": "2020-04-25 16:26:00",
+      "imdb": "5.4",
+      "imdb_id": "1584924",
+      "kinopoisk": "6.1",
+      "kinopoisk_id": "495454",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/3/4/0/0/0/0/0/610x900_16934.jpg",
+      "genre": {
+        "25": "Криминал",
+        "28": "Исторический",
+        "27": "Биографический",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "9": "Франция"
+      }
+    },
+    {
+      "id": 16977,
+      "name": "Жди меня",
+      "type": "series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "–",
+      "year": 2020,
+      "activate_time": "2020-04-25 15:14:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": "1185919",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/7/7/0/0/0/0/0/610x900_16977.jpg",
+      "genre": {
+        "32": "Военный",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16976,
+      "name": "Прощание со Сталиным",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "State Funeral",
+      "year": 2019,
+      "activate_time": "2020-04-25 14:52:00",
+      "imdb": "7.1",
+      "imdb_id": "10203842",
+      "kinopoisk": "7.3",
+      "kinopoisk_id": "1313568",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/7/6/0/0/0/0/0/610x900_16976.jpg",
+      "genre": {
+        "54": "Документальный",
+        "28": "Исторический",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "31": "Нидерланды",
+        "43": "Литва"
+      },
+      "collection": {
+        "78": "Биографии",
+        "39": "На реальных событиях"
+      }
+    },
+    {
+      "id": 16860,
+      "name": "Отверженные: 25-ая годовщина мюзикла",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Les Misérables: The Staged Concert",
+      "year": 2019,
+      "activate_time": "2020-04-25 14:51:00",
+      "imdb": "8.6",
+      "imdb_id": "11229886",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/8/6/0/0/0/0/0/0/610x900_16860.jpg",
+      "genre": {
+        "38": "Мюзикл",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "2": "Великобритания"
+      }
+    },
+    {
+      "id": 16974,
+      "name": "Посмертное золото",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Sethum Aayiram Pon",
+      "year": 2020,
+      "activate_time": "2020-04-25 14:49:00",
+      "imdb": "7.2",
+      "imdb_id": "8976418",
+      "kinopoisk": null,
+      "kinopoisk_id": "1195014",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/7/4/0/0/0/0/0/610x900_16974.jpg",
+      "genre": {
+        "33": "Семейный",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "26": "Индия"
+      },
+      "collection": {
+        "29": "Психологические"
+      }
+    },
+    {
+      "id": 16975,
+      "name": "Снайпер",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Sniper",
+      "year": 2020,
+      "activate_time": "2020-04-25 14:48:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/7/5/0/0/0/0/0/610x900_16975.jpg",
+      "genre": {
+        "32": "Военный",
+        "17": "Боевик",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "19": "Китай"
+      },
+      "collection": {
+        "12": "Для мужчин"
+      }
+    },
+    {
+      "id": 16869,
+      "name": "Похищение Караваджо",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Una storia senza nome",
+      "year": 2018,
+      "activate_time": "2020-04-25 14:48:00",
+      "imdb": "5.8",
+      "imdb_id": "7238112",
+      "kinopoisk": null,
+      "kinopoisk_id": "1104839",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/8/6/9/0/0/0/0/0/610x900_16869.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "8": "Италия",
+        "9": "Франция"
+      }
+    },
+    {
+      "id": 16978,
+      "name": "Сто лет пути",
+      "type": "series",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Sto let puti",
+      "year": 2020,
+      "activate_time": "2020-04-25 12:52:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "6.3",
+      "kinopoisk_id": "1363083",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/7/8/0/0/0/0/0/610x900_16978.jpg",
+      "genre": {
+        "25": "Криминал",
+        "24": "Детектив"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16955,
+      "name": "Криминальные гонки",
+      "type": "series",
+      "age": "18+",
+      "quality": "SD",
+      "origin_name": "Fastlane",
+      "year": 2002,
+      "activate_time": "2020-04-25 12:51:00",
+      "imdb": "7.5",
+      "imdb_id": "0320000",
+      "kinopoisk": "7.2",
+      "kinopoisk_id": "160964",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/5/5/0/0/0/0/0/610x900_16955.jpg",
+      "genre": {
+        "25": "Криминал",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "94": "Про гонки"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16973,
+      "name": "Блудный сын нашего времени",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Modern Prodigal",
+      "year": 2019,
+      "activate_time": "2020-04-25 12:50:00",
+      "imdb": "4.4",
+      "imdb_id": "6208096",
+      "kinopoisk": null,
+      "kinopoisk_id": "1017258",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/7/3/0/0/0/0/0/610x900_16973.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "57": "Про мафию, банды",
+        "12": "Для мужчин"
+      }
+    },
+    {
+      "id": 16937,
+      "name": "Парижская тайна",
+      "type": "series",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2020,
+      "activate_time": "2020-04-25 12:50:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/3/7/0/0/0/0/0/610x900_16937.jpg",
+      "genre": {
+        "24": "Детектив",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16972,
+      "name": "Если ты уйдешь",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "If You're Gone",
+      "year": 2019,
+      "activate_time": "2020-04-25 12:49:00",
+      "imdb": "5.8",
+      "imdb_id": "7292306",
+      "kinopoisk": null,
+      "kinopoisk_id": "1083841",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/7/2/0/0/0/0/0/610x900_16972.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 16970,
+      "name": "Молодые мамочки",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Baby Mamas",
+      "year": 2018,
+      "activate_time": "2020-04-25 12:14:00",
+      "imdb": "6.6",
+      "imdb_id": "8686460",
+      "kinopoisk": null,
+      "kinopoisk_id": "1193378",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/7/0/0/0/0/0/0/610x900_16970.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "27": "ЮАР"
+      },
+      "collection": {
+        "79": "Про детей",
+        "73": "Про девушек",
+        "27": "Про жизнь"
+      }
+    },
+    {
+      "id": 16969,
+      "name": "Секрет Альмы",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Alma's Secret",
+      "year": 2017,
+      "activate_time": "2020-04-25 12:14:00",
+      "imdb": "3.3",
+      "imdb_id": "6296274",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/6/9/0/0/0/0/0/610x900_16969.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "22": "Про призраков",
+        "14": "Для взрослых"
+      }
+    },
+    {
+      "id": 16968,
+      "name": "Всё о любви",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "All About Love",
+      "year": 2017,
+      "activate_time": "2020-04-25 12:13:00",
+      "imdb": "3.7",
+      "imdb_id": "7324726",
+      "kinopoisk": null,
+      "kinopoisk_id": "1057551",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/6/8/0/0/0/0/0/610x900_16968.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "27": "ЮАР"
+      },
+      "collection": {
+        "73": "Про девушек",
+        "38": "Про любовь"
+      }
+    },
+    {
+      "id": 16967,
+      "name": "К звездам",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "To the Stars",
+      "year": 2019,
+      "activate_time": "2020-04-25 12:12:00",
+      "imdb": "6.2",
+      "imdb_id": "6886080",
+      "kinopoisk": "6.2",
+      "kinopoisk_id": "1124734",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/6/7/0/0/0/0/0/610x900_16967.jpg",
+      "genre": {
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "74": "Про школу",
+        "73": "Про девушек",
+        "43": "Про подростков"
+      }
+    },
+    {
+      "id": 16966,
+      "name": "Арканзас",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Arkansas",
+      "year": 2020,
+      "activate_time": "2020-04-25 12:10:00",
+      "imdb": "6.0",
+      "imdb_id": "9139586",
+      "kinopoisk": "5.5",
+      "kinopoisk_id": "1202417",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/9/6/6/0/0/0/0/0/610x900_16966.jpg",
+      "genre": {
+        "25": "Криминал",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "57": "Про мафию, банды",
+        "12": "Для мужчин"
+      }
+    },
+    {
       "id": 16965,
       "name": "Девушка из первой квартиры",
       "type": "film",
@@ -11868,525 +12457,6 @@
       "collection": {
         "43": "Про подростков",
         "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 16761,
-      "name": "Ты сводишь меня с ума",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "You're Bacon Me Crazy",
-      "year": 2020,
-      "activate_time": "2020-04-18 18:37:00",
-      "imdb": "6.7",
-      "imdb_id": "11348950",
-      "kinopoisk": null,
-      "kinopoisk_id": "1347765",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/6/1/0/0/0/0/0/610x900_16761.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "7": "Канада"
-      },
-      "collection": {
-        "36": "Романтические комедии",
-        "38": "Про любовь",
-        "11": "Для женщин"
-      }
-    },
-    {
-      "id": 16760,
-      "name": "Зов мечты",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Call for Dreams",
-      "year": 2018,
-      "activate_time": "2020-04-18 18:36:00",
-      "imdb": "6.1",
-      "imdb_id": "7520672",
-      "kinopoisk": null,
-      "kinopoisk_id": "1176842",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/6/0/0/0/0/0/0/610x900_16760.jpg",
-      "genre": {
-        "25": "Криминал",
-        "24": "Детектив",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "18": "Япония",
-        "72": "Израиль"
-      },
-      "collection": {
-        "13": "С неожиданным концом"
-      }
-    },
-    {
-      "id": 16759,
-      "name": "Детройтский убийца с электродрелью",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Detroit Driller Killer",
-      "year": 2020,
-      "activate_time": "2020-04-18 18:35:00",
-      "imdb": "2.9",
-      "imdb_id": "11523762",
-      "kinopoisk": null,
-      "kinopoisk_id": "1340769",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/5/9/0/0/0/0/0/610x900_16759.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "25": "Про маньяков",
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 16758,
-      "name": "На лету",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "On the Wing",
-      "year": 2018,
-      "activate_time": "2020-04-18 18:35:00",
-      "imdb": "5.8",
-      "imdb_id": "3875548",
-      "kinopoisk": null,
-      "kinopoisk_id": "849759",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/5/8/0/0/0/0/0/610x900_16758.jpg",
-      "genre": {
-        "9": "Приключения",
-        "33": "Семейный",
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "43": "Про подростков"
-      }
-    },
-    {
-      "id": 16757,
-      "name": "В погоне за эму",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Emu Runner",
-      "year": 2018,
-      "activate_time": "2020-04-18 18:34:00",
-      "imdb": "6.1",
-      "imdb_id": "7275840",
-      "kinopoisk": null,
-      "kinopoisk_id": "1056709",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/5/7/0/0/0/0/0/610x900_16757.jpeg",
-      "genre": {
-        "33": "Семейный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "4": "Австралия"
-      },
-      "collection": {
-        "79": "Про детей",
-        "18": "Про животных"
-      }
-    },
-    {
-      "id": 16755,
-      "name": "Земля и кровь",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "La terre et le sang",
-      "year": 2020,
-      "activate_time": "2020-04-18 18:33:00",
-      "imdb": "4.9",
-      "imdb_id": "10092752",
-      "kinopoisk": "4.9",
-      "kinopoisk_id": "1280838",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/5/5/0/0/0/0/0/610x900_16755.jpg",
-      "genre": {
-        "25": "Криминал",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "9": "Франция",
-        "29": "Бельгия"
-      },
-      "collection": {
-        "57": "Про мафию, банды",
-        "40": "Netflix"
-      }
-    },
-    {
-      "id": 16754,
-      "name": "Сквозь время",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Time Apart",
-      "year": 2018,
-      "activate_time": "2020-04-18 18:33:00",
-      "imdb": "4.2",
-      "imdb_id": "9784068",
-      "kinopoisk": null,
-      "kinopoisk_id": "1086788",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/5/4/0/0/0/0/0/610x900_16754.jpg",
-      "genre": {
-        "11": "Фантастика",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "4": "Австралия"
-      }
-    },
-    {
-      "id": 16504,
-      "name": "Выбор киллера",
-      "type": "film",
-      "age": "18+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Choose",
-      "year": 2011,
-      "activate_time": "2020-04-18 18:33:00",
-      "imdb": "4.7",
-      "imdb_id": "1325723",
-      "kinopoisk": "4.8",
-      "kinopoisk_id": "432839",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/5/0/4/0/0/0/0/0/610x900_16504.jpg",
-      "genre": {
-        "25": "Криминал",
-        "26": "Ужасы",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 16746,
-      "name": "Под откос",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Derailed",
-      "year": 2002,
-      "activate_time": "2020-04-18 18:32:00",
-      "imdb": "4.0",
-      "imdb_id": "0298296",
-      "kinopoisk": "4.9",
-      "kinopoisk_id": "12378",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/4/6/0/0/0/0/0/610x900_16746.jpg",
-      "genre": {
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "12": "Для мужчин"
-      }
-    },
-    {
-      "id": 16740,
-      "name": "В поисках приключений",
-      "type": "film",
-      "age": "12+",
-      "quality": "FHD (1080p)",
-      "origin_name": "The Quest",
-      "year": 1996,
-      "activate_time": "2020-04-18 18:32:00",
-      "imdb": "5.6",
-      "imdb_id": "0117420",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "6846",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/4/0/0/0/0/0/0/610x900_16740.jpg",
-      "genre": {
-        "9": "Приключения",
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "7": "Канада",
-        "1": "США"
-      },
-      "collection": {
-        "12": "Для мужчин"
-      }
-    },
-    {
-      "id": 16705,
-      "name": "Монтана",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Montana",
-      "year": 2014,
-      "activate_time": "2020-04-18 18:32:00",
-      "imdb": "5.4",
-      "imdb_id": "2208568",
-      "kinopoisk": "5.1",
-      "kinopoisk_id": "687700",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/0/5/0/0/0/0/0/610x900_16705.jpg",
-      "genre": {
-        "25": "Криминал",
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "2": "Великобритания"
-      }
-    },
-    {
-      "id": 16752,
-      "name": "99 женщин",
-      "type": "film",
-      "age": "18+",
-      "quality": "SD",
-      "origin_name": "Der heiße Tod",
-      "year": 1969,
-      "activate_time": "2020-04-18 18:31:00",
-      "imdb": "4.7",
-      "imdb_id": "0063977",
-      "kinopoisk": "4.5",
-      "kinopoisk_id": "82102",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/5/2/0/0/0/0/0/610x900_16752.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "2": "Великобритания",
-        "3": "Испания",
-        "8": "Италия",
-        "38": "Германия (ФРГ)"
-      }
-    },
-    {
-      "id": 16751,
-      "name": "У тебя за спиной",
-      "type": "film",
-      "age": "18+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Behind You",
-      "year": 2020,
-      "activate_time": "2020-04-18 18:31:00",
-      "imdb": "4.3",
-      "imdb_id": "7335796",
-      "kinopoisk": "4.3",
-      "kinopoisk_id": "1057343",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": "",
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/5/1/0/0/0/0/0/610x900_16751.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 16739,
-      "name": "Внезапная смерть",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Sudden Death",
-      "year": 1995,
-      "activate_time": "2020-04-18 18:31:00",
-      "imdb": "5.8",
-      "imdb_id": "0114576",
-      "kinopoisk": "6.7",
-      "kinopoisk_id": "18193",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/3/9/0/0/0/0/0/610x900_16739.jpg",
-      "genre": {
-        "25": "Криминал",
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "12": "Для мужчин"
-      }
-    },
-    {
-      "id": 16750,
-      "name": "Плоды страсти",
-      "type": "film",
-      "age": "18+",
-      "quality": "SD",
-      "origin_name": "Les fruits de la passion",
-      "year": 1981,
-      "activate_time": "2020-04-18 18:30:00",
-      "imdb": "5.6",
-      "imdb_id": "0082422",
-      "kinopoisk": "5.7",
-      "kinopoisk_id": "55019",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/5/0/0/0/0/0/0/610x900_16750.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция",
-        "18": "Япония"
-      },
-      "collection": {
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 16742,
-      "name": "Инферно",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Inferno",
-      "year": 1999,
-      "activate_time": "2020-04-18 18:29:00",
-      "imdb": "5.2",
-      "imdb_id": "0139151",
-      "kinopoisk": "6.1",
-      "kinopoisk_id": "78939",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/4/2/0/0/0/0/0/610x900_16742.jpg",
-      "genre": {
-        "19": "Комедия",
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "9": "Франция"
-      },
-      "collection": {
-        "12": "Для мужчин"
-      }
-    },
-    {
-      "id": 16737,
-      "name": "Трудная мишень",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Hard Target",
-      "year": 1993,
-      "activate_time": "2020-04-18 18:29:00",
-      "imdb": "6.2",
-      "imdb_id": "0107076",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "2281",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/7/3/7/0/0/0/0/0/610x900_16737.jpg",
-      "genre": {
-        "9": "Приключения",
-        "17": "Боевик",
-        "13": "Триллер",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "12": "Для мужчин"
       }
     }
   ]

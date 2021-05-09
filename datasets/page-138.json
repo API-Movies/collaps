@@ -1,6 +1,113 @@
 {
   "results": [
     {
+      "id": 18411,
+      "name": "Дед Морозов",
+      "type": "series",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "–",
+      "year": 2020,
+      "activate_time": "2020-05-10 18:31:00",
+      "imdb": "6.4",
+      "imdb_id": "12055222",
+      "kinopoisk": "6.4",
+      "kinopoisk_id": "1347303",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/4/1/1/0/0/0/0/0/610x900_18411.jpg",
+      "genre": {
+        "32": "Военный"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "69": "Про войну 1941-1945"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18410,
+      "name": "Женщина дня",
+      "type": "film",
+      "age": "12+",
+      "quality": "SD",
+      "origin_name": "",
+      "year": 1989,
+      "activate_time": "2020-05-10 18:19:00",
+      "imdb": "6.9",
+      "imdb_id": "0310391",
+      "kinopoisk": "7.4",
+      "kinopoisk_id": "45304",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/4/1/0/0/0/0/0/0/610x900_18410.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "24": "СССР"
+      },
+      "collection": {
+        "38": "Про любовь"
+      }
+    },
+    {
+      "id": 18406,
+      "name": "Конец",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "The End",
+      "year": 2016,
+      "activate_time": "2020-05-10 17:52:00",
+      "imdb": "5.4",
+      "imdb_id": "5231798",
+      "kinopoisk": "5.0",
+      "kinopoisk_id": "947780",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/4/0/6/0/0/0/0/0/610x900_18406.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "9": "Франция"
+      }
+    },
+    {
       "id": 18408,
       "name": "Девочка, покорившая время",
       "type": "film",
@@ -11131,85 +11238,6 @@
       },
       "country": {
         "1": "США"
-      }
-    },
-    {
-      "id": 18155,
-      "name": "Опустошённая",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "The Hollow One",
-      "year": 2015,
-      "activate_time": "2020-05-08 02:02:00",
-      "imdb": "3.8",
-      "imdb_id": "3305176",
-      "kinopoisk": null,
-      "kinopoisk_id": "807355",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/1/5/5/0/0/0/0/0/610x900_18155.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "11": "Фантастика",
-        "13": "Триллер"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 18101,
-      "name": "Зубная фея 2",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Tooth Fairy 2",
-      "year": 2012,
-      "activate_time": "2020-05-08 01:55:00",
-      "imdb": "3.7",
-      "imdb_id": "1935929",
-      "kinopoisk": "4.5",
-      "kinopoisk_id": "661063",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/1/0/1/0/0/0/0/0/610x900_18101.jpg",
-      "genre": {
-        "33": "Семейный",
-        "19": "Комедия"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 18189,
-      "name": "Евгений Гришковец: Прощание с бумагой",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "",
-      "year": 2014,
-      "activate_time": "2020-05-08 01:33:00",
-      "imdb": "7.3",
-      "imdb_id": "5122794",
-      "kinopoisk": "8.3",
-      "kinopoisk_id": "840526",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/1/8/9/0/0/0/0/0/610x900_18189.jpg",
-      "genre": {
-        "19": "Комедия",
-        "7": "Драма"
-      },
-      "country": {
-        "5": "Россия"
       }
     }
   ]

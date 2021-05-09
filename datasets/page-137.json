@@ -1,6 +1,106 @@
 {
   "results": [
     {
+      "id": 17827,
+      "name": "Тень, или Может быть, все обойдется",
+      "type": "series",
+      "age": "0+",
+      "quality": "SD",
+      "origin_name": "",
+      "year": 1991,
+      "activate_time": "2020-05-12 16:29:00",
+      "imdb": "7.0",
+      "imdb_id": "0268687",
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "331717",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/7/8/2/7/0/0/0/0/0/610x900_17827.jpg",
+      "genre": {
+        "6": "Фэнтези",
+        "38": "Мюзикл",
+        "19": "Комедия",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "24": "СССР"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18485,
+      "name": "Стигматы",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Stigmata",
+      "year": 1999,
+      "activate_time": "2020-05-12 16:26:00",
+      "imdb": "6.2",
+      "imdb_id": "0145531",
+      "kinopoisk": "6.9",
+      "kinopoisk_id": "4140",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/4/8/5/0/0/0/0/0/610x900_18485.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "24": "Детектив",
+        "13": "Триллер"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 18597,
+      "name": "Зубастики 4",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Critters 4",
+      "year": 1991,
+      "activate_time": "2020-05-12 16:22:00",
+      "imdb": "4.1",
+      "imdb_id": "0101628",
+      "kinopoisk": "4.8",
+      "kinopoisk_id": "178564",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/5/9/7/0/0/0/0/0/610x900_18597.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "11": "Фантастика"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 18683,
       "name": "Карфур",
       "type": "film",
@@ -8544,113 +8644,6 @@
       "country": {
         "2": "Великобритания",
         "18": "Япония"
-      }
-    },
-    {
-      "id": 18411,
-      "name": "Дед Морозов",
-      "type": "series",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "–",
-      "year": 2020,
-      "activate_time": "2020-05-10 18:31:00",
-      "imdb": "6.4",
-      "imdb_id": "12055222",
-      "kinopoisk": "6.4",
-      "kinopoisk_id": "1347303",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/4/1/1/0/0/0/0/0/610x900_18411.jpg",
-      "genre": {
-        "32": "Военный"
-      },
-      "country": {
-        "5": "Россия"
-      },
-      "collection": {
-        "69": "Про войну 1941-1945"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 18410,
-      "name": "Женщина дня",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "",
-      "year": 1989,
-      "activate_time": "2020-05-10 18:19:00",
-      "imdb": "6.9",
-      "imdb_id": "0310391",
-      "kinopoisk": "7.4",
-      "kinopoisk_id": "45304",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/4/1/0/0/0/0/0/0/610x900_18410.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "24": "СССР"
-      },
-      "collection": {
-        "38": "Про любовь"
-      }
-    },
-    {
-      "id": 18406,
-      "name": "Конец",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "The End",
-      "year": 2016,
-      "activate_time": "2020-05-10 17:52:00",
-      "imdb": "5.4",
-      "imdb_id": "5231798",
-      "kinopoisk": "5.0",
-      "kinopoisk_id": "947780",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/8/4/0/6/0/0/0/0/0/610x900_18406.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция"
       }
     }
   ]

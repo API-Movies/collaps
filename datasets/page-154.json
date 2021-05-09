@@ -1,6 +1,96 @@
 {
   "results": [
     {
+      "id": 14882,
+      "name": "Забегаловка",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Diner",
+      "year": 1982,
+      "activate_time": "2020-01-31 12:34:00",
+      "imdb": "7.1",
+      "imdb_id": "0083833",
+      "kinopoisk": "6.9",
+      "kinopoisk_id": "2319",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/8/8/2/0/0/0/0/0/610x900_14882.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 14880,
+      "name": "Реальность кусается",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Reality Bites",
+      "year": 1994,
+      "activate_time": "2020-01-31 12:34:00",
+      "imdb": "6.6",
+      "imdb_id": "0110950",
+      "kinopoisk": "6.8",
+      "kinopoisk_id": "5333",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/8/8/0/0/0/0/0/0/610x900_14880.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "36": "Романтические комедии",
+        "38": "Про любовь",
+        "11": "Для женщин"
+      }
+    },
+    {
+      "id": 15055,
+      "name": "Пригородное убийство",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Secrets at the Lake",
+      "year": 2019,
+      "activate_time": "2020-01-31 12:33:00",
+      "imdb": "5.1",
+      "imdb_id": "8564600",
+      "kinopoisk": null,
+      "kinopoisk_id": "1172912",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/0/5/5/0/0/0/0/0/610x900_15055.jpg",
+      "genre": {
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "29": "Психологические",
+        "27": "Про жизнь"
+      }
+    },
+    {
       "id": 15054,
       "name": "Карма: Цена возмездия",
       "type": "film",
@@ -9826,201 +9916,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 14738,
-      "name": "Морские дьяволы. Северные рубежи",
-      "type": "series",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "",
-      "year": 2016,
-      "activate_time": "2020-01-24 17:56:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": null,
-      "kinopoisk_id": "992569",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/4/7/3/8/0/0/0/0/0/610x900_14738.jpg",
-      "genre": {
-        "25": "Криминал",
-        "9": "Приключения",
-        "24": "Детектив",
-        "17": "Боевик"
-      },
-      "country": {
-        "5": "Россия"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            },
-            {
-              "episode": 12,
-              "iframe_url": ""
-            },
-            {
-              "episode": 13,
-              "iframe_url": ""
-            },
-            {
-              "episode": 14,
-              "iframe_url": ""
-            },
-            {
-              "episode": 15,
-              "iframe_url": ""
-            },
-            {
-              "episode": 16,
-              "iframe_url": ""
-            },
-            {
-              "episode": 17,
-              "iframe_url": ""
-            },
-            {
-              "episode": 18,
-              "iframe_url": ""
-            },
-            {
-              "episode": 19,
-              "iframe_url": ""
-            },
-            {
-              "episode": 20,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 14765,
-      "name": "Неизвестная Бразилия",
-      "type": "series",
-      "age": "6+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Secret Brazil",
-      "year": 2012,
-      "activate_time": "2020-01-24 17:49:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": null,
-      "kinopoisk_id": null,
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/4/7/6/5/0/0/0/0/0/610x900_14765.jpg",
-      "genre": {
-        "54": "Документальный"
-      },
-      "country": {
-        "1": "США",
-        "30": "Бразилия"
-      },
-      "collection": {
-        "105": "National Geographic"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 14769,
-      "name": "Шпионы по соседству",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Keeping Up with the Joneses",
-      "year": 2016,
-      "activate_time": "2020-01-24 17:33:00",
-      "imdb": "5.9",
-      "imdb_id": "2387499",
-      "kinopoisk": "5.9",
-      "kinopoisk_id": "681503",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/4/7/6/9/0/0/0/0/0/610x900_14769.jpg",
-      "genre": {
-        "19": "Комедия",
-        "17": "Боевик"
-      },
-      "country": {
-        "1": "США"
-      }
     }
   ]
 }

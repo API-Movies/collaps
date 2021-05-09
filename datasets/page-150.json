@@ -1,6 +1,110 @@
 {
   "results": [
     {
+      "id": 14896,
+      "name": "Скорость",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Speed",
+      "year": 1994,
+      "activate_time": "2020-03-02 16:17:00",
+      "imdb": "7.2",
+      "imdb_id": "0111257",
+      "kinopoisk": "7.8",
+      "kinopoisk_id": "1968",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/4/8/9/6/0/0/0/0/0/610x900_14896.jpg",
+      "genre": {
+        "9": "Приключения",
+        "17": "Боевик",
+        "13": "Триллер"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 15726,
+      "name": "Особенные",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Hors normes",
+      "year": 2019,
+      "activate_time": "2020-03-02 15:51:00",
+      "imdb": "7.4",
+      "imdb_id": "8655470",
+      "kinopoisk": "7.4",
+      "kinopoisk_id": "1170315",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/7/2/6/0/0/0/0/0/610x900_15726.jpg",
+      "genre": {
+        "19": "Комедия",
+        "7": "Драма"
+      },
+      "country": {
+        "9": "Франция"
+      }
+    },
+    {
+      "id": 15723,
+      "name": "Суперсооружения Третьего рейха. Война с СССР",
+      "type": "series",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Nazi Megastructures Russia's War",
+      "year": 2018,
+      "activate_time": "2020-03-02 15:01:00",
+      "imdb": "8.2",
+      "imdb_id": "10234210",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/7/2/3/0/0/0/0/0/610x900_15723.jpg",
+      "genre": {
+        "54": "Документальный",
+        "32": "Военный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "105": "National Geographic"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 15124,
       "name": "Discovery. Человек против медведя",
       "type": "tv-show",
@@ -10127,297 +10231,6 @@
       "country": {
         "1": "США"
       }
-    },
-    {
-      "id": 15521,
-      "name": "Группа «Зета»",
-      "type": "series",
-      "age": "16+",
-      "quality": "SD",
-      "origin_name": "",
-      "year": 2007,
-      "activate_time": "2020-02-19 16:44:00",
-      "imdb": "5.0",
-      "imdb_id": "1236619",
-      "kinopoisk": "5.9",
-      "kinopoisk_id": "419613",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/5/2/1/0/0/0/0/0/610x900_15521.jpg",
-      "genre": {
-        "25": "Криминал",
-        "17": "Боевик"
-      },
-      "country": {
-        "5": "Россия"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 2,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 14772,
-      "name": "Роскошная комедия Ноэля Филдинга",
-      "type": "tv-show",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Noel Fielding's Luxury Comedy",
-      "year": 2012,
-      "activate_time": "2020-02-19 16:32:00",
-      "imdb": "6.4",
-      "imdb_id": "2220083",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "665935",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/4/7/7/2/0/0/0/0/0/610x900_14772.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "2": "Великобритания"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 2,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 14890,
-      "name": "Шарлотта",
-      "type": "anime-series",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Charlotte",
-      "year": 2015,
-      "activate_time": "2020-02-19 16:25:00",
-      "imdb": "7.5",
-      "imdb_id": "4574736",
-      "kinopoisk": "7.8",
-      "kinopoisk_id": "933325",
-      "world_art": "8.1",
-      "world_art_id": "8185",
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/4/8/9/0/0/0/0/0/0/610x900_14890.jpg",
-      "genre": {
-        "6": "Фэнтези",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "18": "Япония"
-      },
-      "collection": {
-        "43": "Про подростков",
-        "21": "Для молодёжи"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            },
-            {
-              "episode": 12,
-              "iframe_url": ""
-            },
-            {
-              "episode": 13,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
     }
   ]
 }

@@ -1,6 +1,123 @@
 {
   "results": [
     {
+      "id": 40879,
+      "name": "Уиттлер",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "The Whittler",
+      "year": 2020,
+      "activate_time": "2020-11-03 15:10:00",
+      "imdb": "5.3",
+      "imdb_id": "11713524",
+      "kinopoisk": null,
+      "kinopoisk_id": "1347841",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/0/8/7/9/0/0/0/0/0/610x900_40879.jpg",
+      "genre": {
+        "26": "Ужасы"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 40900,
+      "name": "Если бы ты…",
+      "type": "series",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Si fueras tú",
+      "year": 2017,
+      "activate_time": "2020-11-03 15:09:00",
+      "imdb": "5.2",
+      "imdb_id": "7328120",
+      "kinopoisk": "5.8",
+      "kinopoisk_id": "1108423",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/0/9/0/0/0/0/0/0/0/610x900_40900.jpg",
+      "genre": {
+        "24": "Детектив"
+      },
+      "country": {
+        "3": "Испания"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40894,
+      "name": "Все Зависит от Выбора",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "It's About Choices",
+      "year": 2020,
+      "activate_time": "2020-11-03 15:09:00",
+      "imdb": "5.9",
+      "imdb_id": "10919858",
+      "kinopoisk": null,
+      "kinopoisk_id": "1386747",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/0/8/9/4/0/0/0/0/0/610x900_40894.jpg",
+      "genre": {
+        "17": "Боевик"
+      },
+      "country": {
+        "26": "Индия"
+      }
+    },
+    {
       "id": 40897,
       "name": "Сад вечерних туманов",
       "type": "film",
@@ -6789,86 +6906,6 @@
       },
       "country": {
         "26": "Индия"
-      }
-    },
-    {
-      "id": 40201,
-      "name": "Опиум и мастер кунг-фу",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Hung kuen dai see",
-      "year": 1984,
-      "activate_time": "2020-10-31 11:36:00",
-      "imdb": "6.5",
-      "imdb_id": "0087623",
-      "kinopoisk": null,
-      "kinopoisk_id": "268405",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/0/2/0/1/0/0/0/0/0/610x900_40201.jpg",
-      "genre": {
-        "17": "Боевик",
-        "7": "Драма"
-      },
-      "country": {
-        "12": "Гонконг"
-      }
-    },
-    {
-      "id": 40245,
-      "name": "Дикая жизнь",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Vie sauvage",
-      "year": 2014,
-      "activate_time": "2020-10-31 11:35:00",
-      "imdb": "6.6",
-      "imdb_id": "3480164",
-      "kinopoisk": null,
-      "kinopoisk_id": "824418",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/0/2/4/5/0/0/0/0/0/610x900_40245.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция",
-        "29": "Бельгия"
-      }
-    },
-    {
-      "id": 40480,
-      "name": "Посредник",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Haegyeolsa",
-      "year": 2010,
-      "activate_time": "2020-10-31 11:33:00",
-      "imdb": "6.2",
-      "imdb_id": "1846803",
-      "kinopoisk": "6.7",
-      "kinopoisk_id": "581121",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/0/4/8/0/0/0/0/0/0/610x900_40480.jpg",
-      "genre": {
-        "25": "Криминал",
-        "24": "Детектив",
-        "17": "Боевик",
-        "13": "Триллер"
-      },
-      "country": {
-        "16": "Корея Южная"
       }
     }
   ]

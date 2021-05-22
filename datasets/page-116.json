@@ -1,6 +1,107 @@
 {
   "results": [
     {
+      "id": 23726,
+      "name": "Скейтлэнд",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Skateland",
+      "year": 2010,
+      "activate_time": "2020-06-16 12:18:00",
+      "imdb": "5.7",
+      "imdb_id": "1312254",
+      "kinopoisk": "6.1",
+      "kinopoisk_id": "430729",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/3/7/2/6/0/0/0/0/0/610x900_23726.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 23754,
+      "name": "За лесами",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Beyond the Woods",
+      "year": 2018,
+      "activate_time": "2020-06-16 12:17:00",
+      "imdb": "5.4",
+      "imdb_id": "5060166",
+      "kinopoisk": "3.6",
+      "kinopoisk_id": "937654",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/3/7/5/4/0/0/0/0/0/610x900_23754.jpg"
+    },
+    {
+      "id": 23708,
+      "name": "Тёлки-кровососки",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Teenage Bloodsuckin' Bimbos",
+      "year": 2019,
+      "activate_time": "2020-06-16 12:06:00",
+      "imdb": "5.5",
+      "imdb_id": "5904064",
+      "kinopoisk": null,
+      "kinopoisk_id": "1021939",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/3/7/0/8/0/0/0/0/0/610x900_23708.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "17": "Про вампиров"
+      }
+    },
+    {
+      "id": 23729,
+      "name": "Игра в карты по-научному",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Lo scopone scientifico",
+      "year": 1972,
+      "activate_time": "2020-06-16 12:05:00",
+      "imdb": "7.7",
+      "imdb_id": "0069235",
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "13355",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/3/7/2/9/0/0/0/0/0/610x900_23729.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "8": "Италия"
+      }
+    },
+    {
       "id": 23683,
       "name": "Колеблющийся штат",
       "type": "film",
@@ -5897,202 +5998,6 @@
       "collection": {
         "22": "Про призраков"
       }
-    },
-    {
-      "id": 23408,
-      "name": "Модификация",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Variant",
-      "year": 2018,
-      "activate_time": "2020-06-15 14:29:00",
-      "imdb": "4.1",
-      "imdb_id": "7236054",
-      "kinopoisk": null,
-      "kinopoisk_id": "1062510",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/3/4/0/8/0/0/0/0/0/610x900_23408.jpg",
-      "genre": {
-        "11": "Фантастика",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 20408,
-      "name": "Элизабеттаун",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Elizabethtown",
-      "year": 2005,
-      "activate_time": "2020-06-15 14:18:00",
-      "imdb": "6.4",
-      "imdb_id": "0368709",
-      "kinopoisk": "6.8",
-      "kinopoisk_id": "61238",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/0/4/0/8/0/0/0/0/0/610x900_20408.jpg",
-      "genre": {
-        "19": "Комедия",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "43": "Про подростков",
-        "38": "Про любовь"
-      }
-    },
-    {
-      "id": 21500,
-      "name": "Плохие мальчики",
-      "type": "film",
-      "age": "18+",
-      "quality": "HD (720p)",
-      "origin_name": "Bad Boys",
-      "year": 1983,
-      "activate_time": "2020-06-15 14:15:00",
-      "imdb": "7.2",
-      "imdb_id": "0085210",
-      "kinopoisk": "7.6",
-      "kinopoisk_id": "16951",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/1/5/0/0/0/0/0/0/0/610x900_21500.jpg",
-      "genre": {
-        "25": "Криминал",
-        "13": "Триллер",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 23394,
-      "name": "Закон Хэрри",
-      "type": "series",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Harry&#x27;s Law",
-      "year": 2011,
-      "activate_time": "2020-06-15 14:11:00",
-      "imdb": "7.3",
-      "imdb_id": "1582453",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "569642",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/3/3/9/4/0/0/0/0/0/610x900_23394.jpg",
-      "genre": {
-        "19": "Комедия",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            },
-            {
-              "episode": 12,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 2,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
     }
   ]
 }

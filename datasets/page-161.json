@@ -1,6 +1,178 @@
 {
   "results": [
     {
+      "id": 13925,
+      "name": "Сын птицелова",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Fagelfangarens Son",
+      "year": 2019,
+      "activate_time": "2019-12-30 20:20:15",
+      "imdb": "6.8",
+      "imdb_id": "7552784",
+      "kinopoisk": null,
+      "kinopoisk_id": "1159468",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/9/2/5/0/0/0/0/0/610x900_13925.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "28": "Швеция"
+      }
+    },
+    {
+      "id": 13897,
+      "name": "Тайны следствия. Прошлый век",
+      "type": "series",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2019,
+      "activate_time": "2019-12-30 15:56:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "5.8",
+      "kinopoisk_id": "1331269",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/8/9/7/0/0/0/0/0/610x900_13897.jpg",
+      "genre": {
+        "24": "Детектив"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13888,
+      "name": "Убийства Вальгаллы",
+      "type": "series",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "The Valhalla Murders",
+      "year": 2019,
+      "activate_time": "2019-12-29 16:18:00",
+      "imdb": "7.1",
+      "imdb_id": "9100822",
+      "kinopoisk": "6.5",
+      "kinopoisk_id": "1200397",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/8/8/8/0/0/0/0/0/610x900_13888.jpg",
+      "genre": {
+        "25": "Криминал",
+        "24": "Детектив",
+        "13": "Триллер",
+        "7": "Драма"
+      },
+      "country": {
+        "11": "Исландия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13729,
+      "name": "Тетрадь дружбы Нацумэ - Однажды зимним днём",
+      "type": "anime-film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+      "year": 2014,
+      "activate_time": "2019-12-29 15:15:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": "8.5",
+      "world_art_id": "1709",
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/3/7/2/9/0/0/0/0/0/610x900_13729.jpg",
+      "genre": {
+        "9": "Приключения",
+        "19": "Комедия"
+      },
+      "country": {
+        "18": "Япония"
+      }
+    },
+    {
       "id": 13732,
       "name": "Мэйджор: Мяч дружбы",
       "type": "anime-film",
@@ -7946,7 +8118,7 @@
       "name": "Тайны Хейвена",
       "type": "series",
       "age": "12+",
-      "quality": "HD (720p)",
+      "quality": "FHD (1080p)",
       "origin_name": "Haven",
       "year": 2010,
       "activate_time": "2019-12-20 12:52:00",
@@ -14466,231 +14638,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 13351,
-      "name": "Семейка Муди",
-      "type": "series",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "The Moodys",
-      "year": 2014,
-      "activate_time": "2019-12-19 12:41:00",
-      "imdb": "8.0",
-      "imdb_id": "3184748",
-      "kinopoisk": null,
-      "kinopoisk_id": "818793",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/3/5/1/0/0/0/0/0/610x900_13351.jpg",
-      "genre": {
-        "19": "Комедия"
-      },
-      "country": {
-        "4": "Австралия"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 2,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13319,
-      "name": "Лживая весна",
-      "type": "series",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Yalanci Bahar",
-      "year": 2011,
-      "activate_time": "2019-12-19 12:41:00",
-      "imdb": "5.6",
-      "imdb_id": null,
-      "kinopoisk": null,
-      "kinopoisk_id": "817740",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/3/1/9/0/0/0/0/0/610x900_13319.jpg",
-      "genre": {
-        "13": "Триллер",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "36": "Турция"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13646,
-      "name": "Преступление в маленьком городе",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Small Town Crime",
-      "year": 2017,
-      "activate_time": "2019-12-19 12:40:00",
-      "imdb": "6.6",
-      "imdb_id": "5751998",
-      "kinopoisk": "6.3",
-      "kinopoisk_id": "981871",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/6/4/6/0/0/0/0/0/610x900_13646.jpg",
-      "genre": {
-        "25": "Криминал",
-        "24": "Детектив",
-        "13": "Триллер"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 13643,
-      "name": "Парадокс",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "Paradox",
-      "year": 2010,
-      "activate_time": "2019-12-19 12:40:00",
-      "imdb": "4.5",
-      "imdb_id": "1343740",
-      "kinopoisk": "5.2",
-      "kinopoisk_id": "437114",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/3/6/4/3/0/0/0/0/0/610x900_13643.jpg",
-      "genre": {
-        "11": "Фантастика",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "7": "Канада"
-      }
     }
   ]
 }

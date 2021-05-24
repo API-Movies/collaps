@@ -1,6 +1,448 @@
 {
   "results": [
     {
+      "id": 46873,
+      "name": "Северный Голливуд",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "North Hollywood",
+      "year": 2021,
+      "activate_time": "2021-05-16 18:24:00",
+      "imdb": null,
+      "imdb_id": "11165716",
+      "kinopoisk": null,
+      "kinopoisk_id": "1315984",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/6/8/7/3/0/0/0/0/0/610x900_46873.jpg",
+      "genre": {
+        "19": "Комедия",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 46630,
+      "name": "Кровные",
+      "type": "series",
+      "age": "18+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Bloods",
+      "year": 2021,
+      "activate_time": "2021-05-16 15:57:00",
+      "imdb": "5.9",
+      "imdb_id": "11898696",
+      "kinopoisk": null,
+      "kinopoisk_id": "1432641",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/6/6/3/0/0/0/0/0/0/610x900_46630.jpg",
+      "genre": {
+        "19": "Комедия"
+      },
+      "country": {
+        "2": "Великобритания"
+      },
+      "serial_status": "online",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46629,
+      "name": "Управляй миром",
+      "type": "series",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Run the World",
+      "year": 2021,
+      "activate_time": "2021-05-16 13:31:00",
+      "imdb": null,
+      "imdb_id": "11737794",
+      "kinopoisk": null,
+      "kinopoisk_id": "1347174",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/6/6/2/9/0/0/0/0/0/610x900_46629.jpg",
+      "genre": {
+        "19": "Комедия",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "11": "Для женщин"
+      },
+      "serial_status": "online",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46628,
+      "name": "Стюардесса",
+      "type": "series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 2021,
+      "activate_time": "2021-05-16 13:05:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": "4436102",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/6/6/2/8/0/0/0/0/0/610x900_46628.jpg",
+      "genre": {
+        "8": "Мелодрама"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "online",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46627,
+      "name": "Курокоти",
+      "type": "series",
+      "age": null,
+      "quality": null,
+      "origin_name": "Kurokôchi",
+      "year": 2013,
+      "activate_time": "2021-05-16 09:57:00",
+      "imdb": "6.8",
+      "imdb_id": "3113540",
+      "kinopoisk": null,
+      "kinopoisk_id": "809033",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/6/6/2/7/0/0/0/0/0/610x900_46627.jpg",
+      "genre": {
+        "24": "Детектив"
+      },
+      "country": {
+        "18": "Япония"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46612,
+      "name": "Юри на льду",
+      "type": "anime-series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Yuri!!! On Ice",
+      "year": 2016,
+      "activate_time": "2021-05-16 09:28:00",
+      "imdb": "8.3",
+      "imdb_id": "6112556",
+      "kinopoisk": "7.8",
+      "kinopoisk_id": "1007561",
+      "world_art": "7.5",
+      "world_art_id": "8741",
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/6/6/1/2/0/0/0/0/0/610x900_46612.jpg",
+      "genre": {
+        "23": "Спортивный",
+        "7": "Драма"
+      },
+      "country": {
+        "18": "Япония"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46616,
+      "name": "Маугли. Возвращение к людям",
+      "type": "cartoon",
+      "age": "0+",
+      "quality": null,
+      "origin_name": "",
+      "year": 1971,
+      "activate_time": "2021-05-16 09:22:00",
+      "imdb": "7.8",
+      "imdb_id": "1261909",
+      "kinopoisk": "7.9",
+      "kinopoisk_id": "420306",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/6/6/1/6/0/0/0/0/0/610x900_46616.jpg",
+      "genre": {
+        "9": "Приключения",
+        "53": "Короткометражный",
+        "37": "Детский"
+      },
+      "country": {
+        "24": "СССР"
+      }
+    },
+    {
+      "id": 46615,
+      "name": "Маугли. Битва",
+      "type": "cartoon",
+      "age": "0+",
+      "quality": null,
+      "origin_name": "",
+      "year": 1970,
+      "activate_time": "2021-05-16 09:22:00",
+      "imdb": "8.0",
+      "imdb_id": "1261908",
+      "kinopoisk": "8.0",
+      "kinopoisk_id": "420305",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/6/6/1/5/0/0/0/0/0/610x900_46615.jpg",
+      "genre": {
+        "9": "Приключения",
+        "53": "Короткометражный",
+        "37": "Детский"
+      },
+      "country": {
+        "24": "СССР"
+      }
+    },
+    {
+      "id": 46614,
+      "name": "Маугли. Похищение",
+      "type": "cartoon",
+      "age": "0+",
+      "quality": null,
+      "origin_name": "0+",
+      "year": 1968,
+      "activate_time": "2021-05-16 09:21:00",
+      "imdb": "7.9",
+      "imdb_id": "1259772",
+      "kinopoisk": "8.0",
+      "kinopoisk_id": "420304",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/6/6/1/4/0/0/0/0/0/610x900_46614.jpg",
+      "genre": {
+        "9": "Приключения",
+        "53": "Короткометражный",
+        "37": "Детский"
+      },
+      "country": {
+        "24": "СССР"
+      }
+    },
+    {
+      "id": 46613,
+      "name": "Маугли. Последняя охота Акелы",
+      "type": "cartoon",
+      "age": "0+",
+      "quality": "SD",
+      "origin_name": "0+",
+      "year": 1969,
+      "activate_time": "2021-05-16 09:21:00",
+      "imdb": "8.0",
+      "imdb_id": "1260381",
+      "kinopoisk": "8.0",
+      "kinopoisk_id": "420303",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/6/6/1/3/0/0/0/0/0/610x900_46613.jpg",
+      "genre": {
+        "9": "Приключения",
+        "53": "Короткометражный",
+        "37": "Детский"
+      },
+      "country": {
+        "24": "СССР"
+      }
+    },
+    {
       "id": 46625,
       "name": "Сделка с Дьяволом",
       "type": "film",
@@ -2983,7 +3425,7 @@
       "name": "Одиночества / Соло",
       "type": "series",
       "age": null,
-      "quality": "HD (720p)",
+      "quality": "FHD (1080p)",
       "origin_name": "Solos",
       "year": 2021,
       "activate_time": "2021-05-12 17:07:00",
@@ -4653,6 +5095,113 @@
             },
             {
               "episode": 26,
+              "iframe_url": ""
+            }
+          ]
+        },
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 10,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            },
+            {
+              "episode": 13,
+              "iframe_url": ""
+            },
+            {
+              "episode": 14,
+              "iframe_url": ""
+            },
+            {
+              "episode": 15,
+              "iframe_url": ""
+            },
+            {
+              "episode": 16,
+              "iframe_url": ""
+            },
+            {
+              "episode": 17,
+              "iframe_url": ""
+            },
+            {
+              "episode": 18,
+              "iframe_url": ""
+            },
+            {
+              "episode": 19,
+              "iframe_url": ""
+            },
+            {
+              "episode": 20,
+              "iframe_url": ""
+            },
+            {
+              "episode": 21,
+              "iframe_url": ""
+            },
+            {
+              "episode": 22,
+              "iframe_url": ""
+            },
+            {
+              "episode": 23,
+              "iframe_url": ""
+            },
+            {
+              "episode": 24,
+              "iframe_url": ""
+            },
+            {
+              "episode": 25,
+              "iframe_url": ""
+            },
+            {
+              "episode": 26,
+              "iframe_url": ""
+            },
+            {
+              "episode": 27,
+              "iframe_url": ""
+            },
+            {
+              "episode": 28,
               "iframe_url": ""
             }
           ]
@@ -7375,6 +7924,10 @@
             {
               "episode": 2,
               "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
             }
           ]
         }
@@ -9483,262 +10036,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 46424,
-      "name": "Одинокие сердца",
-      "type": "film",
-      "age": "18+",
-      "quality": "HD (720p)",
-      "origin_name": "Lonely Hearts",
-      "year": 2018,
-      "activate_time": "2021-05-09 21:52:00",
-      "imdb": "3.9",
-      "imdb_id": "7302296",
-      "kinopoisk": null,
-      "kinopoisk_id": "1060445",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/6/4/2/4/0/0/0/0/0/610x900_46424.jpg",
-      "genre": {
-        "26": "Ужасы"
-      },
-      "country": {
-        "2": "Великобритания"
-      }
-    },
-    {
-      "id": 46410,
-      "name": "Бумажные паучки",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Paper Spiders",
-      "year": 2020,
-      "activate_time": "2021-05-09 21:45:00",
-      "imdb": "6.4",
-      "imdb_id": "9690328",
-      "kinopoisk": null,
-      "kinopoisk_id": "1255282",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/6/4/1/0/0/0/0/0/0/610x900_46410.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 46418,
-      "name": "Родом из Иерусалима, но всё еще жив",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Born in Jerusalem and Still Alive",
-      "year": 2019,
-      "activate_time": "2021-05-09 21:43:00",
-      "imdb": "6.5",
-      "imdb_id": "9811480",
-      "kinopoisk": null,
-      "kinopoisk_id": "1296815",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/6/4/1/8/0/0/0/0/0/610x900_46418.jpg",
-      "genre": {
-        "19": "Комедия",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "72": "Израиль"
-      }
-    },
-    {
-      "id": 46420,
-      "name": "Другая семья моего отца",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Deadly DNA",
-      "year": 2020,
-      "activate_time": "2021-05-09 21:40:00",
-      "imdb": "5.6",
-      "imdb_id": "13545530",
-      "kinopoisk": null,
-      "kinopoisk_id": "4369381",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/6/4/2/0/0/0/0/0/0/610x900_46420.jpg",
-      "genre": {
-        "13": "Триллер"
-      },
-      "country": {
-        "7": "Канада"
-      }
-    },
-    {
-      "id": 46423,
-      "name": "Беспечные годы",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Light Visions",
-      "year": 2019,
-      "activate_time": "2021-05-09 21:39:00",
-      "imdb": null,
-      "imdb_id": "8894778",
-      "kinopoisk": null,
-      "kinopoisk_id": "1235940",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/6/4/2/3/0/0/0/0/0/610x900_46423.jpg",
-      "genre": {
-        "11": "Фантастика"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 46421,
-      "name": "Спуститься, чтобы подняться",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Down 2 Come Up",
-      "year": 2019,
-      "activate_time": "2021-05-09 21:37:00",
-      "imdb": null,
-      "imdb_id": "13897924",
-      "kinopoisk": null,
-      "kinopoisk_id": "4392923",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/6/4/2/1/0/0/0/0/0/610x900_46421.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 46422,
-      "name": "Это Митси! Бал-маскарад",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "It's Mitzy!: The Masquerade Ball!",
-      "year": 2019,
-      "activate_time": "2021-05-09 21:36:00",
-      "imdb": null,
-      "imdb_id": "11080324",
-      "kinopoisk": null,
-      "kinopoisk_id": "1318247",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/6/4/2/2/0/0/0/0/0/610x900_46422.jpg",
-      "genre": {
-        "38": "Мюзикл",
-        "19": "Комедия",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 46425,
-      "name": "Миньян",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Minyan",
-      "year": 2020,
-      "activate_time": "2021-05-09 21:32:00",
-      "imdb": "6.8",
-      "imdb_id": "10268550",
-      "kinopoisk": null,
-      "kinopoisk_id": "1265677",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/6/4/2/5/0/0/0/0/0/610x900_46425.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 46413,
-      "name": "Дитя дьявола",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Diavlo",
-      "year": 2021,
-      "activate_time": "2021-05-09 21:27:00",
-      "imdb": "4.2",
-      "imdb_id": "11576330",
-      "kinopoisk": null,
-      "kinopoisk_id": "1340835",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/6/4/1/3/0/0/0/0/0/610x900_46413.jpg",
-      "genre": {
-        "26": "Ужасы"
-      },
-      "country": {
-        "63": "Колумбия"
-      }
-    },
-    {
-      "id": 46407,
-      "name": "Воины династии",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Zhen san guo wu shuang",
-      "year": 2019,
-      "activate_time": "2021-05-09 21:24:00",
-      "imdb": "5.3",
-      "imdb_id": "7587604",
-      "kinopoisk": null,
-      "kinopoisk_id": "1099810",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/6/4/0/7/0/0/0/0/0/610x900_46407.jpg",
-      "genre": {
-        "6": "Фэнтези",
-        "17": "Боевик"
-      },
-      "country": {
-        "12": "Гонконг",
-        "19": "Китай"
-      }
     }
   ]
 }

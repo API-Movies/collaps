@@ -5780,7 +5780,7 @@
       "name": "Красная зона",
       "type": "series",
       "age": null,
-      "quality": "FHD (1080p)",
+      "quality": "SD",
       "origin_name": "",
       "year": 2021,
       "activate_time": "2021-03-15 12:22:00",
@@ -6101,6 +6101,14 @@
             },
             {
               "episode": 74,
+              "iframe_url": ""
+            },
+            {
+              "episode": 75,
+              "iframe_url": ""
+            },
+            {
+              "episode": 76,
               "iframe_url": ""
             }
           ]

@@ -1,6 +1,162 @@
 {
   "results": [
     {
+      "id": 15498,
+      "name": "Ниндзя",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Ninja",
+      "year": 2009,
+      "activate_time": "2020-02-18 17:01:00",
+      "imdb": "5.5",
+      "imdb_id": "1182921",
+      "kinopoisk": "5.7",
+      "kinopoisk_id": "409486",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/4/9/8/0/0/0/0/0/610x900_15498.jpg",
+      "genre": {
+        "25": "Криминал",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "12": "Для мужчин",
+        "16": "Про боевые искусства"
+      }
+    },
+    {
+      "id": 15497,
+      "name": "Обман",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Buffaloed",
+      "year": 2019,
+      "activate_time": "2020-02-18 17:01:00",
+      "imdb": "6.2",
+      "imdb_id": "8647310",
+      "kinopoisk": "5.9",
+      "kinopoisk_id": "1172994",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/4/9/7/0/0/0/0/0/610x900_15497.jpg",
+      "genre": {
+        "19": "Комедия",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "73": "Про девушек",
+        "34": "Мотивирующие"
+      }
+    },
+    {
+      "id": 15495,
+      "name": "Чужие среди нас",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "They Live",
+      "year": 1988,
+      "activate_time": "2020-02-18 17:01:00",
+      "imdb": "7.3",
+      "imdb_id": "0096256",
+      "kinopoisk": "7.2",
+      "kinopoisk_id": "12340",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/4/9/5/0/0/0/0/0/610x900_15495.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "11": "Фантастика",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "65": "Антиутопии"
+      }
+    },
+    {
+      "id": 15494,
+      "name": "Люби всё, что у тебя осталось",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Love All You Have Left",
+      "year": 2017,
+      "activate_time": "2020-02-18 17:01:00",
+      "imdb": "7.2",
+      "imdb_id": "5464242",
+      "kinopoisk": null,
+      "kinopoisk_id": "963043",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/4/9/4/0/0/0/0/0/610x900_15494.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "11": "Для женщин"
+      }
+    },
+    {
+      "id": 15492,
+      "name": "Добро пожаловать в рай!",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Into the Blue",
+      "year": 2005,
+      "activate_time": "2020-02-18 17:01:00",
+      "imdb": "5.9",
+      "imdb_id": "0378109",
+      "kinopoisk": "6.9",
+      "kinopoisk_id": "61261",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/5/4/9/2/0/0/0/0/0/610x900_15492.jpg",
+      "genre": {
+        "25": "Криминал",
+        "9": "Приключения",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "57": "Про мафию, банды",
+        "12": "Для мужчин"
+      }
+    },
+    {
       "id": 15491,
       "name": "Зимой",
       "type": "film",
@@ -8351,162 +8507,6 @@
       },
       "country": {
         "9": "Франция"
-      }
-    },
-    {
-      "id": 15252,
-      "name": "Эммануэль 5",
-      "type": "film",
-      "age": "18+",
-      "quality": "SD",
-      "origin_name": "Emmanuelle 5",
-      "year": 1986,
-      "activate_time": "2020-02-14 17:35:00",
-      "imdb": "3.2",
-      "imdb_id": "0092962",
-      "kinopoisk": "3.8",
-      "kinopoisk_id": "8446",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/2/5/2/0/0/0/0/0/610x900_15252.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция"
-      },
-      "collection": {
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 15251,
-      "name": "Эммануэль 6",
-      "type": "film",
-      "age": "18+",
-      "quality": "SD",
-      "origin_name": "Emmanuelle 6: One Final Fling",
-      "year": 1994,
-      "activate_time": "2020-02-14 17:35:00",
-      "imdb": "4.7",
-      "imdb_id": "0173800",
-      "kinopoisk": "4.3",
-      "kinopoisk_id": "4296",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/2/5/1/0/0/0/0/0/610x900_15251.jpg",
-      "genre": {
-        "11": "Фантастика",
-        "10": "Зарубежный",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "9": "Франция"
-      },
-      "collection": {
-        "70": "Про инопланетян",
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 15249,
-      "name": "Кинг Конг жив",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "King Kong Lives",
-      "year": 1986,
-      "activate_time": "2020-02-14 17:35:00",
-      "imdb": "3.9",
-      "imdb_id": "0091344",
-      "kinopoisk": "6.0",
-      "kinopoisk_id": "15297",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/2/4/9/0/0/0/0/0/610x900_15249.jpg",
-      "genre": {
-        "9": "Приключения",
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "26": "Про монстров",
-        "18": "Про животных"
-      }
-    },
-    {
-      "id": 15248,
-      "name": "Кинг-Конг",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "King Kong",
-      "year": 1976,
-      "activate_time": "2020-02-14 17:35:00",
-      "imdb": "5.9",
-      "imdb_id": "0074751",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "8858",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/2/4/8/0/0/0/0/0/610x900_15248.jpg",
-      "genre": {
-        "9": "Приключения",
-        "26": "Ужасы",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "26": "Про монстров",
-        "18": "Про животных"
-      }
-    },
-    {
-      "id": 15247,
-      "name": "Замерзший мир",
-      "type": "film",
-      "age": "16+",
-      "quality": "SD",
-      "origin_name": "2012: Ice Age",
-      "year": 2011,
-      "activate_time": "2020-02-14 17:35:00",
-      "imdb": "2.3",
-      "imdb_id": "1846444",
-      "kinopoisk": "2.6",
-      "kinopoisk_id": "591468",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/2/4/7/0/0/0/0/0/610x900_15247.jpg",
-      "genre": {
-        "9": "Приключения",
-        "11": "Фантастика",
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "7": "Фильмы-катастрофы"
       }
     }
   ]

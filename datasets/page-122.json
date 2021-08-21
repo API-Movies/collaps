@@ -1,6 +1,392 @@
 {
   "results": [
     {
+      "id": 16515,
+      "name": "Захватывающие рассказы Шрэка",
+      "type": "cartoon",
+      "age": "6+",
+      "quality": "HD (720p)",
+      "origin_name": "Shrek's Thrilling Tales",
+      "year": 2012,
+      "activate_time": "2020-06-23 12:03:00",
+      "imdb": "6.4",
+      "imdb_id": "2486724",
+      "kinopoisk": "6.0",
+      "kinopoisk_id": "735769",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/6/5/1/5/0/0/0/0/0/610x900_16515.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "11": "Фантастика",
+        "6": "Фэнтези",
+        "53": "Короткометражный",
+        "37": "Детский",
+        "33": "Семейный",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "98": "DreamWorks"
+      }
+    },
+    {
+      "id": 25098,
+      "name": "Казино",
+      "type": "series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "The Casino",
+      "year": 2020,
+      "activate_time": "2020-06-23 12:01:00",
+      "imdb": "3.6",
+      "imdb_id": "12383360",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/5/0/9/8/0/0/0/0/0/610x900_25098.jpg",
+      "genre": {
+        "13": "Триллер"
+      },
+      "country": {
+        "26": "Индия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25081,
+      "name": "Сдохни, Джон Такер!",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "John Tucker Must Die",
+      "year": 2006,
+      "activate_time": "2020-06-23 12:01:00",
+      "imdb": "5.8",
+      "imdb_id": "0455967",
+      "kinopoisk": "6.7",
+      "kinopoisk_id": "171869",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/5/0/8/1/0/0/0/0/0/610x900_25081.jpg",
+      "genre": {
+        "19": "Комедия",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "7": "Канада",
+        "1": "США"
+      },
+      "collection": {
+        "36": "Романтические комедии",
+        "43": "Про подростков"
+      }
+    },
+    {
+      "id": 25069,
+      "name": "Убийство в Миссисипи",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Mississippi Murder",
+      "year": 2017,
+      "activate_time": "2020-06-23 12:00:00",
+      "imdb": "3.5",
+      "imdb_id": "2827058",
+      "kinopoisk": null,
+      "kinopoisk_id": "757505",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/5/0/6/9/0/0/0/0/0/610x900_25069.jpg",
+      "genre": {
+        "25": "Криминал",
+        "24": "Детектив",
+        "13": "Триллер"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "29": "Психологические"
+      }
+    },
+    {
+      "id": 25108,
+      "name": "Без улик",
+      "type": "film",
+      "age": "16+",
+      "quality": "SD",
+      "origin_name": "Without Evidence",
+      "year": 1995,
+      "activate_time": "2020-06-23 11:57:00",
+      "imdb": "4.1",
+      "imdb_id": "0176326",
+      "kinopoisk": "4.9",
+      "kinopoisk_id": "16927",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/5/1/0/8/0/0/0/0/0/610x900_25108.jpg",
+      "genre": {
+        "13": "Триллер",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "29": "Психологические",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 25099,
+      "name": "Хозяева города",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Run This Town",
+      "year": 2019,
+      "activate_time": "2020-06-23 11:55:00",
+      "imdb": "4.4",
+      "imdb_id": "7596680",
+      "kinopoisk": null,
+      "kinopoisk_id": "1146400",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/5/0/9/9/0/0/0/0/0/610x900_25099.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "7": "Канада"
+      },
+      "collection": {
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 19184,
+      "name": "Я много мечтаю",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "I Dream Too Much",
+      "year": 2015,
+      "activate_time": "2020-06-23 11:54:00",
+      "imdb": "5.1",
+      "imdb_id": "3474978",
+      "kinopoisk": null,
+      "kinopoisk_id": "822070",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/9/1/8/4/0/0/0/0/0/610x900_19184.jpg",
+      "genre": {
+        "19": "Комедия",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 25095,
+      "name": "Чистые пруды",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "",
+      "year": 1965,
+      "activate_time": "2020-06-23 11:52:00",
+      "imdb": "7.1",
+      "imdb_id": "0167076",
+      "kinopoisk": "6.7",
+      "kinopoisk_id": "45514",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/5/0/9/5/0/0/0/0/0/610x900_25095.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "24": "СССР"
+      },
+      "collection": {
+        "46": "Советские"
+      }
+    },
+    {
+      "id": 25091,
+      "name": "Освобождение: Последний штурм",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "",
+      "year": 1971,
+      "activate_time": "2020-06-23 11:49:00",
+      "imdb": "7.6",
+      "imdb_id": "5300260",
+      "kinopoisk": "8.2",
+      "kinopoisk_id": "392541",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/5/0/9/1/0/0/0/0/0/610x900_25091.jpg",
+      "genre": {
+        "32": "Военный"
+      },
+      "country": {
+        "24": "СССР"
+      },
+      "collection": {
+        "69": "Про войну 1941-1945",
+        "21": "Для молодёжи"
+      }
+    },
+    {
+      "id": 25104,
+      "name": "Снежок",
+      "type": "cartoon",
+      "age": "6+",
+      "quality": "SD",
+      "origin_name": "Floquet de Neu",
+      "year": 2011,
+      "activate_time": "2020-06-23 11:46:00",
+      "imdb": "4.4",
+      "imdb_id": "1429433",
+      "kinopoisk": "5.6",
+      "kinopoisk_id": "463696",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/5/1/0/4/0/0/0/0/0/610x900_25104.jpg",
+      "genre": {
+        "9": "Приключения",
+        "33": "Семейный",
+        "19": "Комедия"
+      },
+      "country": {
+        "3": "Испания"
+      },
+      "collection": {
+        "21": "Для молодёжи",
+        "18": "Про животных"
+      }
+    },
+    {
+      "id": 25064,
+      "name": "Ложь во спасение",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "The Good Lie",
+      "year": 2014,
+      "activate_time": "2020-06-23 11:45:00",
+      "imdb": "7.4",
+      "imdb_id": "2652092",
+      "kinopoisk": "7.4",
+      "kinopoisk_id": "732797",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/5/0/6/4/0/0/0/0/0/610x900_25064.jpg",
+      "genre": {
+        "27": "Биографический",
+        "7": "Драма"
+      },
+      "country": {
+        "7": "Канада",
+        "1": "США",
+        "26": "Индия",
+        "27": "ЮАР",
+        "97": "Кения"
+      },
+      "collection": {
+        "78": "Биографии",
+        "27": "Про жизнь"
+      }
+    },
+    {
+      "id": 18980,
+      "name": "Бассейн смерти",
+      "type": "film",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "Death Pool",
+      "year": 2017,
+      "activate_time": "2020-06-23 11:44:00",
+      "imdb": "2.8",
+      "imdb_id": "4894198",
+      "kinopoisk": null,
+      "kinopoisk_id": "924700",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/8/9/8/0/0/0/0/0/0/610x900_18980.jpg",
+      "genre": {
+        "13": "Триллер"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 25056,
       "name": "Воины радуги: Сидик бале",
       "type": "film",
@@ -5813,429 +6199,6 @@
       "country": {
         "1": "США",
         "20": "Германия"
-      }
-    },
-    {
-      "id": 15444,
-      "name": "Огненная стена",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Firewall",
-      "year": 2006,
-      "activate_time": "2020-06-22 12:49:00",
-      "imdb": "5.8",
-      "imdb_id": "0408345",
-      "kinopoisk": "6.3",
-      "kinopoisk_id": "81607",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/4/4/4/0/0/0/0/0/610x900_15444.jpg",
-      "genre": {
-        "25": "Криминал",
-        "13": "Триллер",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "12": "Для мужчин",
-        "19": "Про ограбления, аферы и мошенников"
-      }
-    },
-    {
-      "id": 15066,
-      "name": "Траурный лес",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Mogari no mori",
-      "year": 2007,
-      "activate_time": "2020-06-22 12:49:00",
-      "imdb": "6.9",
-      "imdb_id": "1016205",
-      "kinopoisk": "6.5",
-      "kinopoisk_id": "316003",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/5/0/6/6/0/0/0/0/0/610x900_15066.jpg",
-      "genre": {
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция",
-        "18": "Япония"
-      },
-      "collection": {
-        "29": "Психологические"
-      }
-    },
-    {
-      "id": 24938,
-      "name": "8 миллиметров",
-      "type": "film",
-      "age": "18+",
-      "quality": "HD (720p)",
-      "origin_name": "8MM",
-      "year": 1999,
-      "activate_time": "2020-06-22 12:46:00",
-      "imdb": "6.5",
-      "imdb_id": "0134273",
-      "kinopoisk": "7.1",
-      "kinopoisk_id": "2940",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/9/3/8/0/0/0/0/0/610x900_24938.jpg",
-      "genre": {
-        "24": "Детектив",
-        "13": "Триллер"
-      },
-      "country": {
-        "1": "США",
-        "20": "Германия"
-      },
-      "collection": {
-        "14": "Для взрослых"
-      }
-    },
-    {
-      "id": 24944,
-      "name": "Веские доказательства",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Les Bonnes causes",
-      "year": 1963,
-      "activate_time": "2020-06-22 12:33:00",
-      "imdb": "7.0",
-      "imdb_id": "0132892",
-      "kinopoisk": "7.6",
-      "kinopoisk_id": "179269",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/9/4/4/0/0/0/0/0/610x900_24944.jpg",
-      "genre": {
-        "25": "Криминал",
-        "7": "Драма"
-      },
-      "country": {
-        "8": "Италия",
-        "9": "Франция"
-      },
-      "collection": {
-        "33": "Экранизация книг"
-      }
-    },
-    {
-      "id": 24937,
-      "name": "Молодой Карл Маркс",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Le jeune Karl Marx",
-      "year": 2017,
-      "activate_time": "2020-06-22 12:33:00",
-      "imdb": "6.6",
-      "imdb_id": "1699518",
-      "kinopoisk": "6.5",
-      "kinopoisk_id": "557897",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/9/3/7/0/0/0/0/0/610x900_24937.jpg",
-      "genre": {
-        "28": "Исторический",
-        "27": "Биографический",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция",
-        "20": "Германия",
-        "29": "Бельгия"
-      }
-    },
-    {
-      "id": 22316,
-      "name": "Ленокс-Хилл",
-      "type": "series",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Lenox Hill",
-      "year": 2020,
-      "activate_time": "2020-06-22 12:31:00",
-      "imdb": "8.7",
-      "imdb_id": "12190580",
-      "kinopoisk": null,
-      "kinopoisk_id": "1387028",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/2/3/1/6/0/0/0/0/0/610x900_22316.jpg",
-      "genre": {
-        "54": "Документальный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "100": "Про докторов",
-        "40": "Netflix"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 24886,
-      "name": "Свора",
-      "type": "film",
-      "age": "18+",
-      "quality": "HD (720p)",
-      "origin_name": "The Breed",
-      "year": 2006,
-      "activate_time": "2020-06-22 12:25:00",
-      "imdb": "5.1",
-      "imdb_id": "0455362",
-      "kinopoisk": "5.9",
-      "kinopoisk_id": "104986",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/8/8/6/0/0/0/0/0/610x900_24886.jpg",
-      "genre": {
-        "9": "Приключения",
-        "26": "Ужасы",
-        "11": "Фантастика",
-        "19": "Комедия",
-        "17": "Боевик",
-        "13": "Триллер"
-      },
-      "country": {
-        "1": "США",
-        "20": "Германия",
-        "27": "ЮАР"
-      }
-    },
-    {
-      "id": 24929,
-      "name": "Мушкетёры",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "The Three Musketeers",
-      "year": 2011,
-      "activate_time": "2020-06-22 12:22:00",
-      "imdb": "5.7",
-      "imdb_id": "1509767",
-      "kinopoisk": "6.0",
-      "kinopoisk_id": "474752",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/9/2/9/0/0/0/0/0/610x900_24929.jpg",
-      "genre": {
-        "9": "Приключения",
-        "17": "Боевик"
-      },
-      "country": {
-        "1": "США",
-        "2": "Великобритания",
-        "9": "Франция",
-        "20": "Германия"
-      }
-    },
-    {
-      "id": 24855,
-      "name": "Во Вселенную со Стивеном Хокингом",
-      "type": "series",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Into the Universe with Stephen Hawking",
-      "year": 2010,
-      "activate_time": "2020-06-22 12:18:00",
-      "imdb": "8.6",
-      "imdb_id": "1655078",
-      "kinopoisk": "8.5",
-      "kinopoisk_id": "542489",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/8/5/5/0/0/0/0/0/610x900_24855.jpg",
-      "genre": {
-        "54": "Документальный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "2": "Великобритания"
-      },
-      "collection": {
-        "106": "Discovery"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 24941,
-      "name": "Убить дракона",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "",
-      "year": 1988,
-      "activate_time": "2020-06-22 12:15:00",
-      "imdb": "8.0",
-      "imdb_id": "0096329",
-      "kinopoisk": "7.9",
-      "kinopoisk_id": "42487",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/9/4/1/0/0/0/0/0/610x900_24941.jpg",
-      "genre": {
-        "6": "Фэнтези",
-        "33": "Семейный",
-        "7": "Драма"
-      },
-      "country": {
-        "24": "СССР",
-        "38": "Германия (ФРГ)"
-      }
-    },
-    {
-      "id": 24933,
-      "name": "Хищники",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Les félins",
-      "year": 1964,
-      "activate_time": "2020-06-22 12:12:00",
-      "imdb": "7.0",
-      "imdb_id": "0058123",
-      "kinopoisk": "7.6",
-      "kinopoisk_id": "31698",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/9/3/3/0/0/0/0/0/610x900_24933.jpg",
-      "genre": {
-        "25": "Криминал",
-        "13": "Триллер",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция"
-      }
-    },
-    {
-      "id": 24913,
-      "name": "Россия — царство тигров, медведей и вулканов",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Russland - Im Reich der Tiger, Bären und Vulkane",
-      "year": 2011,
-      "activate_time": "2020-06-22 12:03:00",
-      "imdb": "7.8",
-      "imdb_id": "1779471",
-      "kinopoisk": "8.4",
-      "kinopoisk_id": "576706",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/4/9/1/3/0/0/0/0/0/610x900_24913.jpg",
-      "genre": {
-        "54": "Документальный"
-      },
-      "country": {
-        "20": "Германия",
-        "5": "Россия"
-      },
-      "collection": {
-        "18": "Про животных"
       }
     }
   ]

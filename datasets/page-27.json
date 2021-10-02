@@ -1,6 +1,165 @@
 {
   "results": [
     {
+      "id": 45270,
+      "name": "Свобода",
+      "type": "series",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Libertad",
+      "year": 2021,
+      "activate_time": "2021-03-28 18:37:00",
+      "imdb": "6.1",
+      "imdb_id": "11719562",
+      "kinopoisk": null,
+      "kinopoisk_id": "1346201",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/5/2/7/0/0/0/0/0/0/610x900_45270.jpg",
+      "genre": {
+        "9": "Приключения",
+        "7": "Драма"
+      },
+      "country": {
+        "3": "Испания"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45263,
+      "name": "Кладбище потерянных душ",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "O Cemitério das Almas Perdidas",
+      "year": 2020,
+      "activate_time": "2021-03-28 15:56:00",
+      "imdb": "6.3",
+      "imdb_id": "13032562",
+      "kinopoisk": null,
+      "kinopoisk_id": "1427032",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/5/2/6/3/0/0/0/0/0/610x900_45263.jpg",
+      "genre": {
+        "9": "Приключения",
+        "26": "Ужасы",
+        "6": "Фэнтези"
+      },
+      "country": {
+        "30": "Бразилия"
+      }
+    },
+    {
+      "id": 45266,
+      "name": "Завера",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Zavera",
+      "year": 2019,
+      "activate_time": "2021-03-28 14:53:00",
+      "imdb": "4.5",
+      "imdb_id": "8976842",
+      "kinopoisk": null,
+      "kinopoisk_id": "1200362",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/5/2/6/6/0/0/0/0/0/610x900_45266.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "50": "Румыния"
+      }
+    },
+    {
+      "id": 45268,
+      "name": "Тени",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Shadows",
+      "year": 2020,
+      "activate_time": "2021-03-28 14:33:00",
+      "imdb": "5.6",
+      "imdb_id": "11197452",
+      "kinopoisk": null,
+      "kinopoisk_id": "1318071",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/5/2/6/8/0/0/0/0/0/610x900_45268.jpg",
+      "genre": {
+        "53": "Короткометражный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 45264,
+      "name": "Нет этим улицам покоя",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "These Streets We Haunt",
+      "year": 2021,
+      "activate_time": "2021-03-26 19:39:00",
+      "imdb": "4.8",
+      "imdb_id": "9893266",
+      "kinopoisk": null,
+      "kinopoisk_id": "1248788",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/4/5/2/6/4/0/0/0/0/0/610x900_45264.jpg",
+      "genre": {
+        "6": "Фэнтези",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 45262,
       "name": "Код Бытия",
       "type": "film",
@@ -902,7 +1061,7 @@
       "origin_name": "Vice",
       "year": 2013,
       "activate_time": "2021-03-25 23:16:00",
-      "imdb": "8.9",
+      "imdb": "8.8",
       "imdb_id": "2782710",
       "kinopoisk": "7.8",
       "kinopoisk_id": "762542",
@@ -972,7 +1131,7 @@
       "origin_name": "V.C. Andrews' Pearl in the Mist",
       "year": 2021,
       "activate_time": "2021-03-25 21:31:00",
-      "imdb": "6.7",
+      "imdb": "6.6",
       "imdb_id": "11651946",
       "kinopoisk": null,
       "kinopoisk_id": "1347613",
@@ -997,7 +1156,7 @@
       "origin_name": "Fists of Iron",
       "year": 1995,
       "activate_time": "2021-03-25 20:57:00",
-      "imdb": "4.9",
+      "imdb": "4.7",
       "imdb_id": "0113075",
       "kinopoisk": "6.2",
       "kinopoisk_id": "29651",
@@ -1074,7 +1233,7 @@
       "origin_name": "Pungo a Witch's Tale",
       "year": 2020,
       "activate_time": "2021-03-25 19:13:00",
-      "imdb": "4.9",
+      "imdb": "6.1",
       "imdb_id": "10554196",
       "kinopoisk": null,
       "kinopoisk_id": "1284296",
@@ -1099,7 +1258,7 @@
       "origin_name": "Christmas by Chance",
       "year": 2020,
       "activate_time": "2021-03-25 19:09:00",
-      "imdb": "6.0",
+      "imdb": "6.3",
       "imdb_id": "12228496",
       "kinopoisk": null,
       "kinopoisk_id": "1380679",
@@ -1150,7 +1309,7 @@
       "origin_name": "Yol arkadasim",
       "year": 2008,
       "activate_time": "2021-03-25 18:22:00",
-      "imdb": "6.4",
+      "imdb": "6.5",
       "imdb_id": "1242726",
       "kinopoisk": null,
       "kinopoisk_id": "838634",
@@ -1585,7 +1744,7 @@
       "origin_name": "Uçurum",
       "year": 2012,
       "activate_time": "2021-03-25 16:12:00",
-      "imdb": "7.2",
+      "imdb": "7.1",
       "imdb_id": "3212064",
       "kinopoisk": null,
       "kinopoisk_id": "841165",
@@ -1717,7 +1876,7 @@
       "origin_name": "Paradise City",
       "year": 2021,
       "activate_time": "2021-03-25 16:00:00",
-      "imdb": "6.6",
+      "imdb": "6.8",
       "imdb_id": "4302062",
       "kinopoisk": null,
       "kinopoisk_id": "892668",
@@ -1786,7 +1945,7 @@
       "origin_name": "Godzilla Singular Point",
       "year": 2021,
       "activate_time": "2021-03-25 13:14:00",
-      "imdb": "7.7",
+      "imdb": "6.5",
       "imdb_id": "13229964",
       "kinopoisk": null,
       "kinopoisk_id": "1435291",
@@ -1874,7 +2033,7 @@
       "origin_name": "Delilah",
       "year": 2021,
       "activate_time": "2021-03-25 11:15:00",
-      "imdb": "5.1",
+      "imdb": "5.3",
       "imdb_id": "12979412",
       "kinopoisk": null,
       "kinopoisk_id": "1410410",
@@ -1993,7 +2152,7 @@
       "origin_name": "One and the Same",
       "year": 2021,
       "activate_time": "2021-03-25 04:38:00",
-      "imdb": "6.5",
+      "imdb": "6.3",
       "imdb_id": "8906844",
       "kinopoisk": null,
       "kinopoisk_id": "1205377",
@@ -2018,7 +2177,7 @@
       "origin_name": "Little Orphans",
       "year": 2020,
       "activate_time": "2021-03-25 03:23:00",
-      "imdb": "4.6",
+      "imdb": "4.2",
       "imdb_id": "10234084",
       "kinopoisk": null,
       "kinopoisk_id": "1265004",
@@ -2069,7 +2228,7 @@
       "origin_name": "Donny's Bar Mitzvah",
       "year": 2021,
       "activate_time": "2021-03-25 02:51:00",
-      "imdb": "7.5",
+      "imdb": "7.2",
       "imdb_id": "9217296",
       "kinopoisk": null,
       "kinopoisk_id": "1208733",
@@ -2094,7 +2253,7 @@
       "origin_name": "Homesick",
       "year": 2021,
       "activate_time": "2021-03-25 00:24:00",
-      "imdb": "3.3",
+      "imdb": "3.6",
       "imdb_id": "12625002",
       "kinopoisk": null,
       "kinopoisk_id": "1403882",
@@ -2149,7 +2308,7 @@
       "origin_name": "Funny Boy",
       "year": 2020,
       "activate_time": "2021-03-24 23:34:00",
-      "imdb": "6.2",
+      "imdb": "5.8",
       "imdb_id": "13345636",
       "kinopoisk": null,
       "kinopoisk_id": "1445814",
@@ -2175,7 +2334,7 @@
       "origin_name": "The Council",
       "year": 2020,
       "activate_time": "2021-03-24 22:16:00",
-      "imdb": "3.9",
+      "imdb": "4.0",
       "imdb_id": "10203788",
       "kinopoisk": null,
       "kinopoisk_id": "1258128",
@@ -2200,7 +2359,7 @@
       "origin_name": "Lifeform",
       "year": 2017,
       "activate_time": "2021-03-24 22:12:00",
-      "imdb": "4.0",
+      "imdb": "4.1",
       "imdb_id": "6460932",
       "kinopoisk": null,
       "kinopoisk_id": "1022107",
@@ -2225,7 +2384,7 @@
       "origin_name": "Die Influencers Die",
       "year": 2020,
       "activate_time": "2021-03-24 21:51:00",
-      "imdb": "2.9",
+      "imdb": "3.1",
       "imdb_id": "12921824",
       "kinopoisk": null,
       "kinopoisk_id": "1410246",
@@ -2275,7 +2434,7 @@
       "origin_name": "The Ritual",
       "year": 2021,
       "activate_time": "2021-03-24 19:57:00",
-      "imdb": "2.4",
+      "imdb": "2.3",
       "imdb_id": "13141604",
       "kinopoisk": null,
       "kinopoisk_id": "1418771",
@@ -2353,7 +2512,7 @@
       "origin_name": "A Larceny Christmas",
       "year": 2019,
       "activate_time": "2021-03-24 18:06:00",
-      "imdb": "8.4",
+      "imdb": "4.2",
       "imdb_id": "10157552",
       "kinopoisk": null,
       "kinopoisk_id": "1255351",
@@ -2380,7 +2539,7 @@
       "origin_name": "Die Toten von Marnow",
       "year": 2021,
       "activate_time": "2021-03-24 14:38:00",
-      "imdb": "7.5",
+      "imdb": "7.4",
       "imdb_id": "10598848",
       "kinopoisk": null,
       "kinopoisk_id": "1405321",
@@ -2447,7 +2606,7 @@
       "origin_name": "¿Quién Mató a Sara? / Who Killed Sara?",
       "year": 2021,
       "activate_time": "2021-03-24 13:35:00",
-      "imdb": "6.6",
+      "imdb": "6.4",
       "imdb_id": "11937816",
       "kinopoisk": "6.7",
       "kinopoisk_id": "1355688",
@@ -2593,7 +2752,7 @@
       "origin_name": "Leonardo",
       "year": 2021,
       "activate_time": "2021-03-24 11:40:00",
-      "imdb": "7.0",
+      "imdb": "7.2",
       "imdb_id": "7950706",
       "kinopoisk": "7.5",
       "kinopoisk_id": "1330386",
@@ -2666,7 +2825,7 @@
       "origin_name": "The Banishing",
       "year": 2020,
       "activate_time": "2021-03-24 11:19:00",
-      "imdb": "4.5",
+      "imdb": "4.4",
       "imdb_id": "7329642",
       "kinopoisk": "4.4",
       "kinopoisk_id": "1223543",
@@ -2797,7 +2956,7 @@
       "origin_name": "Türk mali",
       "year": 2017,
       "activate_time": "2021-03-24 02:11:00",
-      "imdb": "2.6",
+      "imdb": "3.5",
       "imdb_id": "6973460",
       "kinopoisk": null,
       "kinopoisk_id": "793905",
@@ -2860,7 +3019,7 @@
       "origin_name": "Hamlet Pheroun",
       "year": 2019,
       "activate_time": "2021-03-24 01:43:00",
-      "imdb": "3.2",
+      "imdb": "3.1",
       "imdb_id": "10497516",
       "kinopoisk": null,
       "kinopoisk_id": "1274549",
@@ -9577,130 +9736,6 @@
       },
       "country": {
         "8": "Италия"
-      }
-    },
-    {
-      "id": 45065,
-      "name": "Большой мир",
-      "type": "film",
-      "age": null,
-      "quality": "FHD (1080p)",
-      "origin_name": "Un monde plus grand",
-      "year": 2019,
-      "activate_time": "2021-03-19 13:13:00",
-      "imdb": "6.2",
-      "imdb_id": "7265272",
-      "kinopoisk": null,
-      "kinopoisk_id": "1061108",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/5/0/6/5/0/0/0/0/0/610x900_45065.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция",
-        "29": "Бельгия"
-      }
-    },
-    {
-      "id": 45076,
-      "name": "Полночные дьяволы",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Midnight Devils",
-      "year": 2019,
-      "activate_time": "2021-03-19 13:10:00",
-      "imdb": "4.9",
-      "imdb_id": "8395214",
-      "kinopoisk": null,
-      "kinopoisk_id": "1143362",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/5/0/7/6/0/0/0/0/0/610x900_45076.jpg",
-      "genre": {
-        "26": "Ужасы"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 45074,
-      "name": "Луз",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Luz",
-      "year": 2019,
-      "activate_time": "2021-03-19 13:10:00",
-      "imdb": "7.2",
-      "imdb_id": "8999494",
-      "kinopoisk": null,
-      "kinopoisk_id": "1194171",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/5/0/7/4/0/0/0/0/0/610x900_45074.jpg",
-      "genre": {
-        "11": "Фантастика"
-      }
-    },
-    {
-      "id": 45077,
-      "name": "Муза",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Muse",
-      "year": 2019,
-      "activate_time": "2021-03-19 13:07:00",
-      "imdb": "6.8",
-      "imdb_id": "9867458",
-      "kinopoisk": null,
-      "kinopoisk_id": "1245711",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/5/0/7/7/0/0/0/0/0/610x900_45077.jpg",
-      "genre": {
-        "7": "Драма"
-      },
-      "country": {
-        "2": "Великобритания"
-      }
-    },
-    {
-      "id": 45068,
-      "name": "Ветеринары",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Les vétos",
-      "year": 2019,
-      "activate_time": "2021-03-19 12:56:00",
-      "imdb": "5.7",
-      "imdb_id": "9041586",
-      "kinopoisk": null,
-      "kinopoisk_id": "1195437",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/4/5/0/6/8/0/0/0/0/0/610x900_45068.jpg",
-      "genre": {
-        "19": "Комедия",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция"
       }
     }
   ]

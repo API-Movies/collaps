@@ -1,6 +1,57 @@
 {
   "results": [
     {
+      "id": 28238,
+      "name": "Записки Кейна: Жизнь узника",
+      "type": "film",
+      "age": "18+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Kane Files: Life of Trial",
+      "year": 2010,
+      "activate_time": "2020-07-09 12:17:00",
+      "imdb": "5.7",
+      "imdb_id": "1546420",
+      "kinopoisk": "6.5",
+      "kinopoisk_id": "487207",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/8/2/3/8/0/0/0/0/0/610x900_28238.jpg",
+      "genre": {
+        "17": "Боевик"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 28224,
+      "name": "Плохие ребята",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "The Bad Guys",
+      "year": 2018,
+      "activate_time": "2020-07-09 12:17:00",
+      "imdb": "6.0",
+      "imdb_id": "2690634",
+      "kinopoisk": null,
+      "kinopoisk_id": "737631",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/8/2/2/4/0/0/0/0/0/610x900_28224.jpg",
+      "genre": {
+        "19": "Комедия",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 29006,
       "name": "Специалист по выживанию",
       "type": "film",
@@ -5336,64 +5387,6 @@
       "country": {
         "1": "США",
         "2": "Великобритания"
-      }
-    },
-    {
-      "id": 27696,
-      "name": "Данте 01",
-      "type": "film",
-      "age": null,
-      "quality": "SD",
-      "origin_name": "Dante 01",
-      "year": 2008,
-      "activate_time": "2020-07-09 09:33:00",
-      "imdb": "4.9",
-      "imdb_id": "0487928",
-      "kinopoisk": "5.2",
-      "kinopoisk_id": "262513",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/7/6/9/6/0/0/0/0/0/610x900_27696.jpg",
-      "genre": {
-        "11": "Фантастика",
-        "13": "Триллер"
-      },
-      "country": {
-        "9": "Франция"
-      }
-    },
-    {
-      "id": 27533,
-      "name": "Биркебейнеры",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Birkebeinerne",
-      "year": 2016,
-      "activate_time": "2020-07-09 09:32:00",
-      "imdb": "6.1",
-      "imdb_id": "4738360",
-      "kinopoisk": "6.1",
-      "kinopoisk_id": "915448",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/7/5/3/3/0/0/0/0/0/610x900_27533.jpg",
-      "genre": {
-        "9": "Приключения",
-        "28": "Исторический",
-        "17": "Боевик",
-        "7": "Драма"
-      },
-      "country": {
-        "21": "Ирландия",
-        "25": "Дания",
-        "28": "Швеция",
-        "32": "Венгрия",
-        "53": "Норвегия"
       }
     }
   ]

@@ -1,6 +1,526 @@
 {
   "results": [
     {
+      "id": 50579,
+      "name": "Добыча / Охотник и добыча",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Prey",
+      "year": 2021,
+      "activate_time": "2021-09-13 16:39:00",
+      "imdb": null,
+      "imdb_id": "15198608",
+      "kinopoisk": "4.6",
+      "kinopoisk_id": "4529816",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/5/0/5/7/9/0/0/0/0/0/610x900_50579.jpg",
+      "genre": {
+        "9": "Приключения",
+        "13": "Триллер",
+        "7": "Драма"
+      },
+      "country": {
+        "20": "Германия"
+      },
+      "collection": {
+        "40": "Netflix"
+      }
+    },
+    {
+      "id": 50582,
+      "name": "Это про меня",
+      "type": "tv-show",
+      "age": null,
+      "quality": null,
+      "origin_name": "",
+      "year": 2021,
+      "activate_time": "2021-09-13 16:28:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/5/0/5/8/2/0/0/0/0/0/610x900_50582.jpeg",
+      "genre": {
+        "72": "Развлекательный"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50573,
+      "name": "Запятнанная репутация",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Human Stain",
+      "year": 2003,
+      "activate_time": "2021-09-13 16:13:00",
+      "imdb": "6.3",
+      "imdb_id": "0308383",
+      "kinopoisk": "6.7",
+      "kinopoisk_id": "8040",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/5/0/5/7/3/0/0/0/0/0/610x900_50573.jpg",
+      "genre": {
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США",
+        "20": "Германия",
+        "21": "Ирландия"
+      }
+    },
+    {
+      "id": 50580,
+      "name": "Мамы Пятницы",
+      "type": "tv-show",
+      "age": null,
+      "quality": null,
+      "origin_name": "",
+      "year": 2021,
+      "activate_time": "2021-09-13 16:10:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/5/0/5/8/0/0/0/0/0/0/610x900_50580.jpeg",
+      "genre": {
+        "72": "Развлекательный"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "112": "Канал \"Пятница\""
+      },
+      "serial_status": "online",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            }
+          ]
+        },
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 2,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50576,
+      "name": "Случайный роман",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "De vrais mensonges",
+      "year": 2010,
+      "activate_time": "2021-09-13 15:32:00",
+      "imdb": "6.5",
+      "imdb_id": "1529569",
+      "kinopoisk": "6.8",
+      "kinopoisk_id": "479190",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/5/0/5/7/6/0/0/0/0/0/610x900_50576.jpg",
+      "genre": {
+        "19": "Комедия",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "9": "Франция"
+      }
+    },
+    {
+      "id": 50575,
+      "name": "Спросите медсестру",
+      "type": "series",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "",
+      "year": 2020,
+      "activate_time": "2021-09-13 14:42:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": "7.1",
+      "kinopoisk_id": "1323569",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/5/0/5/7/5/0/0/0/0/0/610x900_50575.jpeg",
+      "genre": {
+        "8": "Мелодрама",
+        "7": "Драма"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "online",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50571,
+      "name": "Она, он и она",
+      "type": "series",
+      "age": null,
+      "quality": "SD",
+      "origin_name": "",
+      "year": 2021,
+      "activate_time": "2021-09-13 14:08:00",
+      "imdb": null,
+      "imdb_id": null,
+      "kinopoisk": null,
+      "kinopoisk_id": "4463591",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/5/0/5/7/1/0/0/0/0/0/610x900_50571.jpeg",
+      "genre": {
+        "8": "Мелодрама"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50568,
+      "name": "Один из нас",
+      "type": "series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Icimizden Biri",
+      "year": 2021,
+      "activate_time": "2021-09-13 13:29:00",
+      "imdb": null,
+      "imdb_id": "14667582",
+      "kinopoisk": null,
+      "kinopoisk_id": null,
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/5/0/5/6/8/0/0/0/0/0/610x900_50568.jpg",
+      "genre": {
+        "19": "Комедия"
+      },
+      "country": {
+        "36": "Турция"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50569,
+      "name": "Сказка далекого города",
+      "type": "series",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Uzak Şehrin Masalı",
+      "year": 2021,
+      "activate_time": "2021-09-13 13:27:00",
+      "imdb": "7.4",
+      "imdb_id": "13856758",
+      "kinopoisk": null,
+      "kinopoisk_id": "4642591",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/5/0/5/6/9/0/0/0/0/0/610x900_50569.jpg",
+      "genre": {
+        "7": "Драма"
+      },
+      "country": {
+        "36": "Турция"
+      },
+      "collection": {
+        "103": "Fox"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 50567,
       "name": "Величайшие тайны истории",
       "type": "series",
@@ -8617,564 +9137,6 @@
       "country": {
         "1": "США"
       }
-    },
-    {
-      "id": 50354,
-      "name": "Безумие внутри",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Madness Inside Me",
-      "year": 2021,
-      "activate_time": "2021-09-06 22:35:00",
-      "imdb": null,
-      "imdb_id": "11280556",
-      "kinopoisk": null,
-      "kinopoisk_id": "1331228",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/5/0/3/5/4/0/0/0/0/0/610x900_50354.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "13": "Триллер",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 50364,
-      "name": "Экс-ударник",
-      "type": "film",
-      "age": "18+",
-      "quality": "SD",
-      "origin_name": "Ex Drummer",
-      "year": 2007,
-      "activate_time": "2021-09-06 22:18:00",
-      "imdb": "7.0",
-      "imdb_id": "0812243",
-      "kinopoisk": "7.2",
-      "kinopoisk_id": "281752",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/5/0/3/6/4/0/0/0/0/0/610x900_50364.jpg",
-      "genre": {
-        "25": "Криминал",
-        "19": "Комедия",
-        "7": "Драма"
-      },
-      "country": {
-        "8": "Италия",
-        "9": "Франция",
-        "29": "Бельгия"
-      }
-    },
-    {
-      "id": 50357,
-      "name": "Обсидиан",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Obsidian",
-      "year": 2020,
-      "activate_time": "2021-09-06 22:18:00",
-      "imdb": "2.8",
-      "imdb_id": "11821122",
-      "kinopoisk": null,
-      "kinopoisk_id": "1349927",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/5/0/3/5/7/0/0/0/0/0/610x900_50357.jpg",
-      "genre": {
-        "26": "Ужасы"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 50360,
-      "name": "Это твоя Куба",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Esta Es Tu Cuba",
-      "year": 2018,
-      "activate_time": "2021-09-06 22:14:00",
-      "imdb": "7.6",
-      "imdb_id": "8798114",
-      "kinopoisk": null,
-      "kinopoisk_id": "1193393",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/5/0/3/6/0/0/0/0/0/0/610x900_50360.jpg",
-      "genre": {
-        "53": "Короткометражный",
-        "28": "Исторический",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "116": "Пуэрто Рико"
-      }
-    },
-    {
-      "id": 50350,
-      "name": "Супер МЯУ",
-      "type": "cartoon-series",
-      "age": null,
-      "quality": null,
-      "origin_name": "",
-      "year": 2021,
-      "activate_time": "2021-09-06 20:49:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": null,
-      "kinopoisk_id": "4447309",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/5/0/3/5/0/0/0/0/0/0/610x900_50350.jpg",
-      "genre": {
-        "37": "Детский"
-      },
-      "country": {
-        "5": "Россия"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 50331,
-      "name": "Три мушкетера",
-      "type": "cartoon",
-      "age": "6+",
-      "quality": "HD (720p)",
-      "origin_name": "D'Artacán y los tres Mosqueperros",
-      "year": 2021,
-      "activate_time": "2021-09-06 19:47:00",
-      "imdb": "5.7",
-      "imdb_id": "11777920",
-      "kinopoisk": null,
-      "kinopoisk_id": "4479839",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/5/0/3/3/1/0/0/0/0/0/610x900_50331.jpg",
-      "country": {
-        "3": "Испания"
-      }
-    },
-    {
-      "id": 50347,
-      "name": "Поместье сурикат",
-      "type": "series",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "Meerkat Manor",
-      "year": 2005,
-      "activate_time": "2021-09-06 18:36:00",
-      "imdb": "8.3",
-      "imdb_id": "0765725",
-      "kinopoisk": "8.2",
-      "kinopoisk_id": "487549",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/5/0/3/4/7/0/0/0/0/0/610x900_50347.jpg",
-      "genre": {
-        "54": "Документальный"
-      },
-      "country": {
-        "2": "Великобритания"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            },
-            {
-              "episode": 12,
-              "iframe_url": ""
-            },
-            {
-              "episode": 13,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 2,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            },
-            {
-              "episode": 12,
-              "iframe_url": ""
-            },
-            {
-              "episode": 13,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 3,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            },
-            {
-              "episode": 12,
-              "iframe_url": ""
-            },
-            {
-              "episode": 13,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 4,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            },
-            {
-              "episode": 7,
-              "iframe_url": ""
-            },
-            {
-              "episode": 8,
-              "iframe_url": ""
-            },
-            {
-              "episode": 9,
-              "iframe_url": ""
-            },
-            {
-              "episode": 10,
-              "iframe_url": ""
-            },
-            {
-              "episode": 11,
-              "iframe_url": ""
-            },
-            {
-              "episode": 12,
-              "iframe_url": ""
-            },
-            {
-              "episode": 13,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 50345,
-      "name": "Ночь живых придурков",
-      "type": "film",
-      "age": "16+",
-      "quality": "SD",
-      "origin_name": "Die Nacht der lebenden Loser",
-      "year": 2004,
-      "activate_time": "2021-09-06 18:16:00",
-      "imdb": "5.7",
-      "imdb_id": "0378417",
-      "kinopoisk": "6.3",
-      "kinopoisk_id": "62623",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/5/0/3/4/5/0/0/0/0/0/610x900_50345.jpg",
-      "genre": {
-        "26": "Ужасы",
-        "19": "Комедия"
-      },
-      "country": {
-        "20": "Германия"
-      }
-    },
-    {
-      "id": 50342,
-      "name": "Токсичная Кухня",
-      "type": "tv-show",
-      "age": null,
-      "quality": null,
-      "origin_name": "",
-      "year": 2021,
-      "activate_time": "2021-09-06 17:20:00",
-      "imdb": null,
-      "imdb_id": null,
-      "kinopoisk": null,
-      "kinopoisk_id": null,
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/5/0/3/4/2/0/0/0/0/0/610x900_50342.jpeg",
-      "genre": {
-        "72": "Развлекательный"
-      },
-      "country": {
-        "5": "Россия"
-      },
-      "collection": {
-        "108": "ТНТ"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": null,
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
     }
   ]
 }

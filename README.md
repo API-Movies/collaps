@@ -2,21 +2,21 @@
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2021-11-30
-- Movies `36,966`
-  - [x] <a href="https://API-Movies.github.io/collaps/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `35,306`
-  - [x] <a href="https://API-Movies.github.io/collaps/movie_imdb_ids.json">IMDb IDs</a> `29,836`
+### :date: 2021-12-01
+- Movies `36,956`
+  - [x] <a href="https://API-Movies.github.io/collaps/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `35,247`
+  - [x] <a href="https://API-Movies.github.io/collaps/movie_imdb_ids.json">IMDb IDs</a> `29,763`
   - [ ] TMDb IDs `0`
   - [x] <a href="https://API-Movies.github.io/collaps/movie_world_art_ids.json">World-Art IDs</a> `8`
   - [ ] Shikimori IDs `0`
-  - [x] None IDs `367`
-- TV `7,634`
-  - [x] <a href="https://API-Movies.github.io/collaps/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `6,829`
-  - [x] <a href="https://API-Movies.github.io/collaps/tv_imdb_ids.json">IMDb IDs</a> `5,791`
+  - [x] None IDs `368`
+- TV `7,644`
+  - [x] <a href="https://API-Movies.github.io/collaps/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `6,837`
+  - [x] <a href="https://API-Movies.github.io/collaps/tv_imdb_ids.json">IMDb IDs</a> `5,787`
   - [ ] TMDb IDs `0`
-  - [x] <a href="https://API-Movies.github.io/collaps/tv_world_art_ids.json">World-Art IDs</a> `281`
+  - [x] <a href="https://API-Movies.github.io/collaps/tv_world_art_ids.json">World-Art IDs</a> `284`
   - [ ] Shikimori IDs `0`
-  - [x] None IDs `428`
+  - [x] None IDs `426`
 #### Test errors
 - <a href='https://api-movies.github.io/test.html#collaps'>https://api-movies.github.io/test.html#collaps</a>
 #### JSON API

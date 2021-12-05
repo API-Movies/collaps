@@ -1,6 +1,729 @@
 {
   "results": [
     {
+      "id": 8600,
+      "name": "Атлантический рубеж",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Atlantic Rim / From the Sea",
+      "year": 2013,
+      "activate_time": "2019-05-14 11:56:34",
+      "imdb": "1.6",
+      "imdb_id": "2740710",
+      "kinopoisk": "2.5",
+      "kinopoisk_id": "742712",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/6/0/0/0/0/0/0/0/0/610x900_8600.jpg",
+      "genre": {
+        "9": "Приключения",
+        "11": "Фантастика",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 8599,
+      "name": "Дом Рэйвен",
+      "type": "series",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Raven's Home",
+      "year": 2017,
+      "activate_time": "2019-05-14 11:51:28",
+      "imdb": "7.3",
+      "imdb_id": "6311972",
+      "kinopoisk": null,
+      "kinopoisk_id": "1045618",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/5/9/9/0/0/0/0/0/0/610x900_8599.jpg",
+      "genre": {
+        "33": "Семейный",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "4": "Ситкомы",
+        "37": "Disney"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": "https://img.imgilall.me/movies/season/5/6/9/2/0/0/0/0/0/0/610x900_5692.jpg",
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            },
+            {
+              "episode": 13,
+              "iframe_url": ""
+            }
+          ]
+        },
+        {
+          "poster": "https://img.imgilall.me/movies/season/5/6/9/3/0/0/0/0/0/0/610x900_5693.jpg",
+          "iframe_url": "",
+          "season": 2,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            },
+            {
+              "episode": 13,
+              "iframe_url": ""
+            },
+            {
+              "episode": 14,
+              "iframe_url": ""
+            },
+            {
+              "episode": 15,
+              "iframe_url": ""
+            },
+            {
+              "episode": 16,
+              "iframe_url": ""
+            },
+            {
+              "episode": 17,
+              "iframe_url": ""
+            },
+            {
+              "episode": 18,
+              "iframe_url": ""
+            },
+            {
+              "episode": 19,
+              "iframe_url": ""
+            },
+            {
+              "episode": 20,
+              "iframe_url": ""
+            },
+            {
+              "episode": 21,
+              "iframe_url": ""
+            }
+          ]
+        },
+        {
+          "poster": "https://img.imgilall.me/movies/season/5/6/9/4/0/0/0/0/0/0/610x900_5694.jpg",
+          "iframe_url": "",
+          "season": 3,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            },
+            {
+              "episode": 13,
+              "iframe_url": ""
+            },
+            {
+              "episode": 14,
+              "iframe_url": ""
+            },
+            {
+              "episode": 15,
+              "iframe_url": ""
+            },
+            {
+              "episode": 16,
+              "iframe_url": ""
+            },
+            {
+              "episode": 17,
+              "iframe_url": ""
+            },
+            {
+              "episode": 18,
+              "iframe_url": ""
+            },
+            {
+              "episode": 19,
+              "iframe_url": ""
+            },
+            {
+              "episode": 20,
+              "iframe_url": ""
+            },
+            {
+              "episode": 21,
+              "iframe_url": ""
+            },
+            {
+              "episode": 22,
+              "iframe_url": ""
+            },
+            {
+              "episode": 23,
+              "iframe_url": ""
+            },
+            {
+              "episode": 24,
+              "iframe_url": ""
+            },
+            {
+              "episode": 25,
+              "iframe_url": ""
+            },
+            {
+              "episode": 26,
+              "iframe_url": ""
+            }
+          ]
+        },
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 4,
+          "episodes": [
+            {
+              "episode": 0,
+              "iframe_url": ""
+            },
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            },
+            {
+              "episode": 9,
+              "iframe_url": ""
+            },
+            {
+              "episode": 10,
+              "iframe_url": ""
+            },
+            {
+              "episode": 11,
+              "iframe_url": ""
+            },
+            {
+              "episode": 12,
+              "iframe_url": ""
+            },
+            {
+              "episode": 13,
+              "iframe_url": ""
+            },
+            {
+              "episode": 14,
+              "iframe_url": ""
+            },
+            {
+              "episode": 15,
+              "iframe_url": ""
+            },
+            {
+              "episode": 16,
+              "iframe_url": ""
+            },
+            {
+              "episode": 17,
+              "iframe_url": ""
+            },
+            {
+              "episode": 18,
+              "iframe_url": ""
+            },
+            {
+              "episode": 19,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8598,
+      "name": "Бенджи",
+      "type": "film",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Benji",
+      "year": 2018,
+      "activate_time": "2019-05-14 11:49:24",
+      "imdb": "6.3",
+      "imdb_id": "1799516",
+      "kinopoisk": "6.5",
+      "kinopoisk_id": "831501",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/5/9/8/0/0/0/0/0/0/610x900_8598.jpg",
+      "genre": {
+        "25": "Криминал",
+        "33": "Семейный",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "39": "ОАЭ",
+        "1": "США"
+      },
+      "collection": {
+        "18": "Про животных"
+      }
+    },
+    {
+      "id": 8597,
+      "name": "Страшилки / Лос страшилкас",
+      "type": "series",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Los Espookys",
+      "year": 2019,
+      "activate_time": "2019-05-14 11:47:29",
+      "imdb": "7.5",
+      "imdb_id": "7721046",
+      "kinopoisk": "6.0",
+      "kinopoisk_id": "1172087",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/5/9/7/0/0/0/0/0/0/610x900_8597.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "97": "HBO"
+      },
+      "serial_status": "online",
+      "seasons": [
+        {
+          "poster": "https://img.imgilall.me/movies/season/5/6/9/1/0/0/0/0/0/0/610x900_5691.jpg",
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8596,
+      "name": "Фото на память",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Deadly Still",
+      "year": 2018,
+      "activate_time": "2019-05-14 11:43:26",
+      "imdb": "3.5",
+      "imdb_id": "8006426",
+      "kinopoisk": "3.8",
+      "kinopoisk_id": "1108400",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/5/9/6/0/0/0/0/0/0/610x900_8596.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "5": "Россия"
+      }
+    },
+    {
+      "id": 8591,
+      "name": "Я счастлив",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "I Am Happy",
+      "year": 2018,
+      "activate_time": "2019-05-14 11:28:00",
+      "imdb": "2.8",
+      "imdb_id": "6022564",
+      "kinopoisk": "4.4",
+      "kinopoisk_id": "957731",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/5/9/1/0/0/0/0/0/0/610x900_8591.jpg",
+      "genre": {
+        "22": "Русский",
+        "7": "Драма"
+      },
+      "country": {
+        "5": "Россия"
+      }
+    },
+    {
+      "id": 8590,
+      "name": "Секта",
+      "type": "series",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "",
+      "year": 2019,
+      "activate_time": "2019-05-14 11:27:56",
+      "imdb": "6.3",
+      "imdb_id": "10595264",
+      "kinopoisk": "6.3",
+      "kinopoisk_id": "1260090",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/5/9/0/0/0/0/0/0/0/610x900_8590.jpg",
+      "genre": {
+        "22": "Русский",
+        "13": "Триллер",
+        "7": "Драма"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "108": "ТНТ",
+        "29": "Психологические",
+        "21": "Для молодёжи"
+      },
+      "serial_status": "offline",
+      "seasons": [
+        {
+          "poster": "https://img.imgilall.me/movies/season/5/6/8/4/0/0/0/0/0/0/610x900_5684.jpg",
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8589,
+      "name": "Сага о чудовище. Сумерки",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "Wildling",
+      "year": 2018,
+      "activate_time": "2019-05-14 11:24:56",
+      "imdb": "5.5",
+      "imdb_id": "5085924",
+      "kinopoisk": "5.3",
+      "kinopoisk_id": "939579",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/5/8/9/0/0/0/0/0/0/610x900_8589.jpg",
+      "genre": {
+        "26": "Ужасы",
+        "6": "Фэнтези",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 8588,
+      "name": "Танки",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Tanki",
+      "year": 2019,
+      "activate_time": "2019-05-14 11:22:00",
+      "imdb": "4.8",
+      "imdb_id": "8396188",
+      "kinopoisk": "5.8",
+      "kinopoisk_id": "1046545",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/5/8/8/0/0/0/0/0/0/610x900_8588.jpg",
+      "genre": {
+        "9": "Приключения",
+        "32": "Военный",
+        "28": "Исторический",
+        "22": "Русский"
+      },
+      "country": {
+        "5": "Россия"
+      },
+      "collection": {
+        "83": "Про танки",
+        "69": "Про войну 1941-1945"
+      }
+    },
+    {
+      "id": 8587,
+      "name": "Аферисты поневоле",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "The Con Is On",
+      "year": 2018,
+      "activate_time": "2019-05-14 11:15:30",
+      "imdb": "4.0",
+      "imdb_id": "4685806",
+      "kinopoisk": "4.4",
+      "kinopoisk_id": "910069",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/5/8/7/0/0/0/0/0/0/610x900_8587.jpg",
+      "genre": {
+        "25": "Криминал",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США",
+        "2": "Великобритания"
+      }
+    },
+    {
       "id": 8585,
       "name": "Погоня за любовью",
       "type": "film",
@@ -17851,354 +18574,6 @@
       "collection": {
         "69": "Про войну 1941-1945",
         "39": "На реальных событиях"
-      }
-    },
-    {
-      "id": 8289,
-      "name": "Фаренгейт 9/11",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Fahrenheit 9/11",
-      "year": 2004,
-      "activate_time": "2019-05-02 10:08:22",
-      "imdb": "7.5",
-      "imdb_id": "0361596",
-      "kinopoisk": "7.7",
-      "kinopoisk_id": "22160",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/8/2/8/9/0/0/0/0/0/0/610x900_8289.jpg",
-      "genre": {
-        "54": "Документальный",
-        "32": "Военный",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "39": "На реальных событиях"
-      }
-    },
-    {
-      "id": 8288,
-      "name": "Храброе сердце Ирены Сендлер",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "The Courageous Heart of Irena Sendler",
-      "year": 2009,
-      "activate_time": "2019-05-02 10:02:36",
-      "imdb": "7.2",
-      "imdb_id": "1010278",
-      "kinopoisk": "7.7",
-      "kinopoisk_id": "432845",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/8/2/8/8/0/0/0/0/0/0/610x900_8288.jpg",
-      "genre": {
-        "32": "Военный",
-        "27": "Биографический",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "39": "На реальных событиях"
-      }
-    },
-    {
-      "id": 8287,
-      "name": "Контакт",
-      "type": "series",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Contact",
-      "year": 2015,
-      "activate_time": "2019-05-02 09:59:56",
-      "imdb": "7.4",
-      "imdb_id": "4832070",
-      "kinopoisk": null,
-      "kinopoisk_id": "952276",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/8/2/8/7/0/0/0/0/0/0/610x900_8287.jpg",
-      "genre": {
-        "25": "Криминал",
-        "11": "Фантастика",
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "9": "Франция"
-      },
-      "serial_status": "offline",
-      "seasons": [
-        {
-          "poster": "https://img.imgilall.me/movies/season/5/5/1/0/0/0/0/0/0/0/610x900_5510.jpg",
-          "iframe_url": "",
-          "season": 1,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            }
-          ]
-        },
-        {
-          "poster": "https://img.imgilall.me/movies/season/5/5/1/1/0/0/0/0/0/0/610x900_5511.jpg",
-          "iframe_url": "",
-          "season": 2,
-          "episodes": [
-            {
-              "episode": 1,
-              "iframe_url": ""
-            },
-            {
-              "episode": 2,
-              "iframe_url": ""
-            },
-            {
-              "episode": 3,
-              "iframe_url": ""
-            },
-            {
-              "episode": 4,
-              "iframe_url": ""
-            },
-            {
-              "episode": 5,
-              "iframe_url": ""
-            },
-            {
-              "episode": 6,
-              "iframe_url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 8286,
-      "name": "Отель Руанда",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Hotel Rwanda",
-      "year": 2004,
-      "activate_time": "2019-05-02 09:56:15",
-      "imdb": "8.1",
-      "imdb_id": "0395169",
-      "kinopoisk": "7.8",
-      "kinopoisk_id": "77859",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/8/2/8/6/0/0/0/0/0/0/610x900_8286.jpg",
-      "genre": {
-        "32": "Военный",
-        "28": "Исторический",
-        "27": "Биографический",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "2": "Великобритания",
-        "8": "Италия",
-        "27": "ЮАР"
-      },
-      "collection": {
-        "39": "На реальных событиях"
-      }
-    },
-    {
-      "id": 8285,
-      "name": "Холодная гора",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Cold Mountain",
-      "year": 2003,
-      "activate_time": "2019-05-02 09:51:40",
-      "imdb": "7.2",
-      "imdb_id": "0159365",
-      "kinopoisk": "7.9",
-      "kinopoisk_id": "1942",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/8/2/8/5/0/0/0/0/0/0/610x900_8285.jpg",
-      "genre": {
-        "9": "Приключения",
-        "32": "Военный",
-        "10": "Зарубежный",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 8284,
-      "name": "Суд над богом",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "God on Trial",
-      "year": 2008,
-      "activate_time": "2019-05-02 09:48:58",
-      "imdb": "7.7",
-      "imdb_id": "1173494",
-      "kinopoisk": "7.9",
-      "kinopoisk_id": "406306",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/8/2/8/4/0/0/0/0/0/0/610x900_8284.jpg",
-      "genre": {
-        "32": "Военный",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "2": "Великобритания"
-      }
-    },
-    {
-      "id": 8283,
-      "name": "Император Ашока",
-      "type": "film",
-      "age": "12+",
-      "quality": "SD",
-      "origin_name": "Asoka",
-      "year": 2001,
-      "activate_time": "2019-05-02 09:39:42",
-      "imdb": "6.5",
-      "imdb_id": "0249371",
-      "kinopoisk": "8.0",
-      "kinopoisk_id": "49541",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/8/2/8/3/0/0/0/0/0/0/610x900_8283.jpg",
-      "genre": {
-        "32": "Военный",
-        "28": "Исторический",
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "26": "Индия"
-      }
-    },
-    {
-      "id": 8282,
-      "name": "Нюрнбергский процесс",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "Judgment at Nuremberg",
-      "year": 1961,
-      "activate_time": "2019-05-02 09:27:03",
-      "imdb": "8.2",
-      "imdb_id": "0055031",
-      "kinopoisk": "8.2",
-      "kinopoisk_id": "13738",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/8/2/8/2/0/0/0/0/0/0/610x900_8282.jpg",
-      "genre": {
-        "32": "Военный",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "114": "Лауреат премии \"Оскар\""
-      }
-    },
-    {
-      "id": 8281,
-      "name": "Джонни взял ружье",
-      "type": "film",
-      "age": "16+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Johnny Got His Gun",
-      "year": 1971,
-      "activate_time": "2019-05-02 09:15:03",
-      "imdb": "7.9",
-      "imdb_id": "0067277",
-      "kinopoisk": "8.2",
-      "kinopoisk_id": "6271",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/8/2/8/1/0/0/0/0/0/0/610x900_8281.jpg",
-      "genre": {
-        "32": "Военный",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "33": "Экранизация книг"
-      }
-    },
-    {
-      "id": 8278,
-      "name": "Полтергейст",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Polterheist",
-      "year": 2018,
-      "activate_time": "2019-05-01 17:32:42",
-      "imdb": "4.2",
-      "imdb_id": "8262226",
-      "kinopoisk": null,
-      "kinopoisk_id": "1186565",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/8/2/7/8/0/0/0/0/0/0/610x900_8278.jpg",
-      "genre": {
-        "25": "Криминал",
-        "26": "Ужасы",
-        "19": "Комедия",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "2": "Великобритания"
       }
     }
   ]

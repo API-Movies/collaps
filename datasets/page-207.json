@@ -1,6 +1,338 @@
 {
   "results": [
     {
+      "id": 10699,
+      "name": "Ты умеешь хранить секреты?",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Can You Keep a Secret?",
+      "year": 2019,
+      "activate_time": "2019-09-05 11:57:00",
+      "imdb": "5.3",
+      "imdb_id": "8707922",
+      "kinopoisk": "5.9",
+      "kinopoisk_id": "1178301",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/6/9/9/0/0/0/0/0/610x900_10699.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 7601,
+      "name": "Политик",
+      "type": "series",
+      "age": "12+",
+      "quality": "FHD (1080p)",
+      "origin_name": "The Politician",
+      "year": 2019,
+      "activate_time": "2019-09-05 11:54:00",
+      "imdb": "7.5",
+      "imdb_id": "7971476",
+      "kinopoisk": "7.6",
+      "kinopoisk_id": "1114279",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/7/6/0/1/0/0/0/0/0/0/610x900_7601.jpg",
+      "genre": {
+        "38": "Мюзикл",
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "40": "Netflix"
+      },
+      "serial_status": "paused",
+      "seasons": [
+        {
+          "poster": "https://img.imgilall.me/movies/season/5/1/6/5/0/0/0/0/0/0/610x900_5165.jpg",
+          "iframe_url": "",
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            },
+            {
+              "episode": 8,
+              "iframe_url": ""
+            }
+          ]
+        },
+        {
+          "poster": null,
+          "iframe_url": "",
+          "season": 2,
+          "episodes": [
+            {
+              "episode": 1,
+              "iframe_url": ""
+            },
+            {
+              "episode": 2,
+              "iframe_url": ""
+            },
+            {
+              "episode": 3,
+              "iframe_url": ""
+            },
+            {
+              "episode": 4,
+              "iframe_url": ""
+            },
+            {
+              "episode": 5,
+              "iframe_url": ""
+            },
+            {
+              "episode": 6,
+              "iframe_url": ""
+            },
+            {
+              "episode": 7,
+              "iframe_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10716,
+      "name": "Магеллан",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Magellan",
+      "year": 2017,
+      "activate_time": "2019-09-05 11:53:00",
+      "imdb": "5.1",
+      "imdb_id": "5361488",
+      "kinopoisk": null,
+      "kinopoisk_id": "1006086",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/7/1/6/0/0/0/0/0/610x900_10716.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "24": "Детектив",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США",
+        "4": "Австралия"
+      }
+    },
+    {
+      "id": 8710,
+      "name": "Приключения Аладдина",
+      "type": "film",
+      "age": "12+",
+      "quality": "HD (720p)",
+      "origin_name": "Adventures of Aladdin",
+      "year": 2019,
+      "activate_time": "2019-09-05 11:53:00",
+      "imdb": "1.8",
+      "imdb_id": "9783778",
+      "kinopoisk": null,
+      "kinopoisk_id": "1236937",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/8/7/1/0/0/0/0/0/0/0/610x900_8710.jpg",
+      "genre": {
+        "9": "Приключения",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
+      "id": 10698,
+      "name": "Путь: Во все тяжкие. Фильм",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "El Camino: A Breaking Bad Movie",
+      "year": 2019,
+      "activate_time": "2019-09-05 11:51:00",
+      "imdb": "7.3",
+      "imdb_id": "9243946",
+      "kinopoisk": "7.2",
+      "kinopoisk_id": "1209193",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/6/9/8/0/0/0/0/0/610x900_10698.jpg",
+      "genre": {
+        "25": "Криминал",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "1": "США"
+      },
+      "collection": {
+        "12": "Для мужчин",
+        "40": "Netflix",
+        "14": "Для взрослых"
+      }
+    },
+    {
+      "id": 10731,
+      "name": "Райские холмы",
+      "type": "film",
+      "age": "16+",
+      "quality": "FHD (1080p)",
+      "origin_name": "Paradise Hills",
+      "year": 2019,
+      "activate_time": "2019-09-05 11:42:00",
+      "imdb": "5.4",
+      "imdb_id": "6127004",
+      "kinopoisk": "5.7",
+      "kinopoisk_id": "1097391",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": "",
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/7/3/1/0/0/0/0/0/610x900_10731.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "6": "Фэнтези",
+        "13": "Триллер",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "3": "Испания"
+      }
+    },
+    {
+      "id": 10738,
+      "name": "Сторонник / Нарковойна",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Believer",
+      "year": 2018,
+      "activate_time": "2019-09-05 11:38:00",
+      "imdb": "6.5",
+      "imdb_id": "7095654",
+      "kinopoisk": "6.6",
+      "kinopoisk_id": "1046546",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/7/3/8/0/0/0/0/0/610x900_10738.jpg",
+      "genre": {
+        "25": "Криминал",
+        "17": "Боевик",
+        "13": "Триллер",
+        "10": "Зарубежный",
+        "7": "Драма"
+      },
+      "country": {
+        "16": "Корея Южная"
+      }
+    },
+    {
+      "id": 10737,
+      "name": "Шанхайская крепость",
+      "type": "film",
+      "age": null,
+      "quality": "FHD (1080p)",
+      "origin_name": "Shang hai bao lei",
+      "year": 2019,
+      "activate_time": "2019-09-05 11:38:00",
+      "imdb": "4.3",
+      "imdb_id": "6628322",
+      "kinopoisk": "5.2",
+      "kinopoisk_id": "1048709",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/7/3/7/0/0/0/0/0/610x900_10737.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "17": "Боевик",
+        "10": "Зарубежный",
+        "8": "Мелодрама"
+      },
+      "country": {
+        "19": "Китай"
+      }
+    },
+    {
+      "id": 10725,
+      "name": "Юрген - жизнь продолжается",
+      "type": "film",
+      "age": null,
+      "quality": "HD (720p)",
+      "origin_name": "Jurgen - Heute wird gelebt",
+      "year": 2017,
+      "activate_time": "2019-09-05 11:31:00",
+      "imdb": "6.4",
+      "imdb_id": "6887148",
+      "kinopoisk": null,
+      "kinopoisk_id": "1048923",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/1/0/7/2/5/0/0/0/0/0/610x900_10725.jpg",
+      "genre": {
+        "19": "Комедия",
+        "10": "Зарубежный"
+      },
+      "country": {
+        "20": "Германия"
+      }
+    },
+    {
       "id": 10719,
       "name": "12 ребят, которые хотят умереть",
       "type": "film",
@@ -9751,264 +10083,6 @@
       },
       "country": {
         "1": "США"
-      }
-    },
-    {
-      "id": 10234,
-      "name": "Парк извращенцев",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Pervert Park",
-      "year": 2014,
-      "activate_time": "2019-08-23 15:12:00",
-      "imdb": "7.0",
-      "imdb_id": "4074304",
-      "kinopoisk": null,
-      "kinopoisk_id": "892324",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/2/3/4/0/0/0/0/0/610x900_10234.jpg",
-      "genre": {
-        "25": "Криминал",
-        "54": "Документальный",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "1": "США",
-        "25": "Дания",
-        "28": "Швеция"
-      }
-    },
-    {
-      "id": 10233,
-      "name": "Ковбой призрачного короба",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Ghostbox Cowboy",
-      "year": 2018,
-      "activate_time": "2019-08-23 15:12:00",
-      "imdb": "5.2",
-      "imdb_id": "7473036",
-      "kinopoisk": null,
-      "kinopoisk_id": "1061546",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/2/3/3/0/0/0/0/0/610x900_10233.jpg",
-      "genre": {
-        "25": "Криминал",
-        "9": "Приключения",
-        "19": "Комедия",
-        "17": "Боевик",
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США",
-        "19": "Китай"
-      }
-    },
-    {
-      "id": 10373,
-      "name": "Дева и Дас",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "Devadas",
-      "year": 2018,
-      "activate_time": "2019-08-23 15:11:00",
-      "imdb": "6.6",
-      "imdb_id": "8661814",
-      "kinopoisk": null,
-      "kinopoisk_id": "1170236",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/3/7/3/0/0/0/0/0/610x900_10373.jpg",
-      "genre": {
-        "19": "Комедия",
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "26": "Индия"
-      }
-    },
-    {
-      "id": 10372,
-      "name": "Надеюсь, в следующий раз ты сдохнешь",
-      "type": "film",
-      "age": null,
-      "quality": "HD (720p)",
-      "origin_name": "I Hope You'll Die Next Time",
-      "year": 2018,
-      "activate_time": "2019-08-23 15:10:00",
-      "imdb": "7.2",
-      "imdb_id": "8529512",
-      "kinopoisk": null,
-      "kinopoisk_id": null,
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/3/7/2/0/0/0/0/0/610x900_10372.jpg",
-      "genre": {
-        "13": "Триллер",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "32": "Венгрия"
-      }
-    },
-    {
-      "id": 10586,
-      "name": "В погоне за Эми",
-      "type": "film",
-      "age": "18+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Chasing Amy",
-      "year": 1997,
-      "activate_time": "2019-08-23 15:09:00",
-      "imdb": "7.2",
-      "imdb_id": "0118842",
-      "kinopoisk": "7.0",
-      "kinopoisk_id": "11017",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/5/8/6/0/0/0/0/0/610x900_10586.jpg",
-      "genre": {
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "8": "Мелодрама",
-        "7": "Драма"
-      },
-      "country": {
-        "1": "США"
-      }
-    },
-    {
-      "id": 10095,
-      "name": "Зачарованная",
-      "type": "film",
-      "age": "6+",
-      "quality": "FHD (1080p)",
-      "origin_name": "Enchanted",
-      "year": 2007,
-      "activate_time": "2019-08-23 15:07:00",
-      "imdb": "7.0",
-      "imdb_id": "0461770",
-      "kinopoisk": "7.0",
-      "kinopoisk_id": "106165",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/1/0/0/9/5/0/0/0/0/0/610x900_10095.jpg",
-      "genre": {
-        "6": "Фэнтези",
-        "38": "Мюзикл",
-        "33": "Семейный",
-        "19": "Комедия",
-        "10": "Зарубежный",
-        "8": "Мелодрама"
-      },
-      "country": {
-        "1": "США"
-      },
-      "collection": {
-        "37": "Disney"
-      }
-    },
-    {
-      "id": 9954,
-      "name": "Видение Бхарата",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Bharat Ane Nenu",
-      "year": 2018,
-      "activate_time": "2019-08-23 15:03:00",
-      "imdb": "7.7",
-      "imdb_id": "6980546",
-      "kinopoisk": null,
-      "kinopoisk_id": "1064032",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/9/9/5/4/0/0/0/0/0/0/610x900_9954.jpg",
-      "genre": {
-        "17": "Боевик",
-        "10": "Зарубежный",
-        "7": "Драма"
-      },
-      "country": {
-        "26": "Индия"
-      }
-    },
-    {
-      "id": 9970,
-      "name": "Амар Акбар Энтони",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Amar Akbar Anthony",
-      "year": 2018,
-      "activate_time": "2019-08-23 15:02:00",
-      "imdb": "4.3",
-      "imdb_id": "8107464",
-      "kinopoisk": null,
-      "kinopoisk_id": "1138179",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/9/9/7/0/0/0/0/0/0/0/610x900_9970.jpg",
-      "genre": {
-        "17": "Боевик",
-        "10": "Зарубежный"
-      },
-      "country": {
-        "26": "Индия"
-      }
-    },
-    {
-      "id": 9955,
-      "name": "Пришелец",
-      "type": "film",
-      "age": "12+",
-      "quality": "HD (720p)",
-      "origin_name": "",
-      "year": 2018,
-      "activate_time": "2019-08-23 15:02:00",
-      "imdb": "2.6",
-      "imdb_id": "2700194",
-      "kinopoisk": "4.3",
-      "kinopoisk_id": "1118067",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/9/9/5/5/0/0/0/0/0/0/610x900_9955.jpg",
-      "genre": {
-        "9": "Приключения",
-        "11": "Фантастика",
-        "22": "Русский",
-        "7": "Драма"
-      },
-      "country": {
-        "5": "Россия"
       }
     }
   ]

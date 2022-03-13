@@ -1,6 +1,31 @@
 {
   "results": [
     {
+      "id": 30169,
+      "name": "Подержанные автомобили",
+      "type": "film",
+      "age": "16+",
+      "quality": "HD (720p)",
+      "origin_name": "Used Cars",
+      "year": 1980,
+      "activate_time": "2020-07-18 09:37:00",
+      "imdb": "6.8",
+      "imdb_id": null,
+      "kinopoisk": "6.9",
+      "kinopoisk_id": "7118",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/3/0/1/6/9/0/0/0/0/0/610x900_30169.jpg",
+      "genre": {
+        "19": "Комедия"
+      },
+      "country": {
+        "1": "США"
+      }
+    },
+    {
       "id": 29510,
       "name": "Золотой мальчик",
       "type": "film",
@@ -5317,37 +5342,6 @@
       "country": {
         "9": "Франция",
         "29": "Бельгия"
-      }
-    },
-    {
-      "id": 28293,
-      "name": "Псы-воины",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Dog Soldiers",
-      "year": 2001,
-      "activate_time": "2020-07-18 07:29:00",
-      "imdb": "6.8",
-      "imdb_id": "0280609",
-      "kinopoisk": "6.7",
-      "kinopoisk_id": "654",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/2/8/2/9/3/0/0/0/0/0/610x900_28293.jpg",
-      "genre": {
-        "9": "Приключения",
-        "26": "Ужасы",
-        "6": "Фэнтези",
-        "17": "Боевик",
-        "13": "Триллер"
-      },
-      "country": {
-        "1": "США",
-        "2": "Великобритания",
-        "35": "Люксембург"
       }
     }
   ]

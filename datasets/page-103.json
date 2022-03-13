@@ -1,6 +1,34 @@
 {
   "results": [
     {
+      "id": 28850,
+      "name": "Город Зеро",
+      "type": "film",
+      "age": "18+",
+      "quality": "HD (720p)",
+      "origin_name": "",
+      "year": 1988,
+      "activate_time": "2020-07-18 11:57:00",
+      "imdb": "7.4",
+      "imdb_id": null,
+      "kinopoisk": "7.7",
+      "kinopoisk_id": "44574",
+      "world_art": null,
+      "world_art_id": null,
+      "iframe_url": "",
+      "trailer": null,
+      "poster": "https://img.imgilall.me/movies/franchise/2/8/8/5/0/0/0/0/0/0/610x900_28850.jpg",
+      "genre": {
+        "11": "Фантастика",
+        "24": "Детектив",
+        "19": "Комедия",
+        "7": "Драма"
+      },
+      "country": {
+        "24": "СССР"
+      }
+    },
+    {
       "id": 28363,
       "name": "Настройщик",
       "type": "film",
@@ -5282,31 +5310,6 @@
       },
       "country": {
         "24": "СССР"
-      }
-    },
-    {
-      "id": 30169,
-      "name": "Подержанные автомобили",
-      "type": "film",
-      "age": "16+",
-      "quality": "HD (720p)",
-      "origin_name": "Used Cars",
-      "year": 1980,
-      "activate_time": "2020-07-18 09:37:00",
-      "imdb": "6.8",
-      "imdb_id": null,
-      "kinopoisk": "6.9",
-      "kinopoisk_id": "7118",
-      "world_art": null,
-      "world_art_id": null,
-      "iframe_url": "",
-      "trailer": null,
-      "poster": "https://img.imgilall.me/movies/franchise/3/0/1/6/9/0/0/0/0/0/610x900_30169.jpg",
-      "genre": {
-        "19": "Комедия"
-      },
-      "country": {
-        "1": "США"
       }
     }
   ]
